@@ -8598,3 +8598,1218 @@ id,Project Name,Number of dependencies with vulnerabilities (Before),Number of d
 4,PeterHackz_brawl-server,1,0,4,0,0,0,3,0,1,0,0,0,maven,false,open source,63,6a752af8595ebee6ecf436e9108bb4cf37045066,improvement
 2,osandadeshan_rest-assured-codegen-test-project,0,0,0,0,0,0,0,0,0,0,0,0,maven,true,open source,45,6962de24eb7603bdfc8c031ddfcc1f87a69f5e4d,no improvement
 4,PeterHackz_brawl-server,1,0,4,0,0,0,3,0,1,0,0,0,maven,false,open source,61,6a752af8595ebee6ecf436e9108bb4cf37045066,improvement
+4,FrancescoXX_java-live-api,4,0,59,0,8,0,20,0,29,0,2,0,maven,false,open source,46,26a71c85f2b1c33c999bf86500689f4d776aadee,improvement
+5,JavatechWorld_JWTRoleBasedAuthentication,8,3,212,4,13,0,70,3,102,1,27,0,maven,false,open source,71,bae384996ec4ac3505cf4310912a462c89814bec,improvement
+7,NihatQuliyev_university-management-system-basic,1,0,1,0,0,0,0,0,0,0,1,0,maven,false,open source,51,ee5e760229c960561d20898de8d081e95e5ceb89,improvement
+6,danvega_ssc,6,2,94,2,11,0,32,2,47,0,4,0,maven,true,open source,85,d794ed68f7b4f101f7e7000c7b8387546d0388a1,improvement
+9,RishalCode_spring-boot-otp-gmail,5,0,62,0,10,0,19,0,32,0,1,0,maven,false,open source,92,fefc40db46099fcc8f6baded7e3b30a7426192ce,improvement
+10,alex-kosarev_spring-security-keycloak,4,1,101,1,10,0,34,1,50,0,7,0,maven,false,open source,61,6df26961d24e7a636d02f2446d636fefde22343c,improvement
+2,Java-Techie-jt_spring-batch-file-upload,6,6,156,90,12,12,64,30,76,47,4,1,maven,true,open source,498,e7e1ff55130e511854ad8d9cfe26852186be2e17,improvement
+8,BrkSe_spring-security-jwt-example,7,6,98,70,11,7,33,24,50,36,4,3,maven,true,open source,403,1d38e3ae1cc88a7e7dc020e4dd28f647dab49268,improvement
+15,mohamedYoussfi_end-toend-microservices-testing-part1,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,36,3c5132f12a4c8f8f63c22474fede7334348d51cc,no improvement
+11,FIAP_POSTECH_SOAT_DevOps_Desafio_Disciplina,3,3,97,97,6,6,44,44,41,41,6,6,maven,true,open source,463,7091194aa2de3ba8fe1a9b5ab1af4062733cf399,no improvement
+14,Recwayer_MongoPractice,4,3,55,26,9,5,19,10,26,11,1,0,maven,false,open source,226,7aa91bfc25ef24e3fde1b7a7f524752cbcb10a94,improvement
+19,VarshaDas_ReviseFlashcard,4,0,16,0,1,0,6,0,9,0,0,0,maven,true,open source,89,b96d5a609f0f826887ec4a8a4141099897fcf64d,improvement
+25,joshlong-attic_distributed-locking-with-spring-integration-locks,1,0,7,0,1,0,2,0,3,0,1,0,maven,true,open source,293,60da94753287626005e3904e9974ae0ba528c783,improvement
+21,marcosbarbero_spring-boot2-oauth2-opaque-token,6,3,873,318,29,18,242,126,470,144,132,30,maven,false,open source,891,ffc3e60c2068b1748cc3d56c1e87a54d2f0934df,improvement
+20,nature924_No297Web-fashion-shopping-system,13,10,252,167,13,10,100,67,110,75,29,15,maven,false,open source,1238,5befc6a6dde6afbec81748cf6cfb66e44af82bd3,improvement
+28,alprogor_swagger-demo,5,5,216,94,12,10,67,38,104,40,33,6,maven,true,open source,296,99ca0135e82af7727fcbd63284dff40c66130a7c,improvement
+30,OpenApi-5p_5paisa-java,3,0,11,0,0,0,6,0,2,0,3,0,maven,false,open source,69,75e4ab5f06d1cecced66b6c36c020a56943250bb,improvement
+31,g1335333249_jd-cloud-monitor,12,3,163,17,9,1,75,7,70,9,9,0,maven,false,open source,223,6c8be7658faeb15448733442b3d6ec92e806b419,improvement
+34,ali123321123_KafkaTutorial,1,0,63,0,0,0,6,0,42,0,15,0,maven,false,open source,48,dd880776c317e4e81f57b61b7c693d408b8bafc8,improvement
+37,0x7a66_daleks,14,0,170,0,17,0,83,0,68,0,2,0,maven,false,open source,152,2dd1289d54f07fd5cf8ada8a3e9c96ce61cbc8d6,improvement
+26,xj1430688054_jxt,13,10,304,253,16,13,110,87,146,123,32,30,maven,false,open source,1601,16e0a95fbac4f540428c6d6793ab0d6465b91280,improvement
+40,giteecode_takeawayPublic,9,7,169,55,11,8,75,23,73,22,10,2,maven,false,open source,264,75412cc92e16ee21683eb56a0ae4951e14746b35,improvement
+43,airscholar_ApacheFlink-SalesAnalytics,2,0,6,0,0,0,4,0,2,0,0,0,maven,false,open source,64,cd4f522a001eb018a251759428283043b9ad78e9,improvement
+39,Tony-Stark-Honor_Department-manage,6,5,93,66,8,6,42,28,39,30,4,2,maven,false,open source,606,ebb093c7209b29a7ff4ca12e54dc5e305bdc1cd4,improvement
+45,LostZX_confluence-exp,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,40,c7b8b516aa7441055f61e921758ba6e3563e040c,no improvement
+46,Fernanda-Kipper_spring-hello-world-docker,3,0,72,0,9,0,32,0,29,0,2,0,maven,true,open source,75,97c9d1f19d883f574be36037167b2ee628a733da,improvement
+49,himawari-san_Himawari,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,45,8ffaa9e36ab87a4ec98ed88397288fa91ab4f208,no improvement
+44,Asher404QQ_spring-security-v.3.1,6,6,76,76,9,9,27,27,36,36,4,4,maven,false,open source,309,f85f7ba479e9edf54ad032cd81252f0a8baa7dba,no improvement
+50,prasadus92_ecommerce-store,13,13,308,157,17,16,108,65,142,64,41,12,maven,true,open source,1192,cb05d8aa58eba5c68bbbcda254accf1e3513d616,improvement
+52,Naman-Bhalla_splitwiseJune22,7,1,131,1,12,0,58,1,55,0,6,0,maven,false,open source,115,064da5a22dc1b3a8e525ff62a0d977e2d5c13af7,improvement
+51,aarontiger_jinanspot-ga-t1400,15,8,265,162,17,12,119,71,105,66,24,13,maven,false,open source,1486,6a92ec4febd1805a438ae839a72258111bd0c221,improvement
+54,ashokitschool_contact_backend_app,7,6,194,75,13,8,60,31,95,33,26,3,maven,true,open source,407,2d23f18b15f4fda6c4cacf44b5199e544a1389c6,improvement
+69,teakivy_NoChatReports,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,72,7e97193388f9a204cdfa6c86e01e080451c6422f,no improvement
+70,ahmedfarag9_CI-CD-Pipeline-Jenkins-Odoo-Project,2,1,70,37,4,4,27,15,34,16,5,2,maven,false,open source,445,05abe78b73e59df6f8275f8bcf63f60752b662a5,improvement
+71,mdhachem_DeeplTranslatorAPI,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,37,a10717694740b60a63b028d308548401f4dbe298,no improvement
+60,Chave0v0_VulnDemo,10,9,266,196,15,16,114,85,114,83,23,12,maven,false,open source,912,b60be6d002bf131522c8ab76b13ff61e523d381a,improvement
+73,Quostyyy_nats-wrapper,1,1,1,1,0,0,1,1,0,0,0,0,maven,false,open source,66,14e20df40d77eeaa7602111cbab8d8e7a223f041,no improvement
+75,wodemaster-NJUSE_NJUSE-Server-side-development,8,1,79,8,14,0,28,5,36,3,1,0,maven,false,open source,90,0144508ceee4fef10915f5b713be701160931d45,improvement
+76,ahmetuygun_xa-demo,3,3,48,41,5,5,18,18,24,17,1,1,maven,true,open source,343,f000deb588473f5420a1891290199a73e469bf24,improvement
+72,HackyleShawe_RemoteLogViewer,7,5,228,179,15,11,103,79,94,75,16,14,maven,true,open source,679,981712d935593a154d9d57cabc82dbb858cee9d0,improvement
+85,hamzayilmaz2021_TayfaTestNG,4,1,48,6,6,1,22,4,19,1,1,0,maven,false,open source,108,01634d5e6a15799ba7a6b30791c57f3a94ce23e9,improvement
+88,Christian-Oette_demo-chat-app-sse-spring-boot,2,0,68,0,6,0,29,0,31,0,2,0,maven,false,open source,84,8df2b56586b1771147d3044f64915642362c6ae6,improvement
+92,anshriva_redis-web-sockets-chat,2,1,50,47,3,3,22,19,23,23,2,2,maven,false,open source,194,d0501f74e2ffed841fe018c162f756deebe3d6e7,improvement
+93,danvega_youtube-cli,2,1,38,4,5,2,13,1,20,1,0,0,maven,false,open source,128,f3c1cfd3d8f8aa7d7173f0637ab5058abf96f8f4,improvement
+86,ZYBSilence_tencent-cloud-im,10,6,174,121,11,9,79,56,74,49,10,7,maven,false,open source,695,f0fc7340d1db7ef6d59bf4c619c358e92e7baa45,improvement
+96,DengyangCycleLab_j2struct,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,46,3c7a32f5b71a948c2855d92f2129609c29acc128,no improvement
+97,qureshii_springboot-dataweave,2,0,46,0,6,0,15,0,24,0,1,0,maven,true,open source,124,2fcd016680f2df0793019de9d835a0655788883d,improvement
+99,advanced-security_monorepo-filtering-workaround,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,41,83f69819df41b9a046a568d5d7eaba9cff7bb51c,no improvement
+104,othorizon_AsyncRetryable,5,5,82,82,7,7,37,37,35,35,3,3,maven,true,open source,570,a63c3b9c6507507127c3e1d926035bd9d021b3c5,no improvement
+106,nahkd123_spigot-1.17,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,41,ee52782f2c2bbabc7343b068aea33327e4940f36,no improvement
+95,qiuChengleiy_springboot-es-all,6,4,86,70,5,3,55,44,23,22,3,1,maven,false,open source,1438,c3dc9213f0f73bffeb8344e91c67a4e20a052779,improvement
+111,huifurepo_bspay-java-sdk-parent,7,2,22,6,0,0,13,5,7,1,2,0,maven,false,open source,97,0e65643f729f81e62527c70827c761b41b7ba7b6,improvement
+115,natanaelsc_spring-boot-3-jwt-security,7,7,98,96,11,11,33,33,49,47,5,5,maven,false,open source,503,19fb97997adbfde9d19b16213b73e4d61ec368c8,improvement
+116,yuebo_autogpt-java,8,6,100,90,11,9,45,39,40,39,4,3,maven,false,open source,616,f9bbbc78e3a38940f8a6db9cec075db7896ecfbc,improvement
+117,abayramus_selenide-projem,1,0,12,0,1,0,8,0,1,0,2,0,maven,false,open source,65,3bdf9cbbb6086505597ebcb259dbd6af1a139f30,improvement
+114,Season0518_ParkingSystem,15,15,594,494,28,30,227,206,266,211,73,47,maven,true,open source,1509,c178a79984b751b31abfde1511d42119c1aa32c9,improvement
+121,ndancing_jedis-lock,4,1,62,4,5,1,27,2,27,1,3,0,maven,false,open source,250,db79158d4b98bd8131cc6dce1bc8312748b583a0,improvement
+120,ShierOJSystem_shieroj-backend-single,17,11,310,204,22,16,123,68,144,104,21,16,maven,false,open source,904,3138a7200fa90c6ae268b9a3e3156ecb8854aa96,improvement
+126,CodinGame_FallChallenge2024-SeleniaCity,3,3,32,32,0,0,11,11,20,20,1,1,maven,false,open source,53,d1cc8a14b1f43692f5ce52c17946ef9039d4cb0e,no improvement
+125,liangzaiz666_vul-app,11,10,100,65,15,13,42,32,37,17,6,3,maven,true,open source,312,5fb0dadf5678161b6768ad99843114d06271fda8,improvement
+128,CoderSJX_multi-agent-arch,6,5,38,30,9,7,16,12,13,11,0,0,maven,false,open source,800,77da7904d8330e54ecbb250460c742e46a31ad22,improvement
+134,passerbyYSQ_SpringBoot_Shiro_Jwt,10,6,535,157,18,11,156,61,250,69,111,16,maven,false,open source,690,87de599f7ce3723cd2585f8b9ed0c60733302c5a,improvement
+137,vincenzo-racca_spring-test,5,1,129,1,8,0,56,0,56,1,9,0,maven,false,open source,97,1391a9f70b9f495a0c34a17aaf71612cad2e62f5,improvement
+136,wushengran_UserBehaviorInJava,5,5,529,134,0,0,100,64,351,70,78,0,maven,false,open source,739,559644cc62d9a7cf5aad694847faba097ac36853,improvement
+140,Aaron-Akhtar_iDetection,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,38,6fa83f858d08ccd1c053a936cdcc5ffa27703a29,no improvement
+142,khvci_h2Database,6,0,112,0,11,0,50,0,49,0,2,0,maven,false,open source,93,08ac8133bcea60259243343f028de788f3c87143,improvement
+143,giuliana-bezerra_sb-transactions,4,1,73,1,7,0,31,0,35,1,0,0,maven,false,open source,80,d5e3bf38b2f0ae1268c6c0a74ff7879539a736e3,improvement
+139,ErfengV_ChessServer,9,8,169,103,11,11,78,44,70,45,10,3,maven,false,open source,767,75e8c278853c6b24890ccd94e5cb034cfdb5f210,improvement
+144,Tookdee88_spring-boot-outbox-pattern,11,1,520,2,41,0,217,2,239,0,23,0,maven,false,open source,614,451fed666fc5c0ce576ec6415aac87b7f6b14dfc,improvement
+146,lealceldeiro_springboot-multitenant-hibernate,1,0,1,0,0,0,0,0,1,0,0,0,maven,true,open source,271,98753cf5b87f6d0b105c5e165a94130547948fc4,improvement
+145,Floppir_auth,7,7,214,207,12,12,70,67,103,99,29,29,maven,true,open source,832,4856c8dd47ed9debd12a92041a49de078a763f71,improvement
+147,SimpleGraduationProjects_TouristAttractionsPlayManagementSystem,8,7,216,192,10,10,72,61,111,100,23,21,maven,false,open source,900,4dd45ee89b8671bb57f5459174790b174bc7b496,improvement
+149,paduandev_escalonar,0,0,0,0,0,0,0,0,0,0,0,0,maven,true,open source,47,7b60b40f5a693c3737d396947a02e3e10fb6ef26,no improvement
+152,minatisleeping_mathutil-junit5,0,0,0,0,0,0,0,0,0,0,0,0,maven,true,open source,56,ded96d816429114e7a2c7fef825efd6843efd744,no improvement
+153,Kww0k_Java-Banker,2,0,61,0,7,0,28,0,24,0,2,0,maven,false,open source,86,fcc44c9dc568ad81f2c5bda0f1d5bc76d28eaaf8,improvement
+155,gruemme_spring-boot-3-security-h2-example,4,2,59,45,5,4,22,18,30,21,2,2,maven,false,open source,254,29c7b9046045eeb80fe315e9e9efce62b4969ce0,improvement
+148,SimpleGraduationProjects_MovieTicketBookingAndPurchaseManagementSystem,10,9,301,280,15,15,105,98,148,136,33,31,maven,false,open source,1537,eb12658abd50d49a3432565c0274e1776725a0f9,improvement
+159,DJ-Raven_swing-animation-icon,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,50,cb54a9d5da96659c5410e551cb2b7094e908c184,no improvement
+165,Dragon1573_Multitask-Downloader,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,39,e1e496ac2d7ebe0cf6f1967ad82ca73745d56248,no improvement
+173,GitRowin_discord-auto-clicker,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,341,f928356efdebc3f6cbe551ec699e35ec99ad1bb9,no improvement
+175,dvddhln_quarkus-reactive-hibernate-graphql-crud,11,0,177,0,3,0,87,0,86,0,1,0,maven,true,open source,359,245ebdeed6cbdd9c550cd2692531c5c5c3cccb96,improvement
+172,yagmurbkarabiyik_HRMSProject,9,9,265,121,16,14,95,53,120,49,34,5,maven,false,open source,804,3904de0954cc21dc8a49d8110e85714aa0ad7269,improvement
+181,george_java-native-obfuscation-study,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,50,76ae062928de780f775454967b135710efddc181,no improvement
+183,saveen99_API-SpringBoot,5,5,60,60,9,9,17,17,29,29,5,5,maven,false,open source,297,6935d6560ba5ee24ae0fd76329693b9635556030,no improvement
+184,mohamedYoussfi_spring-angular-oauth2-keycloak,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,42,ac513ce310e690141136e924f3b6c3212b6ff0bb,no improvement
+186,bytesops_jProxy,6,1,21,4,0,0,18,4,3,0,0,0,maven,false,open source,103,07446fbc99fb892f56f62825c73ea5f931884b67,improvement
+179,cagribozdemir_CasgemBootcampProject,7,7,142,131,12,12,63,61,61,54,6,4,maven,false,open source,681,b51f79502c296ba268d67c6645ce39d97782d4dd,improvement
+195,javadog-net_springboot-wexin,5,2,111,79,8,6,49,31,47,36,7,6,maven,false,open source,374,44128cb62e7ba9d74e049acdc7cbd575add04f61,improvement
+196,oclkstudio_jms,3,0,142,0,9,0,63,0,60,0,10,0,maven,true,open source,101,8f3dc5552ddc99ddde69c353e23a29cc5f3937c0,improvement
+197,redtimmy_SerialTweaker,1,0,1,0,0,0,0,0,1,0,0,0,maven,false,open source,62,d54b4b39878f478f61ad7bc90647fd245aee8451,improvement
+199,watermoonlx_sql-analyzer,1,1,2,2,0,0,2,2,0,0,0,0,maven,false,open source,82,2c760752b324b05c9fd28e33999ff4576d82bda4,no improvement
+201,niceyoo_redis-redlock,8,6,229,149,8,8,81,66,115,66,25,9,maven,false,open source,980,d39ed8bdcfe31344b1e3941e454262dc9d93b20b,improvement
+198,2much2learn_article-aug31-reactive-crud-rest-api-using-spring-boot-spring-data-r2dbc,11,9,228,185,14,11,109,87,90,73,15,14,maven,true,open source,1295,bc85ac308f3eca9b9f4a88826dbddde91f2af84a,improvement
+205,journeyCNV_DcpACpTool-CN,2,0,3,0,0,0,2,0,1,0,0,0,maven,false,open source,52,5bfb241bd35de2608b32bdc32559e77e7fb0ca7d,improvement
+208,qianzhou-stu_OASystem,13,3,302,73,11,2,99,30,137,27,55,14,maven,true,open source,113,98d0255b2b0f2a1b6e3e6855989a367e5431820d,improvement
+210,morganzee_Selenium-Handles_Web_tables_AND_Verify_Web_links-,1,0,7,0,1,0,5,0,0,0,1,0,maven,false,open source,63,4a0cad812388396e3a07ff59031230bbaaa12d27,improvement
+203,jcustenborder_kafka-config-provider-vault,6,4,65,52,5,4,33,27,25,21,2,0,maven,false,open source,461,b3ce4772714655bb64e6460ecc8db37959f30565,improvement
+212,lowes_mm2-lag-exporter,7,2,152,38,11,3,65,18,69,15,7,2,maven,true,open source,419,2fced4e16b487c0d6ff2a2c3af9dd154306b3d79,improvement
+213,Yarhanry_RSA_Signature,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,56,73103dd8ae43f30f320fd00255bee17a98a3b729,no improvement
+211,villamizardev_svc-clients,7,6,141,121,12,10,62,53,61,52,6,6,maven,false,open source,528,65edc3f51d8ee9aef0ee6635587a865a5201897c,improvement
+214,raviyasas_chatgpt-service,3,0,52,0,7,0,18,0,26,0,1,0,maven,true,open source,86,fd07cf7b4335e643d66a269146e7d5b12257a1c8,improvement
+216,ylca0_mc_serversAllow,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,51,073f64c7dfd135fa3551756454d9f85bc741f854,no improvement
+217,wsliliang_sse-springboot-demo,4,0,143,0,9,0,64,0,60,0,10,0,maven,true,open source,111,e45197495956a86549a4c79d52884d714b6ddea6,improvement
+215,NihatQuliyev_first-spring-project-crud,8,5,71,47,11,8,21,15,37,23,2,1,maven,false,open source,328,2872c9832be4772864a2249770059b052bc3a8be,improvement
+218,buingoctruong_springboot3-elasticsearch8,6,4,68,47,10,8,22,17,34,20,2,2,maven,false,open source,316,b814350db55fa806a47a26eba30906f6df6ea36a,improvement
+220,minatisleeping_movieist,4,4,46,46,10,10,15,15,20,20,1,1,maven,false,open source,289,7eac0dcb13b39c870b3bd854d7491eb800accf0a,no improvement
+223,yelochick_plugin-activation,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,50,f55a18c8a0b5a0088d3f935ff628b8928c8685b9,no improvement
+222,macrozheng_mall-swarm-arch,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,145,feefac5c48d8013083aea9a0a0a802c13a86c283,no improvement
+224,ahmedtiba1993_payment-flouci-tunisia,3,1,31,3,9,0,11,2,10,1,1,0,maven,true,open source,107,555f0910577aa8ca57770538668f7212554ce013,improvement
+225,YunusEmreNalbant_spring-boot-jwt-redis,8,5,60,41,16,10,26,19,15,10,3,2,maven,false,open source,214,3c3f0ba3bd3c3c184aa8f8004422e48e3091c748,improvement
+228,oinone_oinone-backend-starter,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,276,2c066b7e4f9dd4bd4d6bb3d975695c4f30e2336f,no improvement
+231,momobaiduren_easyexcel-component,5,5,143,50,8,6,61,22,64,19,10,3,maven,true,open source,242,e5ee646fad87d2efef3f651b50e70ea42984cd00,improvement
+233,hkakutalua_spring-patch-updates,5,4,207,113,10,7,71,52,98,47,28,7,maven,true,open source,605,6bf35722f46528423fb5d39af5acc0dd9af0b029,improvement
+235,liuhongdi_apiversion,2,0,90,0,6,0,40,0,38,0,6,0,maven,true,open source,87,fe9756269e6df5c44d87d1d099cef7fdbb373ba3,improvement
+234,liuhongdi_ratelimiter,8,7,240,229,12,12,82,77,115,110,31,30,maven,true,open source,1622,7efa3c85e233cc70600fd82953423734f0f4788b,improvement
+237,hpfxd_Polar,2,0,5,0,1,0,2,0,2,0,0,0,maven,false,open source,84,c0c1c84c8b709acaafaa20d40f6a88f3b1e92a78,improvement
+236,LLLLimbo_casbin-auth-server,13,10,372,330,21,19,165,152,159,138,27,21,maven,false,open source,1650,ae52427bd7fe3570be7a7315721c3503ad6a89d0,improvement
+239,xuhyacinth_MusicPlayer,1,1,2,1,0,0,1,1,1,0,0,0,maven,false,open source,60,110895b1f1773e53fde51404ed5e55dfc337cc05,improvement
+238,arjungautam1_AWS_Image_Upload,4,2,196,147,6,6,51,42,110,80,29,19,maven,true,open source,812,cdc82375471494f89c2c5c2fedb945b1782f6ed4,improvement
+240,jweny_cve-2022-22980,4,1,100,5,9,1,44,3,42,1,5,0,maven,false,open source,287,21a56ad517222090fc501523d03ced7a03d709f8,improvement
+241,Bhakti-satalkar_junit-selenium-emulate-network-speed-se4,3,2,10,9,1,1,7,7,1,0,1,1,maven,true,open source,348,2f6c0ce21602afb43d9ca1769ed2016d1a3285bb,improvement
+242,sanyou3_spring-extension,2,2,29,17,2,2,14,9,12,6,1,0,maven,false,open source,310,94e4740c9f311d35f7ef2dd9adc9bf43d3a5a8fd,improvement
+245,BabakBazghale_spring-boot-mongodb-graphql,10,7,325,286,12,8,98,79,158,147,57,52,maven,false,open source,497,4c50b596b486a75eabb2bafd4cf76265518340e7,improvement
+252,Andresariz88_BasicWebAppServer,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,39,ba5f23870c43057ac47af4613509ac7246fed9e8,no improvement
+255,StevenBuglione_spring-boot-2-snakeyaml2-upgrade,2,0,64,0,6,0,29,0,27,0,2,0,maven,true,open source,88,29f3d24494639ab24864cb1f71eb82bcfaccacc9,improvement
+253,amigoscode_group-project-e-banking-suite,11,9,118,111,14,14,39,38,60,54,5,5,maven,false,open source,703,4ed3aa20834080b48130ad4e5f61cbba2796aa20,improvement
+256,mohamedYoussfi_micro-service-client-soap-rest-graphql-grpc,11,8,204,159,23,19,75,60,103,79,3,1,maven,true,open source,616,94cee405e05e595358bca76f9b6fec22536a7c87,improvement
+260,kanezi_postgres-fts,5,0,59,0,11,0,19,0,27,0,2,0,maven,false,open source,96,c5414dd07c75dcb6609a8302553d93d07713f5cf,improvement
+262,ThomasJay_SpringBoot-OpenAI-Assistant,2,1,39,29,7,4,12,9,19,15,1,1,maven,true,open source,171,0b42e543f0315de7909be9fb6e12ef80cd19c72f,improvement
+258,zhiyongzhao_ChatGPT-JueJin-Java,11,7,114,92,12,12,37,31,62,47,3,2,maven,true,open source,488,0b0d043034a7d31226f83154c7e979b0bd3f3d4b,improvement
+264,kale1st_Keycloak_Spring_Boot_Application,5,3,79,3,12,0,29,3,34,0,4,0,maven,true,open source,91,68bd79abfa97aa89af227e2119ec1c476df08159,improvement
+265,minatisleeping_JobListing-SpringMongoDB,5,5,215,111,12,10,68,52,103,44,32,5,maven,false,open source,431,04deac007100fec63d4a6a76b706cc47ef835629,improvement
+267,NingNing0111_vector-database-demo,3,4,37,40,9,10,14,15,13,14,1,1,maven,false,open source,381,888c3c9572e9b6b71fa913daa5a0694a517a6fa5,no improvement
+268,KirillKARLSON_SpringSecurity-6-Authorization-and-Authentication,6,6,59,59,12,12,22,22,22,22,3,3,maven,false,open source,260,63634d8c48ec1283d197057818e2a1416b22c8b2,no improvement
+271,Lordsatanthenuker_DiscordUniverse,8,8,55,51,15,14,19,17,20,19,1,1,maven,false,open source,525,10f2fa444d4255629a017c9e6fe53ed3204016c7,improvement
+266,giteecode_cummunityestatePublic,15,10,407,175,19,13,156,68,179,77,53,17,maven,false,open source,1993,2fb2e4d0faed684b5fe54173353ac1facf7484c5,improvement
+276,pankajmutha14_git-docker-example,2,0,10,0,4,0,3,0,3,0,0,0,maven,true,open source,85,a06fc7b40008b4f9220617c8dd9f279d652220f4,improvement
+277,dursunkoc_flink-kafka-sample,7,5,61,31,0,0,20,15,35,13,6,3,maven,false,open source,120,07f29ab76a3102ac9b3272746fb5a2242051ca54,improvement
+281,huzhiting0628_sign-in-apple,6,3,171,126,7,3,51,31,85,64,28,28,maven,true,open source,395,d7081a37ad9136b1ae021028744066c1160a542f,improvement
+282,kiwi4814_camunda-bpmn-api,16,10,335,177,18,15,119,76,156,72,42,14,maven,false,open source,964,4c1c8e06821df004486c42f3a63d9db6ce3d3686,improvement
+280,hz656765117_itemBankManagement,16,15,411,229,16,16,135,87,179,90,81,36,maven,false,open source,1380,594a9c41eff620f3e6c118c8929de90a53f1d589,improvement
+283,OusamaELIDRISSI_upload-files-database,5,1,138,1,9,0,62,0,59,1,8,0,maven,false,open source,105,841d47a71bf52db738102180976c3806d4483d53,improvement
+285,KeepCodeClean_oauth2-social-jwt,9,9,287,287,13,13,104,104,126,126,44,44,maven,true,open source,1177,52e78a4db4fbe012b6170b32819b1425ac30e115,no improvement
+288,codedecode25_global-exception-handling,3,1,94,1,5,0,40,0,43,1,6,0,maven,false,open source,94,bfb0ce6885c3fa82c131a260b03f571c535bbf74,improvement
+289,cuhk-seclab_Revealer,2,1,5,1,0,0,2,1,2,0,1,0,maven,false,open source,91,82cafe10de0cdb31080bc396b6c0785e4a8464b6,improvement
+291,idealista_code-review-challenge,1,0,119,0,3,0,29,0,69,0,18,0,maven,true,open source,68,c1277c1a30fe6a1e99954a7829c33d2835320bab,improvement
+293,ThinkOnceCodeAnywhere_Temporal_SpringBoot,3,2,107,60,7,3,43,24,50,28,7,5,maven,false,open source,303,011441cef1935cf10b1ae4ece27005dd8b99f3ed,improvement
+296,Bhakti-satalkar_junit-selenium-scroll-handling,3,2,5,4,1,1,3,3,1,0,0,0,maven,true,open source,225,ab84ed05eab25e03461291f0a571114ebf71eb5e,improvement
+297,Bhakti-satalkar_junit-selenium-incognito-mode,3,2,5,4,1,1,3,3,1,0,0,0,maven,true,open source,217,e68e2fe317f82ec2dde136f399a134eb85ea6623,improvement
+298,luoyingbin_PBFT-consensus,4,4,107,106,6,6,47,47,47,46,7,7,maven,false,open source,505,df03d0451e6ada5d9109a0188699426cf078aef8,improvement
+300,ouyangxiaobai_-lj-,9,5,626,158,10,7,191,44,293,76,132,31,maven,false,open source,637,c8549eaf41d2223d5c3bc794021eb13bd201c62f,improvement
+302,santiagobaronz_Alquiler-de-vehiculos,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,39,7126e158f0434bb75a01ab99dc34a2226c63d917,no improvement
+304,khvci_bCryptPasswordEncoderDemo,4,2,76,2,7,0,33,2,29,0,7,0,maven,false,open source,86,e17dfdc95372da92baac915834643234b98e4481,improvement
+306,danvega_dc-demo,1,0,1,0,0,0,0,0,0,0,1,0,maven,false,open source,194,580f36edaf3b9bfb23ba8e9e12f15bf696cb29d3,improvement
+307,danvega_scf-17,4,4,73,73,10,10,20,20,39,39,4,4,maven,true,open source,219,84235f2ca52268a4eda2baacc314b53c01bc9b2b,no improvement
+308,dailycodework_spring-security-user-role-management-with-spring-boot,6,4,87,70,10,7,29,25,45,35,3,3,maven,false,open source,314,18f04bb44727f7533b143183ef7825445cb46f83,improvement
+309,LahiruHarshana_Connect-Four-Game-OOP,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,306,6a383633509862a20f6a6cf02d90ed7542a0917d,no improvement
+310,Okafor-Samuel_DatabaseFileReading,1,0,2,0,0,0,0,0,2,0,0,0,maven,false,open source,61,c66d93528d6c5636f2a1c7486525c1dee2b56a26,improvement
+311,Okafor-Samuel_SampleServlet,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,51,ad2fe28c2a8c09d0eed236a0db1d96240ffe245c,no improvement
+312,danvega_observability,0,1,0,1,0,0,0,1,0,0,0,0,maven,false,open source,244,f6caff9f5a6a38f6eb92a4b53b6524598f287173,no improvement
+313,giteecode_hotelPublic,19,16,363,309,19,15,122,102,177,150,45,42,maven,false,open source,1468,05e846a92e086e160f267827b77f9242694aa61a,improvement
+315,mtamas7_spring-boot-3.2-authentication-openapi-archetype,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,44,7ec08aadd2c32fc8f010ad34e54e4c55f325a512,no improvement
+319,super-devninja_google-calendar-api,6,1,19,9,6,1,11,6,2,2,0,0,maven,false,open source,217,21a06d743035c99682ace1c8d66e7f7cb6997728,improvement
+320,azamat-hakimov_twitter_clone,8,7,24,20,8,7,5,5,11,8,0,0,maven,false,open source,128,aab42dfb27bc609538b7729f2db06e5a6805caed,improvement
+321,mojocn_springboot2app,7,7,316,316,12,12,91,91,166,166,47,47,maven,false,open source,1038,083a3fd0d01650320c31a65cef97595440057c1a,no improvement
+323,qfjiaoyan_elasticsearch-examples,5,4,210,161,7,2,80,52,96,81,27,26,maven,false,open source,1243,49900fa1d81966f532a2d6f4fbb3a03434079242,improvement
+324,xdevplatform_twitter-alexa-skill-apl,3,0,55,0,1,0,5,0,42,0,7,0,maven,false,open source,69,e9cc7b9bad8df50c6b29b9073f5ae2e48631d7f7,improvement
+325,fzdwx_Aircraft_war-Java,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,39,105dd6ea9a2485d17a5b7fb9a7dd3353fcde8c47,no improvement
+326,GL3-2021-2020_JEE-TP3,1,1,7,1,0,0,1,0,6,1,0,0,maven,false,open source,51,52860bfb16fa22a8d2a1befd16b0f0a7a58ab892,improvement
+327,ar00n_velocitylobbyplugin,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,185,f8594cc66d779cfd0f11973f688ead4ce9f8c255,no improvement
+328,sahrul6121_boiler-plate-spring-boot,14,9,366,150,22,14,144,72,157,59,43,5,maven,true,open source,587,b981a0d6c0d2901a2e0f9bc9e67a22a7e4dba44d,improvement
+329,NikolasRummel_ChatGPTBot,1,0,2,0,0,0,0,0,2,0,0,0,maven,false,open source,64,707a12d7174f0b884e806bc960b598e9e002a5f9,improvement
+330,sdeleuze_demo-profile-aot,2,0,21,0,5,0,5,0,11,0,0,0,maven,true,open source,86,f58b838f24787419de9a41e22d5e8af17822c10d,improvement
+331,yasinsametkaraca_social-media-app,8,4,169,102,12,4,41,18,93,59,23,21,maven,false,open source,284,4a226fb9a4f6ba50d3d2c4d60e3e8aa82ad2ca95,improvement
+332,gurkaybirinci_Batch171JavaAdvancedPracticeDT,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,40,9f89abb5c9d7862477018b6a99e1bf984002221d,no improvement
+333,mnesimiyilmaz_sql4json,0,0,0,0,0,0,0,0,0,0,0,0,maven,true,open source,65,355504f7ea88b4e2850459f3191eaec74fcab4c4,no improvement
+334,SeanPesce_CVE-2024-22243,3,0,47,0,8,0,19,0,19,0,1,0,maven,false,open source,81,ccb8d45d4dff9e35b259ad27a1747633c647a5f1,improvement
+335,AutoTicketBilibili_MossCheckTicket,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,39,aed7b8de0131a39b070756b4dc03be4d76d2bc18,no improvement
+340,kosprov_http-echo-server,2,2,22,2,6,0,12,2,4,0,0,0,maven,false,open source,98,0dba6bba7f0af1b5c80c3807db54b5cc6ea097e4,improvement
+341,miaotaizi_squirrel-in-springboot,7,7,188,182,12,12,82,81,80,78,14,11,maven,true,open source,896,7bdbbc1c96acbf93c8cabbb002aea407811dc857,improvement
+344,yunhua-lee_queue-demo,2,2,32,9,1,0,13,6,8,3,10,0,maven,false,open source,74,26f5accd57f17db058f5e1fd7390cf1ae3b0242d,improvement
+345,mohsenamjadi_Bitcoin-Wallet-App-Java-Implementation-with-BitcoinJ,9,9,322,319,14,14,94,93,164,162,50,50,maven,false,open source,1412,a35db5646f911fc1f49d16faf88bbd9fa5e749db,improvement
+346,ozmenab_java_backend_employee,15,9,348,168,22,11,130,75,161,70,35,12,maven,false,open source,573,22e89e4cd6c9629fd962f3b52d4e83be2c4d06a8,improvement
+347,wpf008_aptos4j,2,0,9,0,0,0,3,0,6,0,0,0,maven,false,open source,53,b8696a139e83a150c4f0db23fe9ff9ece42c1945,improvement
+349,wapkch_spring-authorization-server-demo,12,9,130,103,15,12,48,36,59,49,8,6,maven,false,open source,557,5b40f65ccf57673ba6a9d6c7ad40795492154421,improvement
+352,NinjaDevOps0831_jenkins-devops-microservice,11,11,243,243,11,11,85,85,114,114,33,33,maven,true,open source,2941,cca170563f3ddb199d8a9ee808595bd1190a9f1d,no improvement
+353,kisshotlirs_Intelligent-Bi,18,15,432,291,26,24,162,114,207,134,37,19,maven,false,open source,1312,6fcb5fc881317bbeec58ec15f088d40b7515464a,improvement
+358,VaradM-17_Spring_CRUD_HibernateMethods,6,0,29,0,11,0,7,0,10,0,1,0,maven,false,open source,83,2c64cc47b1027db24977610930b0021ff8351458,improvement
+359,littlecool857_OracleDDLMaker,3,0,8,0,0,0,4,0,3,0,1,0,maven,false,open source,74,d051af58c4c7e069831b66272b2937309bd5017c,improvement
+360,claytonfraga_projecttreeMDI,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,41,4107bce835397fafe041778251aa2da95b476ab1,no improvement
+362,micycle1_processing-skia,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,72,4e9f219233f4a34425294c91dc6887b249c2f49d,no improvement
+363,michaelliao_crypto-tele-bot,2,0,15,0,1,0,6,0,8,0,0,0,maven,false,open source,55,5cac5072309e1f889ce0860dda3732bc5c03e95d,improvement
+365,forcedotcom_CRMA-dataset-creator,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,35,0576ad0a8f9ddb4a0b32a4e7414d687bbeb2583a,no improvement
+370,RunPiBoss_shymall_musical-instrument,9,8,401,362,11,10,140,121,177,160,73,71,maven,false,open source,1511,40344d6b637a4d800dbf0af589c7c81fa16d294c,improvement
+371,supoman-service_Amazon-SP-API-JAVA,14,5,31,14,2,0,17,7,10,7,2,0,maven,false,open source,413,56f02aa603811006735f7bd255b9a90f5fb98ebf,improvement
+372,chrissalerno_jmolecules-ddd-demo,6,2,26,10,8,2,9,5,9,3,0,0,maven,false,open source,90,f81a35ba9528b8d1fb0cc1ee72b7551230e1303c,improvement
+373,sophea_springboot-aws-secret-manager,5,3,169,50,10,7,76,16,73,25,10,2,maven,false,open source,200,a039f2b53c87e0d55fbdbae865c20641e2816e3e,improvement
+375,pawelpluta_oop-kata,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,33,9da6e22c9a4b9a7e268a5b9b84234c1746374b18,no improvement
+376,oy-paddy_luckysheet_demo,8,7,134,130,8,8,59,59,53,51,14,12,maven,true,open source,664,6663dcd3229b78e13d976bf44549afd7e2ab796c,improvement
+378,binhuang01_FeiShu-Notification,1,1,2,1,0,0,1,1,1,0,0,0,maven,false,open source,563,d11c05ac859989b43cdaa11cff2b76a0428b0b6a,improvement
+379,ani1100_MovieTicketBooking,10,6,138,66,12,6,57,28,61,27,8,5,maven,true,open source,456,42e861f3156ca466dfedb3db67372c347c1deee1,improvement
+381,obiscr_openai-auth,1,0,6,0,0,0,0,0,4,0,2,0,maven,false,open source,48,0d88508c0b53ffffdaf737f2b0ff47c742de5f20,improvement
+382,kalpanag04_ResumeBuilder,7,5,161,113,14,12,74,50,67,46,6,5,maven,false,open source,474,7fd8069d424b91d479adb3f7c0ec1a021669a8bb,improvement
+384,raffoulRicardo_movimento-qa-2023,5,0,106,0,9,0,41,0,51,0,5,0,maven,true,open source,106,70508b62689e7ddf2fe8534ab34fc20c1b520d8b,improvement
+386,ashokitschool_ies_admin_api,11,10,261,121,21,14,91,46,119,55,30,6,maven,false,open source,523,0607822107ea561bd40fee8ab683c7db43176706,improvement
+387,FIAP_POSTECH_JAVA_PROGRAMACAO_REATIVA,2,0,32,0,4,0,13,0,14,0,1,0,maven,true,open source,63,d5a98ea310ca2df39f824d88c50ff5fb81cf74e8,improvement
+388,bhaveshS009_Selenium-Java-TestNG-Complete-Framework,2,1,24,6,2,1,14,4,7,1,1,0,maven,false,open source,63,a6c684ce8c655b654e8ac17ac6f8cb5a8e3b3f2e,improvement
+389,a1173197570_smart-parking-management,18,15,320,278,17,17,134,120,136,119,33,22,maven,false,open source,3258,84215f1c5d0e3de4e280e17338d2fb525e65a9c2,improvement
+390,Chathupachamika_Clothify_Store-app,2,0,6,0,2,0,2,0,2,0,0,0,maven,false,open source,526,f8f2a3d4c9c32d13f6eb848103ef626b6d7d5e08,improvement
+393,dsibilio_spring-cloud-stream-custom-binder,1,3,32,194,3,8,16,48,12,108,1,30,maven,true,open source,1155,0958ca243afd7b386871442ed1dfcc306852b7a8,no improvement
+394,kingkaki_bytecode-facade,1,0,3,0,0,0,2,0,1,0,0,0,maven,false,open source,43,675e185200e6aa6d14f1377b43028f8e40e49551,improvement
+398,leeshuaichao_hive_functions,1,1,178,46,7,7,45,25,89,12,37,2,maven,false,open source,125,60badb4b0e282c5efbdb295d10977b1de23cfaf5,improvement
+399,kailasneupane_tuf-controller,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,36,909cc6dae2c6373fba161c6502e93fae58cbf657,no improvement
+401,ynwynw_mall-public,9,8,405,370,11,10,142,124,179,165,73,71,maven,false,open source,1390,be266059631e3263b6a0bc8c9126bae7decbc7ea,improvement
+402,sumanentc_spring-boot-with-wiremock,3,3,94,89,7,7,40,39,44,40,3,3,maven,false,open source,254,4a5b4f9414c24ddd81cacb22433375a432e61dfb,improvement
+403,CDSecLab_XorMM,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,33,441a8e1d198f63ca2323247f0fb1781f3c98a927,no improvement
+405,jdmesalosada_serenitybdd-appium-poc,6,0,159,0,6,0,106,0,37,0,10,0,maven,false,open source,140,6b2093f43bdaff9b52c5b10fb425514324a0764b,improvement
+406,Cumulocity-IoT_cumulocity-clients-java-v2,2,0,8,0,1,0,2,0,5,0,0,0,maven,false,open source,61,4bc8e90e814c019198cc45f522541ce4fcfff6d9,improvement
+407,phazon0_NCP-Testing-Plugin,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,57,02871fabe4fa071de89020a3874ff4c41cea4298,no improvement
+409,qiuChengleiy_springboot-kafka-all,5,4,168,165,7,7,52,52,87,86,22,20,maven,false,open source,590,1c25a86ba995fd905ac96efffad614e821fedc2b,improvement
+415,serge-ponomarenko_fb2kindle,2,1,3,1,0,0,0,0,3,1,0,0,maven,false,open source,83,2eea879878a9df5daceab4042009e424d6f34230,improvement
+417,teamlead_java-maven-sonatype-starter,0,0,0,0,0,0,0,0,0,0,0,0,maven,true,open source,36,33fd49220ddc372a05a08acaa40dfa2545a76e8f,no improvement
+418,DJ-Raven_flatlaf-dashboard-001,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,38,2fff71d8201da3471e322e33785b115184d5925b,no improvement
+419,hanhuoer_maa-framework-java-sample,2,2,25,25,7,7,9,9,8,8,1,1,maven,false,open source,119,ee19cb7ecfe17525f4dc241c30f5dc3307f9ca3e,no improvement
+421,17Yuns_Translate_Api_Free,2,1,19,13,7,4,5,4,6,4,1,1,maven,true,open source,95,7e00d2f12c009c6df987f6d6a0da70b523939c4a,improvement
+422,kioyong_mysql-mcp-server-java,2,2,3,3,1,1,0,0,2,2,0,0,maven,false,open source,589,6cfca5cf28d12cf8b92311d5498de64cab97af61,no improvement
+424,NybbleHub_Bluekeep-Detection-Rule,7,4,61,41,1,1,27,23,27,14,6,3,maven,false,open source,108,9c5164c98b5e743f71847f824d95f2675a980295,improvement
+426,oclkstudio_jpa-hibernate,5,1,154,1,9,0,68,0,67,1,10,0,maven,false,open source,84,ca5e666bd37b1283f48b122691b072569bd89670,improvement
+431,devopsbox-io_example-cdk-from-lambda,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,118,b7c2810867e1462a0a91f92426c9969c5137d84e,no improvement
+433,devsuperior_aula-20210511,4,0,118,0,8,0,52,0,49,0,9,0,maven,true,open source,91,46e9749de15a0b7881d3858f19620fd8e262604c,improvement
+434,andrejs-ps_REST-Assured-Fundamentals,3,0,8,0,0,0,2,0,6,0,0,0,maven,true,open source,57,9b6597622691b3e9c13f9db7c11d3fdf52b93ea2,improvement
+436,johnmbindyo_mockito-unit-testing,5,1,135,1,9,0,61,0,57,1,8,0,maven,true,open source,100,47ea32a5247f46741852cb79a5d62782a9d5d011,improvement
+437,taksebe-official_voice4PremiumBot,3,2,100,76,6,4,39,31,48,35,7,6,maven,false,open source,340,6b04b683c5cbaed70203df8bbc788b873a4dcada,improvement
+438,morganzee_Selenium_Date_Month_Year_Picker,1,0,7,0,1,0,5,0,0,0,1,0,maven,false,open source,51,2f520b24ceefac0a16c1a9b18410cf4dbc79a980,improvement
+439,tron639_trx-usdt-api-demo,4,1,243,2,10,0,91,2,107,0,35,0,maven,false,open source,78,a981935944e793c92b5b11bfc14e5ceb1c840f30,improvement
+441,ebyhr_puffin-tools,1,1,1,1,0,0,0,0,1,1,0,0,maven,false,open source,93,af016a03e22b132a05fee94d1fdbb72441ad3b97,no improvement
+442,619569891_freedom-excel,1,0,6,0,0,0,2,0,4,0,0,0,maven,false,open source,44,75abeb5ed6e7532dfc67f777a8f088cfb5a3bef7,improvement
+443,jlkesh_pdp_online_lessons_jakarta_ee,1,0,1,0,0,0,0,0,0,0,1,0,maven,false,open source,53,3f9603132cca86d1ae6d692f3749919ae4a0b48b,improvement
+444,codejava-official_spring-jwt-authentication,7,5,225,181,12,7,71,51,116,97,26,26,maven,false,open source,472,21cb3bd2dd824fce53f932070fb40ad66566ac65,improvement
+447,Jubril7_SchoolDepartment,0,0,0,0,0,0,0,0,0,0,0,0,maven,true,open source,36,48d25b4f347788d2ea8455f2477001335d23afb5,no improvement
+449,alphaaman_Spring-RBAC-Using-JWT,7,7,208,192,11,10,66,60,103,97,28,25,maven,false,open source,443,40b7a0d28ef88b3e616ce29b29f1e25f7bd5e08d,improvement
+450,walterroseroec_mi-primer-api-rest,4,4,49,42,5,5,17,17,26,19,1,1,maven,true,open source,259,6a1df8b163f6718edd6d804354bd07f8d665bf1a,improvement
+452,mfaisalkhatri_api-testing-rest-assured,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,44,e2e55d06bf4205bcdd639a74d9dc68cc585babf0,no improvement
+454,westydev_JavaReflection,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,34,18e0d752d7062b6655009ec00136be71a7282a0b,no improvement
+455,danukarangith_Chat-Application,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,256,312583191c29351b4991725472207f7ad14c69be,no improvement
+457,11627685_easyofd-java,3,3,12,12,0,0,12,12,0,0,0,0,maven,false,open source,187,ae43f1d088389dd3e116884b8782d324fcbcd19f,no improvement
+458,Dddddduo_AiDduo-chatgpt-backend,3,3,25,25,8,8,8,8,8,8,1,1,maven,true,open source,146,30534ba2297361a76939505cb403c8aff29130f4,no improvement
+460,RealestName_PDF-Render,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,56,0c10ec3a664955643399ec03038ba9c2c64c85cf,no improvement
+461,Minshenyao_JNDIInjectorGUI,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,40,0566d4115a6c9ca03515a67673018de660e1b4e7,no improvement
+462,test-driven-development_kent-beck-money-example,5,1,11,1,0,0,11,1,0,0,0,0,maven,true,open source,61,6ba80b48781346b60d90f75535e8a5116244ecc9,improvement
+466,815090488_dynamicScheduler,4,1,177,1,8,0,54,0,95,1,20,0,maven,false,open source,83,c143490c0dabee9a9f2904495cb5d7e1e700c422,improvement
+470,550975101_scf-demo-java,5,0,14,0,1,0,5,0,6,0,2,0,maven,false,open source,66,308d42b1bb4905360d889d3f694eb2ba29852b39,improvement
+471,devsuperior_bds03,8,8,269,269,13,13,97,97,124,124,35,35,maven,true,open source,782,0a26973bd68c3b2ce9411611b143d153162ab4b2,no improvement
+472,sauvageb_SPRING_BOOT_cars-spring-jsp,7,1,180,1,12,0,81,0,77,1,10,0,maven,false,open source,103,a119543338404289ffd0aee8eb3776104772fb52,improvement
+473,intensiongmbh_keycloak-split-login-forms,7,6,292,174,23,14,149,85,106,66,14,9,maven,false,open source,779,9410749e273f3fbc68753282d46a592d38c29fcf,improvement
+477,asecurityguru_devsecops-gitlab-java-vulnerable-application,6,5,246,179,9,8,60,56,137,95,40,20,maven,true,open source,762,410c300034d6aa8880f6f4533b449c90da5b2af7,improvement
+478,jinchengming_viid,17,9,344,140,20,10,141,74,141,50,42,6,maven,false,open source,859,b091f697423b7af6a6cc262b5d9696af6c0b580f,improvement
+479,chenlingmin_gitlab-robot,9,9,120,111,6,6,49,48,53,46,12,11,maven,true,open source,574,1c88c396706288cdc4611b990896e107d223f135,improvement
+483,wux1an_fernflowers,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,44,e7a476bc4e2ef4974e64a5406838b6083e409867,no improvement
+484,rishabhs503_Hotel-Managerment-System,30,6,2346,121,201,9,1063,69,1000,34,82,9,maven,false,open source,960,f804e9e2de4ad48ab4b037c510d2b25becbd8e50,improvement
+485,313hemant313_TheGameNotification,13,10,291,128,20,14,110,58,132,53,29,3,maven,false,open source,1907,9e58680bbb9b028c23384c33ab6c383a880aa536,improvement
+487,ALinkLab_alink_tutorial_java,3,3,109,103,1,1,23,22,62,57,23,23,maven,false,open source,422,426bf9f3c24230106f23e5b30a0470e67c1f24e4,improvement
+488,ali-bouali_spring-reactive-demo,5,0,55,0,7,0,21,0,26,0,1,0,maven,false,open source,76,1844eacfc5b7bbd79213fc714005a394332678b2,improvement
+489,niqifan007_fiscobcos-springboot,4,2,108,5,7,0,47,2,47,3,7,0,maven,true,open source,124,99a57a0c5c5612fa80cfd6877ebb64aa2c8b9f0e,improvement
+490,furkannzmnn_async-jdbc-rollback-spring,1,2,4,21,0,4,2,7,2,9,0,1,maven,false,open source,285,dfde71807bf18277fbc5cd18b6dbf0eaabbedf73,no improvement
+491,nizar787_online-shopping-app-java-springboot-microservices-docker-k8s,20,6,1249,194,101,18,555,102,550,68,43,6,maven,false,open source,457,006840c7d3a736f5033755e5c4599938d5f65d95,improvement
+493,yarocher_lazylist-cve-poc,1,1,1,1,0,0,0,0,0,0,1,1,maven,true,open source,79,d989c70197d56ec12f94dd0c202cd0b27ddca0f5,no improvement
+494,Jubril7_Store-System,0,0,0,0,0,0,0,0,0,0,0,0,maven,true,open source,36,ea7915cdfe5d2331defd75a780b1275ae0a08d34,no improvement
+495,dgonzalez211_AluraConverter,2,0,2,0,2,0,0,0,0,0,0,0,maven,false,open source,316,11cb9440f77ff0181febe947c3bcace15cd521b6,improvement
+496,danileao_youtube_deploy_render,4,0,52,0,9,0,18,0,23,0,2,0,maven,false,open source,67,0da0cbb2bd0847450d1745fdf4878a4148d65a2f,improvement
+497,kkdlk_dxf-lib,2,2,21,18,1,1,7,6,9,7,4,4,maven,false,open source,55,aa2b51783c992bf5b50f3fb28cbaa0e7ab4ad78a,improvement
+498,amigoscode_spring-boot,2,0,26,0,7,0,9,0,9,0,1,0,maven,true,open source,57,c802d03645dd4ba7833f3c6cbd5f949826d4e482,improvement
+505,LuckybugQ_LuckyCommunity,20,10,578,45,30,9,249,20,255,15,44,1,maven,false,open source,689,0f0af58e6ef97157e1dc3012520bbba282d415b3,improvement
+506,jitnegii_Telegram-bot,6,4,130,106,9,8,51,44,63,48,7,6,maven,false,open source,478,469fccccf88c41018c957253258c29cb988e466e,improvement
+507,mhmmtbilgin_HRMS-App-JavaReactCamp,5,0,133,0,10,0,60,0,54,0,9,0,maven,false,open source,89,ccdbe70ccfffb772a3e80d4b6a91047bee93f2cf,improvement
+508,devsuperior_bds01,4,0,118,0,8,0,52,0,49,0,9,0,maven,true,open source,71,498c2d23752e8dde395c6b235f27613616fdbc3a,improvement
+511,bezkoder_spring-jpa-one-to-many-unidirectional,4,0,52,0,8,0,17,0,26,0,1,0,maven,false,open source,72,abe64c2b1967b0977bf9c8c41095117a97113051,improvement
+514,vensr_rete-algorithm,1,0,1,0,0,0,1,0,0,0,0,0,maven,true,open source,47,299df90c05d9ac0b018c22d16b6818eba021ae36,improvement
+515,digitalinnovationone_APIAutomationProject,2,1,14,8,1,0,6,5,7,3,0,0,maven,true,open source,50,3002b96d215620805feeef978e8f37ae38fe2615,improvement
+517,gozdesarper_bootcampProject,7,6,142,110,12,9,63,51,61,46,6,4,maven,false,open source,477,b723d3054e39d3e5976bd4011c874d1f5cab077e,improvement
+518,morganzee_Selenium_Perform_Right_Click,2,0,8,0,1,0,5,0,1,0,1,0,maven,false,open source,51,3c20c3d22e1feeeb33b8ee979cd99cea216fa053,improvement
+519,TechPrimers_ratelimiter-example,4,4,103,103,9,9,51,51,42,42,1,1,maven,true,open source,317,318d87e4998d462eebad19e8acf1cab530245eaf,no improvement
+521,mohamedYoussfi_kafka-spring-cloud-stream,8,8,197,197,14,14,91,91,84,84,8,8,maven,true,open source,589,1252417ad1370f53255a9f29e3af562ae8e6dbdf,no improvement
+523,savindaJ_connect-4-game-,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,264,0ea05650648d99349f4aeb480c2cfdd8c83b7a7e,no improvement
+524,MedetHasanUgurlu_e-commerce,6,0,69,0,11,0,20,0,36,0,2,0,maven,false,open source,75,0fd593db4028d9f0db2a29f496c46bfc6e553502,improvement
+529,Liuoodh_HcProject,4,1,146,21,11,3,63,10,65,8,7,0,maven,true,open source,268,3cfee0a902ce8bd85151d44f3acffb0ab9816c25,improvement
+533,M-Razavi_Spring-Data-OpenSearch-Example,9,6,74,47,10,7,31,21,32,18,1,1,maven,false,open source,291,20de93478b8b3a4516ea9c557d2b66937f940a25,improvement
+534,FelipeJB_WikipediaAutomation,2,1,13,5,1,0,5,0,3,2,4,3,maven,false,open source,57,29f9011de8a2b37af0815d0a347fc1740113158a,improvement
+535,ZYNORl_multi-rw-router-tx,8,7,156,64,12,9,78,26,60,28,6,1,maven,false,open source,2216,7be69fcd30ce9e1c87d1947bb06fd3de5c36881e,improvement
+536,SimpleGraduationProjects_SmartCommunityManagementSystem,15,10,266,92,13,8,109,36,113,42,31,6,maven,true,open source,512,9e73f2ee18b0e518d0e860c4f3f66dd151df8a31,improvement
+537,Java-Techie-jt_orderFulfillmentService-async,2,0,39,0,7,0,12,0,19,0,1,0,maven,true,open source,65,c599c168821dd4ddf8af05d2e66301be33d593be,improvement
+538,mohamedYoussfi_springboot3-oauth2-keycloak-customer-service,5,2,80,2,13,0,26,2,38,0,3,0,maven,true,open source,94,06cb586df03d0715775d8982ba6ee0e96e76e52a,improvement
+539,YuLin-Coder_No21C2CSecondHandTradingPlatformManagementSystem,20,6,187,20,6,2,54,7,101,5,26,6,maven,false,open source,432,974cd2ad4f8be4f2a56ed0057152012d902441fc,improvement
+541,morytyann_STBMock,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,35,fbb72037bfc58710f1c3914fac57b7d3ed299144,no improvement
+545,JavaGraduationProject_PetSuppliesSalesManagementSystem,13,9,266,205,18,13,108,83,113,88,27,21,maven,false,open source,849,18652db1aaef5b1b873561303b7f6e17cf85532d,improvement
+547,JavaGraduationProject_GarbageClassificationWebsiteManagementSystem,13,10,252,167,13,10,100,67,110,75,29,15,maven,false,open source,1018,7763c43dbb2d30143bfb45faa5466ba4dbfedfe6,improvement
+551,lerry903_pinyin4j,1,0,1,0,0,0,1,0,0,0,0,0,maven,false,open source,39,c4872f9f0769a96bc8fc773c045eda4544f8c50d,improvement
+552,tuyrk_hospital-register,18,14,530,186,27,19,159,76,277,83,67,8,maven,false,open source,2110,52bd4576d568af5c9bf0c5dfb8c9c0ec3a70b72b,improvement
+554,dongjunchen1993_HeWeather_SDK_V7,4,0,11,0,1,0,4,0,6,0,0,0,maven,false,open source,60,77e6116eb11d4c016d87d4fe9e4a834ebc603073,improvement
+556,java-xdo_java-poi,3,3,94,94,6,6,42,42,39,39,7,7,maven,true,open source,409,2ca9174fdc133482be9ee6f0db20b0f35f3c70b8,no improvement
+557,mohamedYoussfi_suppliers-service-kc,6,1,198,1,12,0,86,0,85,1,15,0,maven,true,open source,124,0447adcc10cc4c893372a02bcc9c2e6466a98577,improvement
+558,nantaaditya_circuit-breaker-example,4,4,139,139,9,9,65,65,57,57,8,8,maven,true,open source,709,320410336da28cc63e70bee5817292ab6c80144e,no improvement
+560,Lekwacious_employee-management-system,5,2,134,13,9,1,62,7,55,4,8,1,maven,false,open source,79,4ec982cb5ea061f1534419d0f30aac9cf36f9486,improvement
+561,yesorno01_studentera,4,4,196,184,8,8,62,56,100,95,26,25,maven,true,open source,719,642cf58edfcf113cc6a8c1c54943d11f76a467a9,improvement
+562,yagmurdogan8_Hotel_Management_System,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,39,c4b6c7b09396a908c06ee3921bfb80ae4a9e39f0,no improvement
+563,BigAlRender_spring-boot-example,2,0,68,0,6,0,29,0,31,0,2,0,maven,true,open source,68,12e985fadda0a7792200064ddfcc1251a9b1153f,improvement
+564,MingA21_state-machine,2,0,62,0,4,0,25,0,28,0,5,0,maven,false,open source,52,f7dbbc0c1f51d93fd4e64cbd3ce0b13a2850237b,improvement
+567,P0wfuu_rasp-bypass-benchmark,2,2,65,65,6,6,29,29,28,28,2,2,maven,true,open source,266,ff6c36d85487cf5c890392bf09747d1b54c0979e,no improvement
+568,Negro-Development_ja-netfilter,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,38,1177180730120ec8174fefad5ad44e4c179ae469,no improvement
+569,ashrawan_apache-poi-chart-sample,4,2,57,43,5,5,25,20,25,17,2,1,maven,true,open source,373,91ab300e227c2322184985ebe77db1ab5ef96370,improvement
+570,mohamedYoussfi_spring-batch-with-unit-tests,6,6,72,39,11,12,24,13,36,13,1,1,maven,false,open source,227,5cfce9600f2c010da9d7ae042b55fa6cad971a97,improvement
+571,wangtongzhou520_spring-security,7,4,270,14,18,0,107,9,132,5,13,0,maven,false,open source,118,ff0aff6c7fc0332fff774e0832be0376d0b6a28d,improvement
+573,jaaxteam_resfulapi,6,1,70,1,10,0,23,0,35,0,2,1,maven,false,open source,99,2884aae3ed14bb78ffb88fa5d1de702fe860a39a,improvement
+574,Jubril7_decagon-precuriculum,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,34,614c54e3bb0f802fffcfb58bb8afd065e50d9a8b,no improvement
+575,bezkoder_spring-boot-validate-request-body,4,0,55,0,9,0,18,0,27,0,1,0,maven,true,open source,73,f9736efd13e11e7be14505039751497155722ecc,improvement
+576,mista1984gmail_kafka-article,11,8,366,328,38,36,174,160,141,120,13,12,maven,false,open source,1222,e6ab3d1cc9e8bb69b9ac32bb1a7f163d8fdf7770,improvement
+577,Jubril7_JavaNIO,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,34,63c27d3eb726de89acff96ab620fcb3b0fe5ef36,no improvement
+588,ynwynw_oaSystemPublic,13,12,458,437,14,14,165,157,200,191,79,75,maven,true,open source,1813,a6c8ada315b88172ee14e168d18dd994114553ee,improvement
+591,abhilashgowda23_BASIC-REST-API,2,2,64,64,6,6,29,29,27,27,2,2,maven,true,open source,247,80e4cde012465ebec05c185500c97ffa3ad658c5,no improvement
+592,engindemirog_etiyaCleanCode,4,0,46,0,11,0,16,0,18,0,1,0,maven,false,open source,72,3b65f0cb052c20a9590a74862e465ae4bce756b4,improvement
+595,UnProgramadorNaceOfficial_spring-apache-kafka,6,0,236,0,29,0,98,0,100,0,9,0,maven,false,open source,117,df7d5200158a4e089cce18184881f6b0cc320ad2,improvement
+603,EduardoPena_fdcd,5,2,14,6,3,2,6,4,2,0,3,0,maven,true,open source,100,c76eeff8b45a1f8cd51f3c1694f04fc31eef9c75,improvement
+604,tuya_tuyalink-java-demo,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,39,7dedd80898db94f5c66fe6fc4de65de370787ec0,no improvement
+606,himash79_Spring-boot-Devops-Pipeline,2,0,68,0,6,0,29,0,31,0,2,0,maven,true,open source,68,13be08ddc8125fc12cf778997e94e2a4653f009c,improvement
+612,littleponyma_NinjaRPC-server,4,4,111,109,9,9,49,48,49,48,4,4,maven,true,open source,507,da1f3adb1830268b5da5ffeef6f3ec4af0d5f2f7,improvement
+613,zmsmao_proxy-pool,3,3,72,72,6,6,32,32,32,32,2,2,maven,false,open source,338,5c2518574d194e5cd0eb084303246d873c95d7dd,no improvement
+614,KingRainbow44_Grasscutter-Rollback,1,1,14,14,2,2,8,8,4,4,0,0,maven,false,open source,73,94c02d69e1edbc3bb8ec463ceee15fb8955f72ba,no improvement
+616,bulutluoz_Team113_Selenium_spring2023,2,1,42,6,4,1,26,4,9,1,3,0,maven,false,open source,64,9f3453bf9b27d84a4a4300fc2a2b19c565c0190d,improvement
+617,stopyc_id-worker,2,0,61,0,7,0,28,0,24,0,2,0,maven,true,open source,106,a263b5756ab6005b5fc0645cc0a2852204661928,improvement
+619,OlgaMaciaszek_crac-db-refresh-scope,1,1,1,1,0,0,0,0,0,0,1,1,maven,false,open source,1930,7a945261744b5ceb5a8b170ba2dc9d3435e05408,no improvement
+620,AllenDengMs_sm2_encrypt,1,1,4,4,0,0,4,4,0,0,0,0,maven,false,open source,37,d629045a13700af54070e0d9a0fe4a8782743cc3,no improvement
+621,ZhiQiAnSecFork_Java-UTF8-Overlong-WAF-Bypass-Hook,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,41,0417608bb4bdbf93d6a734cfc0122bed5264f244,no improvement
+622,aws-samples_genai-test-automation,7,7,35,35,1,1,18,18,13,13,3,3,maven,true,open source,1482,f26a6cf353b7dd88ee21669ecbfd42959625f9d9,no improvement
+623,murewaashiru_Nippy-Response,6,4,61,41,14,10,24,18,22,12,1,1,maven,false,open source,212,6767352177b9b7e49f2144120fe7612b60cdef52,improvement
+624,JIU-W_wpxt,10,9,168,82,11,10,74,34,73,36,10,2,maven,false,open source,792,5558ede37e4fe2e1ae4b8c2f2b947f143dec2a91,improvement
+626,Y5neKO_SSRFxxk,1,1,10,9,0,0,5,4,4,4,1,1,maven,false,open source,58,419af75bb95ef97bb689a2108a35b01aa6c89527,improvement
+627,nowtostudeyday_code-generate,5,2,19,2,2,0,7,1,9,1,1,0,maven,false,open source,68,519aac3cf8984582238a7b6499f50fb778685666,improvement
+630,xiangfangsong_Java_springboot_demo,5,5,137,137,8,8,59,59,61,61,9,9,maven,true,open source,794,151f5c64b8e5e8e935d13868c9b06ea23cd7dc3a,no improvement
+633,ynwynw_PetHospital-public,14,12,398,290,20,19,148,120,170,120,60,31,maven,false,open source,1411,17b917d3d4ac91c3d3845049dcb8bce1484b0bfb,improvement
+634,muslimprayer_muslimprayer-pro,6,1,220,1,9,0,75,1,107,0,29,0,maven,false,open source,111,f3b21c14f77a8196db86871b5130112604dd2327,improvement
+635,veevism_Backup-Unarchiver,2,0,3,0,0,0,2,0,1,0,0,0,maven,false,open source,51,69d908be83c74392f95df0fa20304ceb4469cec4,improvement
+636,securekomodo_text4shell-poc,3,2,155,154,6,6,44,44,82,82,23,22,maven,false,open source,484,df78bce47363c98fcf11acb6e1519002b4442368,improvement
+637,hanzelkaraagac_Foor-Loop-Sorular,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,34,9daef710bd84cb19555821a2f23acb8d8166b6da,no improvement
+639,zimzaza4_GeyserClickableMessageGUI,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,35,239dcfec834172c83af7900d4f538c21ce92310e,no improvement
+640,lydtechconsulting_kafka-spring-retry-topics,13,7,142,93,18,12,55,37,64,42,5,2,maven,false,open source,689,458c93d128ab61345171ecf90f3d29dfc4ff27ba,improvement
+645,iamppz_ecdict-api,4,3,55,27,9,6,18,9,27,11,1,1,maven,false,open source,174,fd7787974a84da5e0b2744042eb38d3c864e38cf,improvement
+646,OguzhanKaracorlu_springbootffmpeg,2,2,79,79,5,5,31,31,35,35,8,8,maven,false,open source,274,dbb665b80fa93a27ac8a2d279a61304bdf88c7cc,no improvement
+647,virtualheart_ZKteco-biomatric-lib,2,0,5,0,0,0,1,0,4,0,0,0,maven,false,open source,46,b35d78d93f906e53dc9e9f8015e5fa772fc40f1b,improvement
+649,danvega_rewrite,3,0,82,0,8,0,38,0,34,0,2,0,maven,true,open source,71,8d75f0ef2b99e231b7c82b371086c7492957ac26,improvement
+650,oldweipro_hik-isup,3,3,47,47,11,11,16,16,18,18,2,2,maven,false,open source,328,ad68d1a043ac0d358cc0e08f5a42e74aa37bb3cf,no improvement
+653,glaforge_adk-java-maven-template,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,245,70f27508501454fd67aebb34b2b75c31511657c3,no improvement
+654,GardeningTool_AgentInjector,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,42,3f949418bf2730fb1f4b702751adb1d4d13e9964,no improvement
+655,SelimHorri_embedded-mongo-playing-with-spring-boot,5,1,133,3,9,0,59,2,56,1,9,0,maven,true,open source,135,07a8dadeabbe03e5bd165aef16480fdf0929324e,improvement
+656,aws-samples_amazon-aggregation-query-proxy,1,0,17,0,2,0,7,0,8,0,0,0,maven,false,open source,55,e2777904b958d7a61e819ef5155a341a783fb448,improvement
+657,sundharamurali_elasticsearch-springboot,5,1,83,47,7,3,34,19,39,23,3,2,maven,true,open source,215,bc7f925783f0bc51a420b531e2e74b3083298fd4,improvement
+660,Aealen_Topic_Selection_Springboot,6,6,113,64,9,9,47,21,50,30,7,4,maven,false,open source,425,27c594edff673322b4f180dc6c0cd52b209694fc,improvement
+661,czqclm_netty-websocket-cluster,5,5,191,191,8,8,66,66,96,96,21,21,maven,false,open source,845,21e1928d2848bb60ac1e4e06d5a8533d19c9b6b5,no improvement
+662,PursueMilk_chat,15,13,276,194,24,23,135,84,109,84,8,3,maven,false,open source,1046,de65ae5629bc55d4057a8cab1d110bd3aebfc955,improvement
+664,giuliana-bezerra_aulao-injecao-de-dependencias,2,0,23,0,5,0,7,0,11,0,0,0,maven,false,open source,53,e3da8ee08aa08856ca24f9fe6caa3e57268e5c27,improvement
+666,tatimohammed_Near-Real-Time-Weather-Data-Processing,11,6,248,55,16,6,94,26,113,21,25,2,maven,false,open source,556,a3038e412d82d32a639e738876e43d61adb9d9af,improvement
+667,gianValentin_core-java21-springboot3,10,3,111,4,16,0,36,3,55,1,4,0,maven,false,open source,137,707e107ed1677d3796264c4f0a3fbe443bb219b0,improvement
+669,DJ-Raven_spinner-progress,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,39,5c95d2149420edb6cdf2437eb7454aaa2828ffb5,no improvement
+670,HMZElidrissi_spring-security-jwt-boilerplate,5,1,46,1,12,0,18,1,14,0,2,0,maven,false,open source,75,b9888a49a4fc9080a7c19298d4fcad1f0ff41539,improvement
+671,shaozhujie_lvshi,12,12,263,263,13,13,92,92,127,127,31,31,maven,true,open source,964,f21a8eb6920ed1aef21c68ccc07f8634c193cc1b,no improvement
+672,aws-samples_csr-signing-using-kms,3,2,11,8,0,0,10,8,1,0,0,0,maven,false,open source,61,f11f0e0bd4ec1bad1ab2c6a2f3db388cdabe9707,improvement
+674,awslabs_real-time-vectorization-of-streaming-data,16,3,68,12,0,0,42,6,26,6,0,0,maven,true,open source,1001,195b1e57ead7dbe8f32b1498a5030b31355052e6,improvement
+679,nikoloulopalex_rbac-jwt-spring-boot,6,6,234,234,10,10,80,80,113,113,31,31,maven,false,open source,734,4acad856ccd5ffea22638ff9c0fbb72d31795be1,no improvement
+680,binarywang_yaml-utils,3,0,10,0,0,0,7,0,3,0,0,0,maven,true,open source,53,7bac6f6e0b292c62b1d295f6c6a895136930439d,improvement
+681,seanmarpo_springfox-swagger-xss,6,5,153,151,11,11,73,72,59,58,10,10,maven,false,open source,611,0c85de96ee3d896ef33ecc57491952916787790a,improvement
+682,SwishSwishBish_tecmi-ecommerce-backend,9,6,262,86,16,9,88,38,122,35,36,4,maven,false,open source,381,a7a983125c4ef99ef3ccb0660068bfa4328069e5,improvement
+684,dino9527_spring-boot-tus,6,4,146,57,8,3,69,30,62,22,7,2,maven,false,open source,283,41d453298ca1a7ff1fa610b196f46ec70424c892,improvement
+685,LTH-S_AmazonCrawl,13,8,310,134,14,5,108,40,134,57,54,32,maven,true,open source,208,1c5a87f432d22c8fcadba5b933d2ffdae0a258e2,improvement
+686,jsalonl_interceptor-springboot,4,4,95,92,8,8,43,42,41,39,3,3,maven,true,open source,342,ca197f6aa22c128bbdcba6257a86a5ed99913057,improvement
+689,MossCG_MossTwitterRandom,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,33,f724d88f5fac25b064bc49ba6d4abffc9255ebf9,no improvement
+690,creativityFactory_SwiftServe,0,0,0,0,0,0,0,0,0,0,0,0,maven,true,open source,42,6e8a4bc7f0db2b9a9b4c3e25e136fcc5c4568507,no improvement
+696,HypixelDev_HypixelData,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,35,94e2bd27079a0506786a1bd98acc298b2983e72c,no improvement
+698,ShiDuoBeiLi_part_time_job_system,8,5,193,65,13,9,86,24,80,31,14,1,maven,false,open source,317,ac1fa8b742bedf61f435e1c93988caf126ffdb3a,improvement
+700,liuhaijieAdmin_spring-boot-easy-excel,7,6,301,151,16,8,121,64,128,60,36,19,maven,false,open source,326,df27f51e17dee69a3569c2f34a3d0a8f16147711,improvement
+702,hartig_SPARQL-CDT-Tools,0,0,0,0,0,0,0,0,0,0,0,0,maven,true,open source,51,fe49e61e323f94584a2673190e85c6ea8554bdda,no improvement
+703,jarcms_wechat-smdc,7,5,150,97,11,8,70,44,64,41,5,4,maven,true,open source,609,6be94285e9fea7713ada8b1c67a9742ec7439917,improvement
+704,339447532_springboot-redis-orm-starter,4,4,41,40,5,5,22,22,14,13,0,0,maven,false,open source,545,e2cdfaab76d7bd1a46c49105baa60f67ee7c7c5f,improvement
+707,Python-22_JSMSpigot-Plugin,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,64,e3d9bb1d9799fdb8498a99bb7bae18327f3066fe,no improvement
+709,PatriciAlves_microservice-email,7,0,182,0,14,0,86,0,71,0,11,0,maven,false,open source,88,5df178fafc0b19531267338b152c74f5d159dad7,improvement
+710,knowledgefactory4u_registration-login-spring-boot-security-thymeleaf,9,2,247,2,15,0,111,2,94,0,27,0,maven,false,open source,99,aa05e01b0e56a6867dbae2e2a25b83c5b6564751,improvement
+713,SyntaxTechnologies_CucumberFrameWorkReviewBatch14,4,1,45,6,5,1,25,4,13,1,2,0,maven,false,open source,69,163202d4b4b06f9ad579e07b9c736d171ee1c810,improvement
+714,FunckingCat_Dark-Dangeon-Game,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,34,621aa650edb1772f7259b6b2be9fd02400d82493,no improvement
+715,alexandreroman_dallecool,7,7,108,91,16,16,37,26,53,48,2,1,maven,true,open source,473,a9ab76e8ab81b618f04168a2a71b813e5f2283f1,improvement
+716,mayank042_spring_microservice_sample,11,1,439,2,38,0,182,1,207,1,12,0,maven,false,open source,173,de59c01585522548b292cf8db2125fe8d714c41a,improvement
+718,CGCL-codes_PHunter,3,1,6,2,1,1,2,1,3,0,0,0,maven,false,open source,85,74380d737ecdab610f6f663138b63f3734dd1255,improvement
+720,sendelufa_spring_boot_tests,8,6,61,46,9,8,27,18,23,18,2,2,maven,false,open source,297,a560e7904713e8d7c2b5dd64302b048f36c0b4dc,improvement
+721,akolata_spring-boot-metrics,3,0,52,0,9,0,19,0,23,0,1,0,maven,false,open source,63,f3e11bc40e3bdacc3c9a131b692a878957bebdff,improvement
+723,blackapocrypha_ZiWeiDouCountsAstrologicalDivination,2,1,40,13,5,1,15,6,18,5,2,1,maven,false,open source,60,04cce9ae4041c02623d0041178c9e2e50fc84177,improvement
+724,clover_clover-tr34-host,2,0,8,0,0,0,8,0,0,0,0,0,maven,false,open source,46,f38ced6551c1a18e7a987141c2a045a0f9f30dda,improvement
+725,digantv_authentication-service-springboot,2,2,33,33,6,6,11,11,15,15,1,1,maven,false,open source,141,f0b22feb6f7e736f79ad07c61ef4c7d946574011,no improvement
+727,inquery-team-git_Iceberg-File-Integration,8,7,231,75,21,5,87,31,101,32,22,7,maven,false,open source,430,5f82340eccb3a055fc11b7ee9d0f5c29ec7bdfb4,improvement
+729,aiaicoder_xinoj-code-sandbox,5,3,103,71,8,7,52,32,39,30,4,2,maven,true,open source,438,2886dd0a504de34db8aa81f55b045cb30706b4ca,improvement
+736,Y5neKO_YCryptoTools,2,2,14,13,0,0,9,8,4,4,1,1,maven,false,open source,57,3d6ab831f142873857d4ed0dcfa8c10ead0b1ef5,improvement
+738,Blooof_Mks2MqttReporter,1,0,1,0,0,0,0,0,1,0,0,0,maven,false,open source,39,dca66979d8511c4759b0c059e3bba88df2d125f2,improvement
+739,Cafecanudo_pim8,4,1,125,1,8,0,56,0,54,1,7,0,maven,false,open source,67,4405bf09daa86d2cf1b3e250ffb8e2cd649ccd71,improvement
+740,nunoalmarques_technical-indicators,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,39,ceda247643950919d335514b6b8bcadd406d2b08,no improvement
+742,GoogleCloudPlatform_google-chat-notification,4,1,23,1,3,0,5,0,15,1,0,0,maven,true,open source,153,15df16e3b119e8169e14d839107f5984d75dce77,improvement
+743,wenqiglantz_sample-spring-boot-starter,0,0,0,0,0,0,0,0,0,0,0,0,maven,true,open source,287,cda3ccb98c226a5207473db27189263b3555f273,no improvement
+744,wangzhengsi_tempura-code,7,5,214,180,10,8,70,57,110,95,24,20,maven,true,open source,673,16b15e595f4b3d6b3fa6a492198020153c8b4e83,improvement
+745,giuliana-bezerra_introducao-testes-automatizados,3,0,74,0,7,0,32,0,33,0,2,0,maven,true,open source,69,314ba6e82141125c782e28eaa2601be54523f9c4,improvement
+746,hzx0910_Cellular-Z-Server,7,2,111,93,7,5,48,40,50,42,6,6,maven,false,open source,448,d67e0a499a752e4a6f9c2eae320a08dcd02f4c08,improvement
+749,menno-pieters-sp_sailpoint-xml-merger,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,37,138c2707a0692aae50f334cfc1487ef74a87f198,no improvement
+751,softwarefactory-project_keycloak-filter-provider-users,5,3,536,20,16,2,175,7,244,8,101,3,maven,false,open source,230,72fd15d115ee8b3f1cfdfaba9815b64cfe74e184,improvement
+752,YangNaner_reggie_take_out,10,10,234,64,16,11,110,25,95,26,13,2,maven,true,open source,392,aac9590fa62bd3d4df37e837b85c9544af94ea7f,improvement
+753,fstab_javazone-2023,3,0,130,0,12,0,57,0,56,0,5,0,maven,false,open source,69,350f9a4c883fa61a0a5517b80852cd6a5232c9a9,improvement
+755,tayyabmd_selenium-tutorials-by-tayyab,1,0,7,0,1,0,5,0,0,0,1,0,maven,false,open source,46,0415def2ce42c85b40ab7e940171f76f443be1e3,improvement
+757,saicharan1206_SpringBootProject_ExpBatch-11sep,5,0,56,0,10,0,19,0,26,0,1,0,maven,false,open source,66,b6154eee17e61393ae07a13feadbd1c631888dae,improvement
+758,KingKingLin_carbon-emission-system,17,6,1234,212,82,20,587,95,503,90,62,7,maven,false,open source,1823,69a8b7733fb7d2418ed31361ccc0084081c129d3,improvement
+759,lxxGOd_BTC-ETH-TRX-,6,6,87,87,7,7,33,33,46,46,1,1,maven,true,open source,480,ef6b339b5477d32cca36c8d3d1b1b5ddaa7420d6,no improvement
+762,please-openit_keycloak-native-metrics,4,1,19,1,3,0,9,1,7,0,0,0,maven,true,open source,95,d0c23f80550edbd0f164c84c041a7814e7d8ef77,improvement
+763,rsatrio_llm-chatbot-springboot,2,2,4,4,2,2,0,0,2,2,0,0,maven,false,open source,65,4646e217a87d98e4ce61b86a386a941808c84ddc,no improvement
+287,snarvaez_Atlas-BQ__ODS-EDW,5,4,319,171,3,2,60,36,214,112,42,21,maven,false,open source,201284,f793366d7748b11a58a3f6e17f8b148505d7f4fc,improvement
+777,MuJianxuan_msk3cloud-webapi,3,2,56,17,4,2,27,9,23,6,2,0,maven,false,open source,367,de5cb3093e38ffade7cebd6aefd5363f74bd4012,improvement
+776,YeeQan_match-project,7,2,261,4,21,0,135,3,95,1,10,0,maven,false,open source,458,25495f230a697de3baa4e2bdc4d77367a3a0dd77,improvement
+773,2227324689_thread_and_event,2,2,55,35,5,5,29,17,19,13,2,0,maven,true,open source,559,d256759d508d8e9a49a8036467c012be4489a22e,improvement
+779,iamMrGaurav_TODO_SpringBoot,5,1,109,1,10,0,48,0,49,1,2,0,maven,false,open source,98,6c1d6b63f84880059aae08d0ac174190dd79db7c,improvement
+782,alfredorueda_ExampleBefore-lab-3.06-JPA,5,1,136,1,9,0,61,0,58,1,8,0,maven,false,open source,104,8f81f85e3ab9337843a17101d0b5a0b1777dc520,improvement
+781,iamMrGaurav_SpringBootCRUD_Web,6,1,116,1,11,0,51,0,52,1,2,0,maven,false,open source,111,9ee9b17c7d0e9d1191be183d7876b16e280e7987,improvement
+783,naumanshah03_apache-commons-text-rce,1,0,1,0,0,0,0,0,0,0,1,0,maven,false,open source,40,3fa4764e3efdcb206403422d6cd4d63bc867942f,improvement
+785,Sevenflanks_JCConf-2022-freestyle-spring-data-jpa,3,0,40,0,5,0,19,0,16,0,0,0,maven,true,open source,103,5eaa91aef1376b4b40ca533e5145a9816b72775b,improvement
+788,amuthansakthivel_OrangeHrmPlaywrightFramework,0,0,0,0,0,0,0,0,0,0,0,0,maven,true,open source,76,ea5d723e6d2363fdd2d48c06c89bfd910bfef813,no improvement
+780,Mozenn_spring-boot-keycloak-admin-api,3,3,87,78,8,7,40,34,37,35,2,2,maven,false,open source,450,56a800d4ec6dde5e4c9a85a17679010291d05320,improvement
+791,SimpleGraduationProjects_WanderingCatAndDogRescueManagementSystem,15,6,228,88,6,4,48,34,117,32,57,18,maven,false,open source,324,079c202fcf666d9edf37014b4d297dd725990834,improvement
+790,MedetHasanUgurlu_employee-service,6,5,82,37,11,10,30,12,40,14,1,1,maven,false,open source,399,69ca4ca112c72214e49b9942afda9e69c39aa114,improvement
+795,devsuperior_jpa-queries1,4,0,53,0,8,0,17,0,27,0,1,0,maven,true,open source,97,e38dec1a55b211633e45463110cfea76eae1ee57,improvement
+792,folksdev_spring-boot-graphql,8,4,95,64,13,8,29,20,52,35,1,1,maven,true,open source,435,070784ab235f04c51620400fa4cf3984bdedbda6,improvement
+799,1howley_CRUD-app,1,1,5,1,0,0,1,0,4,1,0,0,maven,false,open source,49,1c514a3e83538e54bac511fbfaa3860b52247b20,improvement
+800,ManishParashar0_SpringMVCWITHorm,2,0,7,0,1,0,3,0,2,0,1,0,maven,false,open source,79,44aa36235d445858a1554a71f11f2e774361d464,improvement
+801,Ashan-TUF_web-Final-Viva-Project,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,44,575462badfbd433db9b31a30b6d0e2a55bf8bb6b,no improvement
+796,Jpmmdf_leader-election-spring,4,3,45,29,9,5,14,10,22,14,0,0,maven,true,open source,357,92b10edd3445df341a12f56311ad19ca2fc463bd,improvement
+805,Casterlabs_d1-java,1,0,1,0,0,0,1,0,0,0,0,0,maven,false,open source,55,80d66ea43aa4f34e574348815e769c12f6a71a2a,improvement
+807,DenisVerkhovsky_SonarQubeDockerDemo,4,2,29,15,5,5,11,5,13,5,0,0,maven,true,open source,232,788be313ecc7fd3e635fe7dc03fe366c3d47e751,improvement
+806,chamithKavinda_Mobile-Phone-Shop-Management-System,1,1,2,1,0,0,0,0,2,1,0,0,maven,false,open source,463,23b51b32ef368eb0bec5ced637988a872a36d90b,improvement
+808,VKravchenk0_SO-Spring-authorization-server-demo,3,2,53,39,8,5,18,15,25,17,2,2,maven,true,open source,256,9228645f60c486dc9eb5f75d7b1de4fdd0ae854b,improvement
+798,bigfish49_llm-spring-boot-starter,12,10,86,57,7,4,32,17,40,29,7,7,maven,true,open source,864,4888756a73b361d8613c9f4931b2723baecf8087,improvement
+809,MuhamedHabib_javafx-crud,1,0,2,0,0,0,0,0,1,0,1,0,maven,false,open source,161,efa7330776811f96d5f147f292ac583534ec82dc,improvement
+810,miniguiti_conexao-api-externa-spring-boot,3,2,37,28,8,5,13,11,15,11,1,1,maven,true,open source,210,c70d62e30f632bc702290c97605bb8efacbb36a6,improvement
+812,nature924_No80Stray-cat-and-dog-rescue-website,15,11,266,168,13,10,109,68,113,75,31,15,maven,true,open source,1430,10fa9f21bf0eb56fa6d5e6b78c6ca2b2cc8c38a6,improvement
+817,reinershir_Shir-AI,13,9,169,107,16,14,67,40,79,48,7,5,maven,true,open source,545,0014db9f51086fe7c6ef4e16e74bd2cac9faee69,improvement
+820,521zhouzhen_estore,4,2,11,6,0,0,3,0,5,3,3,3,maven,false,open source,52,4b834109001706605b738b7f0da29f3717b88448,improvement
+813,nature924_No268Group-Portal-Website,20,17,342,276,16,16,153,127,134,109,39,24,maven,false,open source,2551,cc111ce8f877cdcecbaacc146380b67934b33ab1,improvement
+815,nature924_No47Enterprise-Employee-Compensation-Relationship-System,20,17,342,276,16,16,153,127,134,109,39,24,maven,false,open source,2514,03b642023f30dc244a508bff7e68d754edbfc87b,improvement
+823,fatihhernn_spring-boot-ecommerce,4,2,128,2,8,0,59,0,54,2,7,0,maven,true,open source,132,6fad5f5ed343f7611e356f1be7a51dfcacc12ba5,improvement
+821,san4tone_cow-admin-project,17,13,561,364,21,15,186,121,259,167,95,61,maven,false,open source,1079,877615bd323617c351fbed5175698aebb684005c,improvement
+824,sudot_jna-golang-sample,2,0,6,0,1,0,3,0,2,0,0,0,maven,false,open source,641,625fb5e9af2c19300865b9bb5cc36381475d4f7d,improvement
+829,iamMrGaurav_Java_CRUD,1,1,5,1,0,0,1,0,4,1,0,0,maven,false,open source,41,0ae02016be7d88b308ce9dcec1f256727e727783,improvement
+828,Java-Techie-jt_reactive-exception-handling,2,0,58,0,5,0,26,0,26,0,1,0,maven,true,open source,96,6d2b4210b3bd16321249e1a6ac1d9f92b36df4c7,improvement
+831,ErencanYldrm_SpringBootProject,7,2,126,15,12,1,58,8,52,4,4,2,maven,false,open source,268,c757f811b81d59050e690b49411e2d683e377420,improvement
+833,yoandypv_spring-boot-rest-client,2,0,65,0,6,0,29,0,28,0,2,0,maven,true,open source,102,fd085304209fbf600f79e335be5a73d46871d24f,improvement
+834,p1n93r_GadgetInspector,1,0,2,0,1,0,1,0,0,0,0,0,maven,false,open source,73,98e1bdc682634488903c5b616a68a4d1ea02a61b,improvement
+830,GSMgeeth_medium-coffeeshop-sample,5,5,120,120,9,9,50,50,52,52,9,9,maven,true,open source,697,07861f456182e3319843cda51946973dbfffd306,no improvement
+836,savra_ssewebmvc,2,0,47,0,6,0,16,0,24,0,1,0,maven,true,open source,96,f00f6b7df779360a27233ceb115c2986214c0689,improvement
+837,ioufev_opcda-utgard-demo,7,7,28,28,1,1,25,25,2,2,0,0,maven,false,open source,106,550c74343c76744355b9874fb6bcf849171d7e72,no improvement
+835,liuhaijieAdmin_db-machine-submeter,7,6,168,114,15,12,71,44,67,46,15,12,maven,false,open source,494,b23333204fadcd55fa2052a7552ccdf2d5879d5a,improvement
+840,mohamedYoussfi_back-to-java-oop,1,0,2,0,0,0,0,0,2,0,0,0,maven,false,open source,50,f5df1aff723d3af25ac987a80e807ed474ba16b4,improvement
+841,amilairoshan_SpringBoot-MySql-With-Docker-Compose,2,0,45,0,5,0,15,0,24,0,1,0,maven,true,open source,101,413d5345da8d0b5ceca04d0d96c125fdcc16d447,improvement
+842,1fabunicorn_SnakeYAML-CVE-2022-1471-POC,1,1,1,1,0,0,0,0,1,1,0,0,maven,false,open source,57,5d0cf33e22b3233ae44772f2012731cad315373e,no improvement
+843,devdojobr_dominando-spring-boot,2,0,44,0,6,0,15,0,22,0,1,0,maven,true,open source,110,9af6c4a328566b544a22da0f192a9c66a394f58a,improvement
+844,MTyson_java-chatgpt,3,0,8,0,1,0,2,0,5,0,0,0,maven,false,open source,89,13f81ce39ea3aa4aa962384f71b84b2907ce4940,improvement
+845,cod3rjava_spring-boot-kafka-poc,4,0,93,0,8,0,44,0,37,0,4,0,maven,false,open source,185,3b40cca98f0dd8e5401f3aa2535812dea3505c46,improvement
+822,aws-samples_sasl-scram-secrets-manager-client-for-msk,3,1,30,5,2,0,13,4,11,1,4,0,maven,false,open source,2479,d7f7c8bace5403aa63dcea5aeafd20c0809b38fc,improvement
+847,java-sec_tomcat-spi-backdoor,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,62,68fb8462a9c7cc209ecee426f0aea884efa19ed2,no improvement
+839,sprashantofficial_CRUDWithPostgresAndJSPExample,6,4,115,113,7,7,50,49,49,49,9,8,maven,false,open source,934,e065a48829c233050c3c2dbde79df21272c76d27,improvement
+846,LahiruHarshana_Project-Railway-MVC-Architecture,1,1,2,1,0,0,0,0,2,1,0,0,maven,false,open source,319,dbe51dcd621c4929f8698cb80e1484fc73964176,improvement
+849,ManishParashar0_SpringBootRestAPIPractic,5,0,94,0,11,0,43,0,37,0,3,0,maven,false,open source,147,52c1cad221fecd0036915bb981970777500eba6e,improvement
+851,ManishParashar0_SpringBootLearning-2CrudRepo,5,0,94,0,11,0,43,0,37,0,3,0,maven,false,open source,129,ee0a2225152e7bc2498f7872387ded64c89b11d0,improvement
+850,ManishParashar0_Springjdbcframeworkpractice,1,1,3,2,1,1,2,1,0,0,0,0,maven,false,open source,157,8658e6b3f16e63feb5c72630d085cb6aa0b835c1,improvement
+861,b1-systems_keycloak-user-storage-test,4,2,42,6,6,0,16,1,17,2,3,3,maven,false,open source,105,0d27b0e71b257bc3befd11d03478a3e4a1423bf2,improvement
+862,PramodDutta_APIAutomation5XFramework,4,1,14,8,0,0,8,5,6,3,0,0,maven,false,open source,72,c312aa301aac6dfd9982b4f909d3ecf30b830440,improvement
+863,jianhong-li_LockFreeRingBuffer,2,0,5,0,0,0,2,0,1,0,2,0,maven,true,open source,53,7604c98642866c34d69ab0e102ede097e4bb8ca8,improvement
+858,YuLin-Coder_No117ClothingSalesManagementSystem,6,4,137,56,10,7,52,18,65,30,10,1,maven,false,open source,395,62ecc36abc14cbc031ebd02c102a965733d6bc0c,improvement
+865,wangsilingwsl_model-integrate,9,6,190,180,12,12,89,85,77,73,12,10,maven,true,open source,870,a66cb41422bb939ed631a5193fa2df837b00ef84,improvement
+867,PedrooSilvaa_spring-test,2,0,26,0,7,0,9,0,9,0,1,0,maven,true,open source,76,d558c5db0ee0fadb6a8441971ca7cecc3f2bb248,improvement
+868,rongliangtang_JavaDB,1,0,2,0,1,0,1,0,0,0,0,0,maven,true,open source,402,a0c5054f441f9179537187e0d9307373e13ffab7,improvement
+869,H4rry217_korona-db,2,0,3,0,1,0,2,0,0,0,0,0,maven,false,open source,58,2edc72285a500e29c9d08245bdd27e9399e4ac32,improvement
+870,bayrameker_java-ai,4,3,30,24,0,0,10,9,19,14,1,1,maven,true,open source,672,1458474f43677bfe06464384903a62991b5de91d,improvement
+871,zied-snoussi_java_crud_mysql_jdbc,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,37,b7c8a10727ba2dcdb6ac8d301870aa0af3d0a932,no improvement
+884,victor-onu_jwt-demo,6,6,50,48,12,12,21,21,14,12,3,3,maven,true,open source,248,6af0deb20060613c11bb583757bfe936ab42d9f8,improvement
+877,JavaGraduationProject_CampusSecond_handTradingPlatformManagementSystem,11,3,143,10,5,2,40,4,66,3,32,1,maven,false,open source,526,32485b7e55320e53466ea1d55a44ef2f6603bf12,improvement
+885,Elijahhx_Dead1ock-h4ck,8,8,55,51,15,14,19,17,20,19,1,1,maven,false,open source,548,adb67cb39b02a4f8c8e6acb450ec3f653c2a58b0,improvement
+891,culyssander_gestao-de-venda-desktop,2,2,10,2,0,0,3,0,7,2,0,0,maven,false,open source,99,985360d78136dbb2391263df4f451bd2f107bed2,improvement
+888,tyouazusa_JLUCSCommunity,20,10,578,45,30,9,249,20,255,15,44,1,maven,false,open source,1096,db53c4276069ed073d9a05b03c1121daa619f042,improvement
+907,alansastre_java-solid,1,1,5,1,0,0,1,0,4,1,0,0,maven,false,open source,42,da7bc6c0df29280bd978f205262bab3f776ca7db,improvement
+909,ShiinaKin_Ts3AudioBotImportPlaylists,4,0,7,0,1,0,2,0,4,0,0,0,maven,true,open source,80,1b58519de3ff153368533c8c78db16819f59040f,improvement
+866,YuLin-Coder_No240HospitalInpatientAppointment,11,11,428,388,15,15,139,121,200,182,74,70,maven,false,open source,4147,c95a99c57c85842101bd7ed9a2376ad5cb74168a,improvement
+910,savindaJ_crudjdbc,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,377,20d70887af4fa157e968cbd3c13276e78c794136,no improvement
+912,NinjaDevOps0831_jenkinstest-master,2,0,151,0,3,0,48,0,68,0,32,0,maven,true,open source,101,2dc5c7e2256d85247578ccff5e57c2fb898c1bb0,improvement
+911,amirsambahador_Spring-Security-Boot-JWT-Auth0-RDBMS-MultiRole-Easy-Example,4,3,90,89,7,7,39,39,39,38,5,5,maven,false,open source,421,508912f8c94cbc141661265dbf03866050e2feb3,improvement
+916,Yelredda_WGU-D287,7,0,146,0,13,0,59,0,69,0,5,0,maven,false,open source,143,396a6fe7cb4e2ec71d602bd90765c9f6a5079107,improvement
+915,artemelyashevich_shop,8,6,96,51,10,5,32,18,50,25,4,3,maven,false,open source,400,8ad7135e113f468e01e0274a4670d89f99830ead,improvement
+921,gniadeck_random-javadoc,3,1,38,26,7,4,14,9,16,12,1,1,maven,true,open source,172,1ae302af649e99bf6c4f05d2a7ab970e918824f6,improvement
+919,folksdev_spring-webflux,8,5,66,30,8,1,29,16,28,12,1,1,maven,false,open source,318,014042bcd9c450d980e4f32626e3fad9ffe0b5bf,improvement
+920,bezkoder_spring-boot-graphql-postgresql,7,4,146,126,12,8,29,25,83,72,22,21,maven,false,open source,297,9cc13bee641f39d4ba57e2850db6b5b082fe079e,improvement
+927,ThiroshMadhusha_OrangeHRM-Test-Project,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,52,b93a6e03e23a40d80dd01746bc424e84c2c59d89,no improvement
+929,UnProgramadorNaceOfficial_spring-boot-mail-sender,4,0,59,0,9,0,18,0,31,0,1,0,maven,true,open source,140,4a08f9345bc2abb09f06ab3a1d9afe57b97b7fc2,improvement
+928,saranyakalaiselvan_SpringSecurityJWT,6,6,62,60,12,12,23,23,24,22,3,3,maven,false,open source,339,0ce6abe60f5da1432f3da592209185b14c7a0e7b,improvement
+930,MaleeshaMAdhushanka_MCTS-algorithm--connect-4-game,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,353,f36a65897a4969001a6b23182cb85b84205edade,no improvement
+935,Tib3rius_XXE-Demos,3,0,37,0,2,0,14,0,18,0,3,0,maven,false,open source,154,8b212831f1c42917cb0156cb27fd3611f99593fd,improvement
+945,caiogmello_user-login-registration,8,2,107,2,14,0,35,2,53,0,5,0,maven,false,open source,156,7aaa1019664cfa097c48f8f740209d2f5262af8a,improvement
+946,minLaoGe_ClashRules,5,0,69,0,10,0,23,0,34,0,2,0,maven,false,open source,122,c03616cfc6b6d78cd9a3a3fd3a8774dbc63cc88c,improvement
+948,MedetHasanUgurlu_advanced-core-java,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,39,d47e3f4af394cdee13969506f3e1ce323ff2ad4c,no improvement
+951,willyancaetano_java-21-archetype,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,41,0c3d4729b2fb9963767ed47dd4ba933514b71959,no improvement
+953,dwfcasq_JavaCat,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,37,eb48a19cdf891588d75282b62e2408f4c87607d4,no improvement
+954,x0-Project_HaE-DataEngine-Burpsuite,1,0,1,0,0,0,1,0,0,0,0,0,maven,false,open source,82,d0946bfbdd889fe78adbf2ed1a2c9f616e77d654,improvement
+950,UchithmaSenevirathne_Connect_Four_Game-OOP-,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,315,9df331304e54590b0e6d7e7ac04fb12737d0a864,no improvement
+956,VinayKumarBM_DataDrivenFramework_v2-sample,6,2,29,8,2,1,14,5,12,2,1,0,maven,true,open source,196,01bf50aabca805eae804ef250fdd40d79c0f9a9f,improvement
+957,open-dingtalk_java-getting-started,5,4,86,74,4,4,38,31,37,32,7,7,maven,true,open source,390,6d203f7ed6ed27b3cf35b2e4a590596c19ee5ea9,improvement
+958,Acorn2_orm-generator,14,10,281,180,21,14,121,75,117,76,22,15,maven,true,open source,1231,be49267321df45b5a9d29dbc0514e495f2d77a73,improvement
+955,gavinklfong_spring-mock-demo,11,11,300,300,18,18,139,139,124,124,19,19,maven,true,open source,1947,bd96e0c553cdc7c999f1fe10ee1f3b4db999818b,no improvement
+960,gurkaybirinci_Batch171JavaAdvancedPracticeNT,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,37,ad0ded8356db44d5da365a09b2bfc3c175a5d59c,no improvement
+959,nkchauhan003_spring-security-form-login,10,2,133,2,18,0,44,2,66,0,5,0,maven,false,open source,126,1c53ea1f3f622ded04fd867369a95f7974441c41,improvement
+971,Evangard_Cucumber_project,2,1,11,6,2,1,6,4,2,1,1,0,maven,false,open source,69,e5406b2eb509cf16b178fc13d9dfb62fd82dad74,improvement
+961,max-holo_sentinel-dashboard1.8.6-nacos,10,6,132,86,10,8,55,37,57,36,10,5,maven,true,open source,707,12d43897d239643206f076f9e5bdc5a9069f0088,improvement
+972,First8_Extended-SAML-IDP,4,3,28,15,4,2,17,12,7,1,0,0,maven,true,open source,352,c2654c1a0e4ec6ebf53b6ee9f9b6896e93aff285,improvement
+973,JavatechWorld_BusReservationComplete,8,4,163,84,14,7,76,38,66,37,7,2,maven,false,open source,469,59c42dcb617d7b92e747dcfeaa20a1f0eee0d6d4,improvement
+975,yilinyo_lkd-javaee-trade-backend,8,6,232,114,14,9,104,54,99,46,15,5,maven,true,open source,485,e2f5f6f2a7dc69f1d0791d9f6ff935c0d08cd106,improvement
+977,susnigdha1_PlaywrightTestAutomationFramework,2,1,36,13,4,3,17,4,13,6,2,0,maven,false,open source,222,b46e8cd8c2b13aab78fb0b61e86a027d4809c580,improvement
+931,xianyubaicai00_library,8,8,218,208,5,11,48,59,110,105,55,33,maven,false,open source,4381,96d2ec67a5181ec190add05a3f5060b0e5012348,improvement
+979,pkafel_educational-fixed-window-rate-limiter,0,0,0,0,0,0,0,0,0,0,0,0,maven,true,open source,38,5ffbe343f7e3be3b5cbc3f60549f537cd293d559,no improvement
+978,Echo24h_WorldBorder,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,72,72275b9cf8d77d38ad690897a2fd4f4359f74712,no improvement
+983,U109_incremental-sync-flink-cdc,13,5,471,77,38,6,215,35,193,33,25,3,maven,false,open source,235,c54a677c6ea1ae22756153e9e7f8dd71a76ceb2a,improvement
+989,ShashankN_qrcode-terminal,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,47,1d1e79aada857dcfa417505152a5cbfce02b7d43,no improvement
+992,WuYiheng-Og_redislike,8,3,140,8,12,0,64,1,60,7,4,0,maven,false,open source,288,eb08773cba435deebbf880315327b0ecce7f7a93,improvement
+996,ozihler_techexcellence-eventstorming-cleanarchitecture,2,0,48,0,6,0,16,0,25,0,1,0,maven,true,open source,61,7f26f8386c7fa1759afede7c2a1b92c1d8dc46c6,improvement
+990,Phone-Khaing-Hein_movie,7,5,135,87,11,9,56,33,63,43,5,2,maven,true,open source,652,97fc53352ee4db28291826a4ad3c90c9bf9559be,improvement
+998,Ukondy_IntroductionJDBCAndHibernate,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,59,1482b03fe051e97ad0d92f2d0f4eb209a9871adb,no improvement
+997,fadykuzman_swagger-demo,3,2,62,42,7,4,20,16,34,21,1,1,maven,true,open source,287,ddc5b38c1f72af04fb460aca38febded09b91585,improvement
+1000,hooyantsing_webmagic-job,8,3,123,3,12,0,56,0,50,3,5,0,maven,false,open source,116,83c660b9bd81a2230bffb6ada22e123068777163,improvement
+1004,CS-3035-Fall-2023_CS-3035-Example-Code,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,153,f04c3ea424ce7b5ba07cbc32bab820ef01e5438b,no improvement
+1001,lipeacelino_spring-boot-jwt-security,8,7,89,88,12,12,29,29,44,43,4,4,maven,true,open source,691,eefada16dfb66fbb2c7c78fc2e30ee1fcf614049,improvement
+1007,TheUnpunished_SpeechTool,2,0,2,0,1,0,0,0,1,0,0,0,maven,false,open source,492,6f6a30b5b31348275b74370b8de5296a0c89aebf,improvement
+1005,heart0001_xiongBI,20,11,388,200,28,15,165,67,170,100,25,18,maven,false,open source,990,0111b112dce32982ee14a84c11b6724c58613378,improvement
+1012,gayanukabulegoda_Spring-POS-API,3,1,11,1,3,0,5,0,3,1,0,0,maven,false,open source,88,662bfa35543de110e7ebf1458a5a3a1ceeb98475,improvement
+1015,kingjly_vulfix-ollama,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,62,f92a384637afbb4b1fac33be279766929943782e,no improvement
+1017,Pastidio0924_smartpark,4,2,16,11,6,4,3,3,6,3,1,1,maven,true,open source,121,ba59130c6379023b77b93a9878589cb3d9ab1d6c,improvement
+1019,Oxygen404_Springbootdemo,5,3,125,97,8,6,55,42,54,43,8,6,maven,false,open source,479,cf25f01d9ea73d7713a15d4824395b2ae302e390,improvement
+976,misswmn_wvp-gb28181-talk-demo,17,12,278,189,20,16,131,88,113,74,14,11,maven,false,open source,4260,c835492c5d00e0627634bd7c4282d85cbe171963,improvement
+1020,Rodrigo-Sarmento_cloud-parking,9,8,237,120,15,14,76,55,115,43,31,8,maven,false,open source,825,56d5e1081c4ea50dabbf43f2c5f5d59ed3a003d4,improvement
+1022,hanzelkaraagac_Multidimensional-Array-Sorular,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,39,21ab2f58cd6d87f210cd9faf40b4a2dc28466ca8,no improvement
+1021,himash79_Spring-boot-with-Jenkins-intergration,2,2,68,68,6,6,29,29,31,31,2,2,maven,true,open source,359,b3c9be7e980fca92d0d36eb9e0d936f083752afd,no improvement
+1023,UwUAroze_Trwoll,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,84,8ba53f9dda85b20978770412520ebd8068c29056,no improvement
+1028,lfriends_java-outlook365-oauth2,2,1,18,10,2,2,4,3,12,5,0,0,maven,false,open source,227,a0d56b44225922fc82a6208e60e4cf74dded5f78,improvement
+1009,fredpena_vaadin-quarkus,7,6,45,24,2,0,20,10,23,14,0,0,maven,false,open source,2347,aaed2e87590bf2b02c87dcc6932157e0bfd599e7,improvement
+1030,ouxuyong_oxy-design-mode,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,38,6e8e70db246d01e10b4aa51f4e015d5c9741e3f3,no improvement
+1025,Logeekbro_community-backend-public,17,8,351,102,23,3,132,23,162,57,34,19,maven,false,open source,678,523d7a04d55bef735829df492ee296583043d1ea,improvement
+1033,SyntaxTechnologies_cucumberReview,4,0,15,0,1,0,7,0,6,0,1,0,maven,true,open source,92,1331042a999c46c590bc85ab5f90339c4385bc60,improvement
+1029,mrDFX_keycloak-regex-filter-group-mapper,3,2,74,15,12,2,37,7,24,6,1,0,maven,false,open source,421,a8f324a0c5a6c936f580a5272abc3013b5405826,improvement
+1036,yunhua-lee_ratelimiter,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,49,bf6ebb49a0fb8667207cc708cef8a05a00db0004,no improvement
+1031,Eukolos_spring-file-upload,6,4,80,60,11,8,23,20,45,31,1,1,maven,true,open source,498,a53ae13e3dc9d1498075543cbf06a9754357702f,improvement
+1038,hipshot-java_hipshot,0,0,0,0,0,0,0,0,0,0,0,0,maven,true,open source,53,6d03bed1009bb0f8f7ad559cb31fcef836012ad3,no improvement
+1041,ebean-orm_ebean-uuidv7,0,0,0,0,0,0,0,0,0,0,0,0,maven,true,open source,56,e72857d5094e448c52e02b2eb1e71b846d2f17e9,no improvement
+1042,Evandrolds_Rastrear-IP,3,0,31,0,9,0,11,0,10,0,1,0,maven,true,open source,94,f6a5442cc10814935fb68659b9e5406aeaa90aec,improvement
+1044,Miracles666_Elasticsearch-Logger,1,1,22,19,0,0,17,14,5,5,0,0,maven,false,open source,232,c7b065259b5ec2014faf3607f2d6bf757d0a2760,improvement
+1046,JIU-W_mq-demo,3,0,111,0,15,0,54,0,42,0,0,0,maven,false,open source,118,ae1544e28bf70b48efcc52ae8256f3003d7e3669,improvement
+1054,bulutluoz_Canli-Yayin-API-dersleri,3,0,4,0,0,0,2,0,2,0,0,0,maven,true,open source,63,432ac5ae1dc4f91048ebb634168ca6cfbe76f99f,improvement
+1040,ahmadalammar_order-management-system,9,2,325,116,78,24,154,44,89,44,4,4,maven,false,open source,1016,853ef2d23ce3ff28e0a6d6204e155c4788e93b1f,improvement
+1055,RexJonesII_TutorialsTestNG,3,1,51,6,5,1,29,4,14,1,3,0,maven,false,open source,88,f26e1424c3e9ecb4efd427c8bbd5d98ae57fb983,improvement
+1056,DaZuiZui_yanglegeyang,3,0,47,0,5,0,24,0,18,0,0,0,maven,true,open source,84,69fcbd5d757b01566e61beb53083e7ac1f0df023,improvement
+1057,morganzee_Selenium-Hanlde_Alerts_AND_switch_Browsers,1,0,7,0,1,0,5,0,0,0,1,0,maven,false,open source,51,d6073131520e3b6bd56e144713761bf1856e26f2,improvement
+1058,4nth0ny1130_CVE-2022-39197-fix_patch,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,50,7dea5841c33a46ec22a356e070770420357fce8b,no improvement
+1059,pq217_netty-parody,1,0,1,0,0,0,1,0,0,0,0,0,maven,false,open source,38,450db4694773a3d3491a7f9187ea096fc132797a,improvement
+1061,Rapter1990_selenium,6,1,108,6,13,1,52,4,38,1,5,0,maven,true,open source,177,45aef688a8e0cda88204f3ef0e47a3123ba44ed2,improvement
+1062,sanyou3_delay-task-demo,7,4,194,101,10,10,86,46,87,43,11,2,maven,false,open source,991,14dff0c5563cd5e5f67b48eba478707d1c02bac4,improvement
+1065,egor001_jacocoToCobertura-maven-plugin,3,1,15,3,1,0,5,1,6,1,3,1,maven,true,open source,116,3e9fb0e4265762d35ddc53160bdbd187d3702224,improvement
+1064,codejava-official_spring-jwt-authorization,8,6,239,195,13,8,77,57,121,102,28,28,maven,true,open source,934,ad57c97e55d0b5af925ba40a711ea799d7d7c3a5,improvement
+1067,Ladicek_cdi-extensions-demo,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,32,3aff26e536d9e5b1a26ea19c58fad9b3c27591f9,no improvement
+1068,chaarlottte_vertine,4,0,10,0,0,0,3,0,7,0,0,0,maven,false,open source,65,7fa103ffb10d78ea86e0812d7039eb7b737a2e95,improvement
+1071,BatuhanErTo_Movidle,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,247,0e6982a5b0ea6c37f0bd9a9f29f1ac174efe07ae,no improvement
+1034,imwfan_moyuai-nav,20,20,939,938,24,24,260,260,476,475,179,179,maven,false,open source,2910,df162c220b344db433a399942ecfde69480d83db,improvement
+1078,APIJSON_apijson-mongodb,2,1,10,1,1,0,7,1,2,0,0,0,maven,false,open source,65,e6cbb114efd049d515e6a53c2e236a9b0c390feb,improvement
+1079,codefilarete_jacoco-aggregate-submodule,4,1,11,1,0,0,3,0,4,1,4,0,maven,false,open source,70,9482f53f1c22ebf1211e5e778145ec0402f69330,improvement
+1080,TradeMatcher_match-engine,2,2,7,6,2,2,2,2,3,2,0,0,maven,true,open source,284,552c71a83f0d28808048189a1153a6463ea661ef,improvement
+1070,biekanl_AutoSign,15,13,264,237,23,21,120,107,108,98,13,11,maven,true,open source,822,7d3ec4174bdf25953cb1cc43b71721d1c7709482,improvement
+1089,Listedroot_Douch,2,0,11,0,0,0,8,0,3,0,0,0,maven,false,open source,245,0da3623520790770233af9fcf2c88fd891ea647f,improvement
+1095,sim0n_iridium,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,44,6bee5b154ddab2f6b03bb5db9111d43a0a8ed5b6,no improvement
+1096,veasion_syntax-parse,0,0,0,0,0,0,0,0,0,0,0,0,maven,true,open source,44,57596f708e69b41857775bfe59da49294b782d99,no improvement
+1091,SteveWang7596_BFO_2_0_DecisionDiagram,1,1,28,4,1,1,4,1,23,2,0,0,maven,false,open source,232,f3d90e27e4ce11ceda3dfab7281f8460ccd1a56c,improvement
+1098,hanzelkaraagac_While-Loop-Sorular,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,35,7fa6626db1241b1d554435505edab4af4eb67f63,no improvement
+1099,hanzelkaraagac_Do-While-Loop-Sorular,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,37,96b594fe893e3286ba153958c8812aa62233f701,no improvement
+1097,edwin_keycloak-backchannel-logout,7,5,254,127,12,10,117,62,107,48,18,7,maven,false,open source,353,cb05bcd4a0a653a4eac5cde0e5ec708130d8f043,improvement
+1104,ccutzj_sonar-pmd-p3c,8,5,37,22,3,2,20,14,10,4,4,2,maven,false,open source,342,db14ee49066a68e34493a996481ac84570770475,improvement
+1101,pavithmadusara_spring-keycloak-postgres-multi-tenancy,11,8,316,199,21,15,145,88,128,86,22,10,maven,false,open source,1238,f0acd45624064e12e970ee0c427da95b1f43fcfd,improvement
+1107,thakkar-pratik_ecommerce-application,10,8,122,94,13,12,41,34,66,46,2,2,maven,false,open source,804,540a1b8f1ca2bb06c0240a53978c083060dbc82d,improvement
+1108,bayrameker_springboot-earthquake,5,4,102,85,6,6,45,39,45,36,6,4,maven,false,open source,429,42aa81dc29983d82a106a8d5986e8bdc0735341f,improvement
+1111,amirsambahador_Kafka-SpringBOOT-Programmatically-Topic-Easy-Clean-Simple,2,0,77,0,4,0,35,0,32,0,6,0,maven,false,open source,218,97e1afea559fce8aeaab856e91abfb512fe97201,improvement
+4,FrancescoXX_java-live-api,4,0,59,0,8,0,20,0,29,0,2,0,maven,false,open source,83,26a71c85f2b1c33c999bf86500689f4d776aadee,improvement
+6,danvega_ssc,6,2,94,2,11,0,32,2,47,0,4,0,maven,true,open source,122,d794ed68f7b4f101f7e7000c7b8387546d0388a1,improvement
+9,RishalCode_spring-boot-otp-gmail,5,0,62,0,10,0,19,0,32,0,1,0,maven,false,open source,118,fefc40db46099fcc8f6baded7e3b30a7426192ce,improvement
+2,Java-Techie-jt_spring-batch-file-upload,6,6,156,90,12,12,64,30,76,47,4,1,maven,true,open source,587,e7e1ff55130e511854ad8d9cfe26852186be2e17,improvement
+8,BrkSe_spring-security-jwt-example,7,6,98,70,11,7,33,24,50,36,4,3,maven,true,open source,530,1d38e3ae1cc88a7e7dc020e4dd28f647dab49268,improvement
+5,JavatechWorld_JWTRoleBasedAuthentication,8,6,212,176,13,9,70,55,102,88,27,24,maven,false,open source,673,bae384996ec4ac3505cf4310912a462c89814bec,improvement
+15,mohamedYoussfi_end-toend-microservices-testing-part1,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,47,3c5132f12a4c8f8f63c22474fede7334348d51cc,no improvement
+11,FIAP_POSTECH_SOAT_DevOps_Desafio_Disciplina,3,3,97,97,6,6,44,44,41,41,6,6,maven,true,open source,572,7091194aa2de3ba8fe1a9b5ab1af4062733cf399,no improvement
+19,VarshaDas_ReviseFlashcard,4,0,16,0,1,0,6,0,9,0,0,0,maven,true,open source,137,b96d5a609f0f826887ec4a8a4141099897fcf64d,improvement
+37,0x7a66_daleks,14,0,170,0,17,0,83,0,68,0,2,0,maven,false,open source,215,2dd1289d54f07fd5cf8ada8a3e9c96ce61cbc8d6,improvement
+26,xj1430688054_jxt,13,10,304,253,16,13,110,87,146,123,32,30,maven,false,open source,1753,16e0a95fbac4f540428c6d6793ab0d6465b91280,improvement
+50,prasadus92_ecommerce-store,13,13,308,157,17,16,108,65,142,64,41,12,maven,true,open source,1408,cb05d8aa58eba5c68bbbcda254accf1e3513d616,improvement
+51,aarontiger_jinanspot-ga-t1400,15,8,265,162,17,12,119,71,105,66,24,13,maven,false,open source,1610,6a92ec4febd1805a438ae839a72258111bd0c221,improvement
+63,ro6ley_java-spring-boot-cars-api,7,6,371,64,14,11,99,27,195,23,63,3,maven,false,open source,421,fed9e3e71e7879c99c0f6901e4323449cc6e17a5,improvement
+75,wodemaster-NJUSE_NJUSE-Server-side-development,8,1,79,8,14,0,28,5,36,3,1,0,maven,false,open source,126,0144508ceee4fef10915f5b713be701160931d45,improvement
+60,Chave0v0_VulnDemo,10,9,266,196,15,16,114,85,114,83,23,12,maven,false,open source,1059,b60be6d002bf131522c8ab76b13ff61e523d381a,improvement
+76,ahmetuygun_xa-demo,3,3,48,41,5,5,18,18,24,17,1,1,maven,true,open source,366,f000deb588473f5420a1891290199a73e469bf24,improvement
+99,advanced-security_monorepo-filtering-workaround,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,41,83f69819df41b9a046a568d5d7eaba9cff7bb51c,no improvement
+97,qureshii_springboot-dataweave,2,0,46,0,6,0,15,0,24,0,1,0,maven,true,open source,126,2fcd016680f2df0793019de9d835a0655788883d,improvement
+106,nahkd123_spigot-1.17,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,38,ee52782f2c2bbabc7343b068aea33327e4940f36,no improvement
+117,abayramus_selenide-projem,1,0,12,0,1,0,8,0,1,0,2,0,maven,false,open source,78,3bdf9cbbb6086505597ebcb259dbd6af1a139f30,improvement
+116,yuebo_autogpt-java,8,6,100,90,11,9,45,39,40,39,4,3,maven,false,open source,632,f9bbbc78e3a38940f8a6db9cec075db7896ecfbc,improvement
+132,migodz_QnA,8,7,180,95,12,12,82,39,76,41,10,3,maven,false,open source,735,75a77af98d7dfe3b5b9da2c83b44a263416d7de4,improvement
+128,CoderSJX_multi-agent-arch,6,5,38,30,9,7,16,12,13,11,0,0,maven,false,open source,830,77da7904d8330e54ecbb250460c742e46a31ad22,improvement
+140,Aaron-Akhtar_iDetection,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,36,6fa83f858d08ccd1c053a936cdcc5ffa27703a29,no improvement
+146,lealceldeiro_springboot-multitenant-hibernate,1,0,1,0,0,0,0,0,1,0,0,0,maven,true,open source,213,98753cf5b87f6d0b105c5e165a94130547948fc4,improvement
+159,DJ-Raven_swing-animation-icon,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,44,cb54a9d5da96659c5410e551cb2b7094e908c184,no improvement
+165,Dragon1573_Multitask-Downloader,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,40,e1e496ac2d7ebe0cf6f1967ad82ca73745d56248,no improvement
+170,harp077_pj-ntp-server,1,0,1,0,0,0,1,0,0,0,0,0,maven,false,open source,46,c25b6b568d67afe23e7b3c17b9cfeb2a12697a8c,improvement
+147,SimpleGraduationProjects_TouristAttractionsPlayManagementSystem,8,7,216,192,10,10,72,61,111,100,23,21,maven,false,open source,934,4dd45ee89b8671bb57f5459174790b174bc7b496,improvement
+173,GitRowin_discord-auto-clicker,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,356,f928356efdebc3f6cbe551ec699e35ec99ad1bb9,no improvement
+166,dustinschultz_todo-app,5,4,174,142,10,7,74,58,77,65,13,12,maven,true,open source,900,8612f9376d1202d6d49c4eee4fbb44e2b158b8d7,improvement
+181,george_java-native-obfuscation-study,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,47,76ae062928de780f775454967b135710efddc181,no improvement
+172,yagmurbkarabiyik_HRMSProject,9,9,265,121,16,14,95,53,120,49,34,5,maven,false,open source,990,3904de0954cc21dc8a49d8110e85714aa0ad7269,improvement
+183,saveen99_API-SpringBoot,5,5,60,60,9,9,17,17,29,29,5,5,maven,false,open source,331,6935d6560ba5ee24ae0fd76329693b9635556030,no improvement
+184,mohamedYoussfi_spring-angular-oauth2-keycloak,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,38,ac513ce310e690141136e924f3b6c3212b6ff0bb,no improvement
+186,bytesops_jProxy,6,1,21,4,0,0,18,4,3,0,0,0,maven,false,open source,81,07446fbc99fb892f56f62825c73ea5f931884b67,improvement
+188,Z0fSec_Z0fAPICollect,4,1,13,1,0,0,6,1,5,0,2,0,maven,false,open source,142,715c222c9d488770aa589599e269ca81526fcc68,improvement
+187,AndreaGrandieri_ing-sw-2024-codex-naturalis,0,0,0,0,0,0,0,0,0,0,0,0,maven,true,open source,173,e7dba70b8abc9932fba0bbb2db327c4104ada3a0,no improvement
+179,cagribozdemir_CasgemBootcampProject,7,7,142,131,12,12,63,61,61,54,6,4,maven,false,open source,725,b51f79502c296ba268d67c6645ce39d97782d4dd,improvement
+190,Fadouse_JVMBenchmark,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,38,48b86fbc51b6a56ed4de61be037034616b038f0f,no improvement
+203,jcustenborder_kafka-config-provider-vault,6,4,65,52,5,4,33,27,25,21,2,0,maven,false,open source,325,b3ce4772714655bb64e6460ecc8db37959f30565,improvement
+205,journeyCNV_DcpACpTool-CN,2,0,3,0,0,0,2,0,1,0,0,0,maven,false,open source,61,5bfb241bd35de2608b32bdc32559e77e7fb0ca7d,improvement
+192,123NoName123_-RabbitMq-Redis-SpringSession-,17,12,398,188,22,19,166,74,158,80,52,15,maven,true,open source,804,822fc670ba6050af4de9c7ec65499c91834475d3,improvement
+217,wsliliang_sse-springboot-demo,4,0,143,0,9,0,64,0,60,0,10,0,maven,true,open source,101,e45197495956a86549a4c79d52884d714b6ddea6,improvement
+201,niceyoo_redis-redlock,8,6,229,149,8,8,81,66,115,66,25,9,maven,false,open source,955,d39ed8bdcfe31344b1e3941e454262dc9d93b20b,improvement
+218,buingoctruong_springboot3-elasticsearch8,6,4,68,47,10,8,22,17,34,20,2,2,maven,false,open source,336,b814350db55fa806a47a26eba30906f6df6ea36a,improvement
+223,yelochick_plugin-activation,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,42,f55a18c8a0b5a0088d3f935ff628b8928c8685b9,no improvement
+219,sasmithx_connect-four-game,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,340,857daf11b316d65650341cba22c6f3d6f1656443,no improvement
+224,ahmedtiba1993_payment-flouci-tunisia,3,1,31,3,9,0,11,2,10,1,1,0,maven,true,open source,91,555f0910577aa8ca57770538668f7212554ce013,improvement
+222,macrozheng_mall-swarm-arch,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,214,feefac5c48d8013083aea9a0a0a802c13a86c283,no improvement
+225,YunusEmreNalbant_spring-boot-jwt-redis,8,5,60,41,16,10,26,19,15,10,3,2,maven,false,open source,202,3c3f0ba3bd3c3c184aa8f8004422e48e3091c748,improvement
+228,oinone_oinone-backend-starter,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,133,2c066b7e4f9dd4bd4d6bb3d975695c4f30e2336f,no improvement
+231,momobaiduren_easyexcel-component,5,5,143,50,8,6,61,22,64,19,10,3,maven,true,open source,261,e5ee646fad87d2efef3f651b50e70ea42984cd00,improvement
+235,liuhongdi_apiversion,2,0,90,0,6,0,40,0,38,0,6,0,maven,true,open source,76,fe9756269e6df5c44d87d1d099cef7fdbb373ba3,improvement
+233,hkakutalua_spring-patch-updates,5,4,207,113,10,7,71,52,98,47,28,7,maven,true,open source,703,6bf35722f46528423fb5d39af5acc0dd9af0b029,improvement
+237,hpfxd_Polar,2,0,5,0,1,0,2,0,2,0,0,0,maven,false,open source,82,c0c1c84c8b709acaafaa20d40f6a88f3b1e92a78,improvement
+238,arjungautam1_AWS_Image_Upload,4,2,196,147,6,6,51,42,110,80,29,19,maven,true,open source,898,cdc82375471494f89c2c5c2fedb945b1782f6ed4,improvement
+239,xuhyacinth_MusicPlayer,1,1,2,1,0,0,1,1,1,0,0,0,maven,false,open source,57,110895b1f1773e53fde51404ed5e55dfc337cc05,improvement
+234,liuhongdi_ratelimiter,8,7,240,229,12,12,82,77,115,110,31,30,maven,true,open source,1864,7efa3c85e233cc70600fd82953423734f0f4788b,improvement
+240,jweny_cve-2022-22980,4,1,100,5,9,1,44,3,42,1,5,0,maven,false,open source,279,21a56ad517222090fc501523d03ced7a03d709f8,improvement
+236,LLLLimbo_casbin-auth-server,13,10,372,330,21,19,165,152,159,138,27,21,maven,false,open source,1900,ae52427bd7fe3570be7a7315721c3503ad6a89d0,improvement
+248,QaBound_spring-cucumber-test-framework,2,0,7,0,2,0,3,0,2,0,0,0,maven,false,open source,67,9d55b7a91e24dfb07c4dc8dcc4696753452468d5,improvement
+247,Java-Techie-jt_springboot-mongo-atlas,3,0,85,0,8,0,38,0,37,0,2,0,maven,true,open source,101,4391f86f728ca780322b1aef384f41d06da07d59,improvement
+249,MandeepKharb_RESTAPIAutomation,3,0,17,0,1,0,10,0,6,0,0,0,maven,false,open source,67,bfbf1b2b47c797134cf40b89ff48a19ae51ba80c,improvement
+252,Andresariz88_BasicWebAppServer,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,38,ba5f23870c43057ac47af4613509ac7246fed9e8,no improvement
+255,StevenBuglione_spring-boot-2-snakeyaml2-upgrade,2,0,64,0,6,0,29,0,27,0,2,0,maven,true,open source,89,29f3d24494639ab24864cb1f71eb82bcfaccacc9,improvement
+250,ThirdGoddess_aliPay,3,2,72,64,6,6,35,29,28,27,3,2,maven,true,open source,344,5ae2de71e917ae3d91b257ccf442fee0502a63ad,improvement
+260,kanezi_postgres-fts,5,0,59,0,11,0,19,0,27,0,2,0,maven,false,open source,99,c5414dd07c75dcb6609a8302553d93d07713f5cf,improvement
+262,ThomasJay_SpringBoot-OpenAI-Assistant,2,1,39,29,7,4,12,9,19,15,1,1,maven,true,open source,170,0b42e543f0315de7909be9fb6e12ef80cd19c72f,improvement
+264,kale1st_Keycloak_Spring_Boot_Application,5,3,79,3,12,0,29,3,34,0,4,0,maven,true,open source,95,68bd79abfa97aa89af227e2119ec1c476df08159,improvement
+253,amigoscode_group-project-e-banking-suite,11,9,118,111,14,14,39,38,60,54,5,5,maven,false,open source,768,4ed3aa20834080b48130ad4e5f61cbba2796aa20,improvement
+265,minatisleeping_JobListing-SpringMongoDB,5,5,215,111,12,10,68,52,103,44,32,5,maven,false,open source,469,04deac007100fec63d4a6a76b706cc47ef835629,improvement
+267,NingNing0111_vector-database-demo,3,4,37,40,9,10,14,15,13,14,1,1,maven,false,open source,350,888c3c9572e9b6b71fa913daa5a0694a517a6fa5,no improvement
+268,KirillKARLSON_SpringSecurity-6-Authorization-and-Authentication,6,6,59,59,12,12,22,22,22,22,3,3,maven,false,open source,266,63634d8c48ec1283d197057818e2a1416b22c8b2,no improvement
+284,ajcatambay_ProductOrdersAnalytics-kafka-demo,5,0,216,0,12,0,99,0,91,0,14,0,maven,false,open source,266,ed9c4db5e1ba11b1c97e63d55f1f8f4d3da10998,improvement
+302,santiagobaronz_Alquiler-de-vehiculos,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,43,7126e158f0434bb75a01ab99dc34a2226c63d917,no improvement
+304,khvci_bCryptPasswordEncoderDemo,4,2,76,2,7,0,33,2,29,0,7,0,maven,false,open source,81,e17dfdc95372da92baac915834643234b98e4481,improvement
+298,luoyingbin_PBFT-consensus,4,4,107,106,6,6,47,47,47,46,7,7,maven,false,open source,491,df03d0451e6ada5d9109a0188699426cf078aef8,improvement
+306,danvega_dc-demo,1,0,1,0,0,0,0,0,0,0,1,0,maven,false,open source,214,580f36edaf3b9bfb23ba8e9e12f15bf696cb29d3,improvement
+308,dailycodework_spring-security-user-role-management-with-spring-boot,6,4,87,70,10,7,29,25,45,35,3,3,maven,false,open source,337,18f04bb44727f7533b143183ef7825445cb46f83,improvement
+309,LahiruHarshana_Connect-Four-Game-OOP,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,334,6a383633509862a20f6a6cf02d90ed7542a0917d,no improvement
+310,Okafor-Samuel_DatabaseFileReading,1,0,2,0,0,0,0,0,2,0,0,0,maven,false,open source,59,c66d93528d6c5636f2a1c7486525c1dee2b56a26,improvement
+311,Okafor-Samuel_SampleServlet,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,51,ad2fe28c2a8c09d0eed236a0db1d96240ffe245c,no improvement
+312,danvega_observability,0,1,0,1,0,0,0,1,0,0,0,0,maven,false,open source,220,f6caff9f5a6a38f6eb92a4b53b6524598f287173,no improvement
+315,mtamas7_spring-boot-3.2-authentication-openapi-archetype,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,40,7ec08aadd2c32fc8f010ad34e54e4c55f325a512,no improvement
+319,super-devninja_google-calendar-api,6,1,19,9,6,1,11,6,2,2,0,0,maven,false,open source,218,21a06d743035c99682ace1c8d66e7f7cb6997728,improvement
+320,azamat-hakimov_twitter_clone,8,7,24,20,8,7,5,5,11,8,0,0,maven,false,open source,137,aab42dfb27bc609538b7729f2db06e5a6805caed,improvement
+313,giteecode_hotelPublic,19,16,363,309,19,15,122,102,177,150,45,42,maven,false,open source,1603,05e846a92e086e160f267827b77f9242694aa61a,improvement
+321,mojocn_springboot2app,7,7,316,316,12,12,91,91,166,166,47,47,maven,false,open source,1185,083a3fd0d01650320c31a65cef97595440057c1a,no improvement
+325,fzdwx_Aircraft_war-Java,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,35,105dd6ea9a2485d17a5b7fb9a7dd3353fcde8c47,no improvement
+326,GL3-2021-2020_JEE-TP3,1,1,7,1,0,0,1,0,6,1,0,0,maven,false,open source,46,52860bfb16fa22a8d2a1befd16b0f0a7a58ab892,improvement
+327,ar00n_velocitylobbyplugin,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,145,f8594cc66d779cfd0f11973f688ead4ce9f8c255,no improvement
+328,sahrul6121_boiler-plate-spring-boot,14,9,366,150,22,14,144,72,157,59,43,5,maven,true,open source,687,b981a0d6c0d2901a2e0f9bc9e67a22a7e4dba44d,improvement
+323,qfjiaoyan_elasticsearch-examples,5,4,210,161,7,2,80,52,96,81,27,26,maven,false,open source,1273,49900fa1d81966f532a2d6f4fbb3a03434079242,improvement
+329,NikolasRummel_ChatGPTBot,1,0,2,0,0,0,0,0,2,0,0,0,maven,false,open source,62,707a12d7174f0b884e806bc960b598e9e002a5f9,improvement
+330,sdeleuze_demo-profile-aot,2,0,21,0,5,0,5,0,11,0,0,0,maven,true,open source,76,f58b838f24787419de9a41e22d5e8af17822c10d,improvement
+332,gurkaybirinci_Batch171JavaAdvancedPracticeDT,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,36,9f89abb5c9d7862477018b6a99e1bf984002221d,no improvement
+333,mnesimiyilmaz_sql4json,0,0,0,0,0,0,0,0,0,0,0,0,maven,true,open source,51,355504f7ea88b4e2850459f3191eaec74fcab4c4,no improvement
+334,SeanPesce_CVE-2024-22243,3,0,47,0,8,0,19,0,19,0,1,0,maven,false,open source,74,ccb8d45d4dff9e35b259ad27a1747633c647a5f1,improvement
+331,yasinsametkaraca_social-media-app,8,4,169,102,12,4,41,18,93,59,23,21,maven,false,open source,280,4a226fb9a4f6ba50d3d2c4d60e3e8aa82ad2ca95,improvement
+340,kosprov_http-echo-server,2,2,22,2,6,0,12,2,4,0,0,0,maven,false,open source,101,0dba6bba7f0af1b5c80c3807db54b5cc6ea097e4,improvement
+341,miaotaizi_squirrel-in-springboot,7,7,188,182,12,12,82,81,80,78,14,11,maven,true,open source,1025,7bdbbc1c96acbf93c8cabbb002aea407811dc857,improvement
+346,ozmenab_java_backend_employee,15,9,348,168,22,11,130,75,161,70,35,12,maven,false,open source,669,22e89e4cd6c9629fd962f3b52d4e83be2c4d06a8,improvement
+345,mohsenamjadi_Bitcoin-Wallet-App-Java-Implementation-with-BitcoinJ,9,9,322,319,14,14,94,93,164,162,50,50,maven,false,open source,1604,a35db5646f911fc1f49d16faf88bbd9fa5e749db,improvement
+347,wpf008_aptos4j,2,0,9,0,0,0,3,0,6,0,0,0,maven,false,open source,57,b8696a139e83a150c4f0db23fe9ff9ece42c1945,improvement
+349,wapkch_spring-authorization-server-demo,12,8,130,101,15,12,48,34,59,49,8,6,maven,false,open source,636,5b40f65ccf57673ba6a9d6c7ad40795492154421,improvement
+358,VaradM-17_Spring_CRUD_HibernateMethods,6,0,29,0,11,0,7,0,10,0,1,0,maven,false,open source,92,2c64cc47b1027db24977610930b0021ff8351458,improvement
+359,littlecool857_OracleDDLMaker,3,0,8,0,0,0,4,0,3,0,1,0,maven,false,open source,85,d051af58c4c7e069831b66272b2937309bd5017c,improvement
+360,claytonfraga_projecttreeMDI,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,42,4107bce835397fafe041778251aa2da95b476ab1,no improvement
+362,micycle1_processing-skia,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,67,4e9f219233f4a34425294c91dc6887b249c2f49d,no improvement
+363,michaelliao_crypto-tele-bot,2,0,15,0,1,0,6,0,8,0,0,0,maven,false,open source,62,5cac5072309e1f889ce0860dda3732bc5c03e95d,improvement
+365,forcedotcom_CRMA-dataset-creator,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,39,0576ad0a8f9ddb4a0b32a4e7414d687bbeb2583a,no improvement
+353,kisshotlirs_Intelligent-Bi,18,15,432,291,26,24,162,114,207,134,37,19,maven,false,open source,1426,6fcb5fc881317bbeec58ec15f088d40b7515464a,improvement
+371,supoman-service_Amazon-SP-API-JAVA,14,5,31,14,2,0,17,7,10,7,2,0,maven,false,open source,478,56f02aa603811006735f7bd255b9a90f5fb98ebf,improvement
+375,pawelpluta_oop-kata,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,36,9da6e22c9a4b9a7e268a5b9b84234c1746374b18,no improvement
+376,oy-paddy_luckysheet_demo,8,7,134,130,8,8,59,59,53,51,14,12,maven,true,open source,788,6663dcd3229b78e13d976bf44549afd7e2ab796c,improvement
+370,RunPiBoss_shymall_musical-instrument,9,8,401,362,11,10,140,121,177,160,73,71,maven,false,open source,1692,40344d6b637a4d800dbf0af589c7c81fa16d294c,improvement
+378,binhuang01_FeiShu-Notification,1,1,2,1,0,0,1,1,1,0,0,0,maven,false,open source,411,d11c05ac859989b43cdaa11cff2b76a0428b0b6a,improvement
+381,obiscr_openai-auth,1,0,6,0,0,0,0,0,4,0,2,0,maven,false,open source,47,0d88508c0b53ffffdaf737f2b0ff47c742de5f20,improvement
+379,ani1100_MovieTicketBooking,10,6,138,66,12,6,57,28,61,27,8,5,maven,true,open source,516,42e861f3156ca466dfedb3db67372c347c1deee1,improvement
+384,raffoulRicardo_movimento-qa-2023,5,0,106,0,9,0,41,0,51,0,5,0,maven,true,open source,117,70508b62689e7ddf2fe8534ab34fc20c1b520d8b,improvement
+382,kalpanag04_ResumeBuilder,7,5,161,113,14,12,74,50,67,46,6,5,maven,false,open source,545,7fd8069d424b91d479adb3f7c0ec1a021669a8bb,improvement
+387,FIAP_POSTECH_JAVA_PROGRAMACAO_REATIVA,2,0,32,0,4,0,13,0,14,0,1,0,maven,true,open source,70,d5a98ea310ca2df39f824d88c50ff5fb81cf74e8,improvement
+388,bhaveshS009_Selenium-Java-TestNG-Complete-Framework,2,1,24,6,2,1,14,4,7,1,1,0,maven,false,open source,61,a6c684ce8c655b654e8ac17ac6f8cb5a8e3b3f2e,improvement
+386,ashokitschool_ies_admin_api,11,10,261,121,21,14,91,46,119,55,30,6,maven,false,open source,605,0607822107ea561bd40fee8ab683c7db43176706,improvement
+394,kingkaki_bytecode-facade,1,0,3,0,0,0,2,0,1,0,0,0,maven,false,open source,43,675e185200e6aa6d14f1377b43028f8e40e49551,improvement
+398,leeshuaichao_hive_functions,1,1,178,46,7,7,45,25,89,12,37,2,maven,false,open source,184,60badb4b0e282c5efbdb295d10977b1de23cfaf5,improvement
+399,kailasneupane_tuf-controller,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,50,909cc6dae2c6373fba161c6502e93fae58cbf657,no improvement
+401,ynwynw_mall-public,9,8,405,370,11,10,142,124,179,165,73,71,maven,false,open source,1870,be266059631e3263b6a0bc8c9126bae7decbc7ea,improvement
+402,sumanentc_spring-boot-with-wiremock,3,3,94,89,7,7,40,39,44,40,3,3,maven,false,open source,359,4a5b4f9414c24ddd81cacb22433375a432e61dfb,improvement
+403,CDSecLab_XorMM,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,43,441a8e1d198f63ca2323247f0fb1781f3c98a927,no improvement
+389,a1173197570_smart-parking-management,18,15,320,278,17,17,134,120,136,119,33,22,maven,false,open source,3833,84215f1c5d0e3de4e280e17338d2fb525e65a9c2,improvement
+421,17Yuns_Translate_Api_Free,2,1,19,13,7,4,5,4,6,4,1,1,maven,true,open source,101,7e00d2f12c009c6df987f6d6a0da70b523939c4a,improvement
+422,kioyong_mysql-mcp-server-java,2,2,3,3,1,1,0,0,2,2,0,0,maven,false,open source,619,6cfca5cf28d12cf8b92311d5498de64cab97af61,no improvement
+437,taksebe-official_voice4PremiumBot,3,2,100,76,6,4,39,31,48,35,7,6,maven,false,open source,369,6b04b683c5cbaed70203df8bbc788b873a4dcada,improvement
+443,jlkesh_pdp_online_lessons_jakarta_ee,1,0,1,0,0,0,0,0,0,0,1,0,maven,false,open source,53,3f9603132cca86d1ae6d692f3749919ae4a0b48b,improvement
+444,codejava-official_spring-jwt-authentication,7,5,225,181,12,7,71,51,116,97,26,26,maven,false,open source,532,21cb3bd2dd824fce53f932070fb40ad66566ac65,improvement
+452,mfaisalkhatri_api-testing-rest-assured,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,43,e2e55d06bf4205bcdd639a74d9dc68cc585babf0,no improvement
+454,westydev_JavaReflection,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,35,18e0d752d7062b6655009ec00136be71a7282a0b,no improvement
+450,walterroseroec_mi-primer-api-rest,4,4,49,42,5,5,17,17,26,19,1,1,maven,true,open source,304,6a1df8b163f6718edd6d804354bd07f8d665bf1a,improvement
+457,11627685_easyofd-java,3,3,12,12,0,0,12,12,0,0,0,0,maven,false,open source,113,ae43f1d088389dd3e116884b8782d324fcbcd19f,no improvement
+455,danukarangith_Chat-Application,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,286,312583191c29351b4991725472207f7ad14c69be,no improvement
+458,Dddddduo_AiDduo-chatgpt-backend,3,3,25,25,8,8,8,8,8,8,1,1,maven,true,open source,149,30534ba2297361a76939505cb403c8aff29130f4,no improvement
+460,RealestName_PDF-Render,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,55,0c10ec3a664955643399ec03038ba9c2c64c85cf,no improvement
+461,Minshenyao_JNDIInjectorGUI,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,41,0566d4115a6c9ca03515a67673018de660e1b4e7,no improvement
+462,test-driven-development_kent-beck-money-example,5,1,11,1,0,0,11,1,0,0,0,0,maven,true,open source,62,6ba80b48781346b60d90f75535e8a5116244ecc9,improvement
+466,815090488_dynamicScheduler,4,1,177,1,8,0,54,0,95,1,20,0,maven,false,open source,85,c143490c0dabee9a9f2904495cb5d7e1e700c422,improvement
+470,550975101_scf-demo-java,5,0,14,0,1,0,5,0,6,0,2,0,maven,false,open source,75,308d42b1bb4905360d889d3f694eb2ba29852b39,improvement
+472,sauvageb_SPRING_BOOT_cars-spring-jsp,7,1,180,1,12,0,81,0,77,1,10,0,maven,false,open source,107,a119543338404289ffd0aee8eb3776104772fb52,improvement
+473,intensiongmbh_keycloak-split-login-forms,7,6,292,174,23,14,149,85,106,66,14,9,maven,false,open source,946,9410749e273f3fbc68753282d46a592d38c29fcf,improvement
+471,devsuperior_bds03,8,8,269,269,13,13,97,97,124,124,35,35,maven,true,open source,1094,0a26973bd68c3b2ce9411611b143d153162ab4b2,no improvement
+480,vagabond-systems_telstra-starter-repo,5,4,92,58,9,8,41,19,40,30,2,1,maven,false,open source,369,c15715e53a675c185aacc82fdac76bae8155a208,improvement
+483,wux1an_fernflowers,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,46,e7a476bc4e2ef4974e64a5406838b6083e409867,no improvement
+477,asecurityguru_devsecops-gitlab-java-vulnerable-application,6,5,246,179,9,8,60,56,137,95,40,20,maven,true,open source,1037,410c300034d6aa8880f6f4533b449c90da5b2af7,improvement
+484,rishabhs503_Hotel-Managerment-System,30,6,2346,121,201,9,1063,69,1000,34,82,9,maven,false,open source,1158,f804e9e2de4ad48ab4b037c510d2b25becbd8e50,improvement
+487,ALinkLab_alink_tutorial_java,3,3,109,103,1,1,23,22,62,57,23,23,maven,false,open source,446,426bf9f3c24230106f23e5b30a0470e67c1f24e4,improvement
+488,ali-bouali_spring-reactive-demo,5,0,55,0,7,0,21,0,26,0,1,0,maven,false,open source,91,1844eacfc5b7bbd79213fc714005a394332678b2,improvement
+489,niqifan007_fiscobcos-springboot,4,2,108,5,7,0,47,2,47,3,7,0,maven,true,open source,130,99a57a0c5c5612fa80cfd6877ebb64aa2c8b9f0e,improvement
+490,furkannzmnn_async-jdbc-rollback-spring,1,2,4,21,0,4,2,7,2,9,0,1,maven,false,open source,340,dfde71807bf18277fbc5cd18b6dbf0eaabbedf73,no improvement
+485,313hemant313_TheGameNotification,13,10,291,128,20,14,110,58,132,53,29,3,maven,false,open source,2310,9e58680bbb9b028c23384c33ab6c383a880aa536,improvement
+491,nizar787_online-shopping-app-java-springboot-microservices-docker-k8s,20,4,1249,190,101,18,555,98,550,68,43,6,maven,false,open source,554,006840c7d3a736f5033755e5c4599938d5f65d95,improvement
+493,yarocher_lazylist-cve-poc,1,1,1,1,0,0,0,0,0,0,1,1,maven,true,open source,91,d989c70197d56ec12f94dd0c202cd0b27ddca0f5,no improvement
+494,Jubril7_Store-System,0,0,0,0,0,0,0,0,0,0,0,0,maven,true,open source,38,ea7915cdfe5d2331defd75a780b1275ae0a08d34,no improvement
+495,dgonzalez211_AluraConverter,2,0,2,0,2,0,0,0,0,0,0,0,maven,false,open source,343,11cb9440f77ff0181febe947c3bcace15cd521b6,improvement
+504,xiaoxiamo_SpringBoot_HBase,3,3,218,95,9,7,61,36,109,45,39,7,maven,false,open source,415,2db06470fab70ac9f40801f7e6f0dfd35b6f35c8,improvement
+505,LuckybugQ_LuckyCommunity,20,10,578,45,30,9,249,20,255,15,44,1,maven,false,open source,856,0f0af58e6ef97157e1dc3012520bbba282d415b3,improvement
+506,jitnegii_Telegram-bot,6,4,130,106,9,8,51,44,63,48,7,6,maven,false,open source,593,469fccccf88c41018c957253258c29cb988e466e,improvement
+507,mhmmtbilgin_HRMS-App-JavaReactCamp,5,0,133,0,10,0,60,0,54,0,9,0,maven,false,open source,104,ccdbe70ccfffb772a3e80d4b6a91047bee93f2cf,improvement
+508,devsuperior_bds01,4,0,118,0,8,0,52,0,49,0,9,0,maven,true,open source,84,498c2d23752e8dde395c6b235f27613616fdbc3a,improvement
+511,bezkoder_spring-jpa-one-to-many-unidirectional,4,0,52,0,8,0,17,0,26,0,1,0,maven,false,open source,77,abe64c2b1967b0977bf9c8c41095117a97113051,improvement
+514,vensr_rete-algorithm,1,0,1,0,0,0,1,0,0,0,0,0,maven,true,open source,47,299df90c05d9ac0b018c22d16b6818eba021ae36,improvement
+515,digitalinnovationone_APIAutomationProject,2,1,14,8,1,0,6,5,7,3,0,0,maven,true,open source,47,3002b96d215620805feeef978e8f37ae38fe2615,improvement
+518,morganzee_Selenium_Perform_Right_Click,2,0,8,0,1,0,5,0,1,0,1,0,maven,false,open source,53,3c20c3d22e1feeeb33b8ee979cd99cea216fa053,improvement
+519,TechPrimers_ratelimiter-example,4,4,103,103,9,9,51,51,42,42,1,1,maven,true,open source,376,318d87e4998d462eebad19e8acf1cab530245eaf,no improvement
+517,gozdesarper_bootcampProject,7,6,142,110,12,9,63,51,61,46,6,4,maven,false,open source,558,b723d3054e39d3e5976bd4011c874d1f5cab077e,improvement
+523,savindaJ_connect-4-game-,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,308,0ea05650648d99349f4aeb480c2cfdd8c83b7a7e,no improvement
+524,MedetHasanUgurlu_e-commerce,6,0,69,0,11,0,20,0,36,0,2,0,maven,false,open source,96,0fd593db4028d9f0db2a29f496c46bfc6e553502,improvement
+521,mohamedYoussfi_kafka-spring-cloud-stream,8,8,197,197,14,14,91,91,84,84,8,8,maven,true,open source,632,1252417ad1370f53255a9f29e3af562ae8e6dbdf,no improvement
+529,Liuoodh_HcProject,4,1,146,21,11,3,63,10,65,8,7,0,maven,true,open source,291,3cfee0a902ce8bd85151d44f3acffb0ab9816c25,improvement
+534,FelipeJB_WikipediaAutomation,2,1,13,5,1,0,5,0,3,2,4,3,maven,false,open source,62,29f9011de8a2b37af0815d0a347fc1740113158a,improvement
+533,M-Razavi_Spring-Data-OpenSearch-Example,9,4,74,40,10,6,31,16,32,17,1,1,maven,false,open source,338,20de93478b8b3a4516ea9c557d2b66937f940a25,improvement
+536,SimpleGraduationProjects_SmartCommunityManagementSystem,15,10,266,92,13,8,109,36,113,42,31,6,maven,true,open source,545,9e73f2ee18b0e518d0e860c4f3f66dd151df8a31,improvement
+537,Java-Techie-jt_orderFulfillmentService-async,2,0,39,0,7,0,12,0,19,0,1,0,maven,true,open source,65,c599c168821dd4ddf8af05d2e66301be33d593be,improvement
+538,mohamedYoussfi_springboot3-oauth2-keycloak-customer-service,5,2,80,2,13,0,26,2,38,0,3,0,maven,true,open source,94,06cb586df03d0715775d8982ba6ee0e96e76e52a,improvement
+539,YuLin-Coder_No21C2CSecondHandTradingPlatformManagementSystem,20,6,187,20,6,2,54,7,101,5,26,6,maven,false,open source,466,974cd2ad4f8be4f2a56ed0057152012d902441fc,improvement
+541,morytyann_STBMock,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,36,fbb72037bfc58710f1c3914fac57b7d3ed299144,no improvement
+535,ZYNORl_multi-rw-router-tx,8,7,156,64,12,9,78,26,60,28,6,1,maven,false,open source,2273,7be69fcd30ce9e1c87d1947bb06fd3de5c36881e,improvement
+545,JavaGraduationProject_PetSuppliesSalesManagementSystem,13,9,266,205,18,13,108,83,113,88,27,21,maven,false,open source,929,18652db1aaef5b1b873561303b7f6e17cf85532d,improvement
+551,lerry903_pinyin4j,1,0,1,0,0,0,1,0,0,0,0,0,maven,false,open source,40,c4872f9f0769a96bc8fc773c045eda4544f8c50d,improvement
+547,JavaGraduationProject_GarbageClassificationWebsiteManagementSystem,13,10,252,167,13,10,100,67,110,75,29,15,maven,false,open source,1088,7763c43dbb2d30143bfb45faa5466ba4dbfedfe6,improvement
+558,nantaaditya_circuit-breaker-example,4,4,139,139,9,9,65,65,57,57,8,8,maven,true,open source,860,320410336da28cc63e70bee5817292ab6c80144e,no improvement
+560,Lekwacious_employee-management-system,5,2,134,13,9,1,62,7,55,4,8,1,maven,false,open source,94,4ec982cb5ea061f1534419d0f30aac9cf36f9486,improvement
+552,tuyrk_hospital-register,18,14,530,186,27,19,159,76,277,83,67,8,maven,false,open source,2408,52bd4576d568af5c9bf0c5dfb8c9c0ec3a70b72b,improvement
+562,yagmurdogan8_Hotel_Management_System,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,43,c4b6c7b09396a908c06ee3921bfb80ae4a9e39f0,no improvement
+563,BigAlRender_spring-boot-example,2,0,68,0,6,0,29,0,31,0,2,0,maven,true,open source,74,12e985fadda0a7792200064ddfcc1251a9b1153f,improvement
+564,MingA21_state-machine,2,0,62,0,4,0,25,0,28,0,5,0,maven,false,open source,57,f7dbbc0c1f51d93fd4e64cbd3ce0b13a2850237b,improvement
+567,P0wfuu_rasp-bypass-benchmark,2,2,65,65,6,6,29,29,28,28,2,2,maven,true,open source,318,ff6c36d85487cf5c890392bf09747d1b54c0979e,no improvement
+561,yesorno01_studentera,4,4,196,184,8,8,62,56,100,95,26,25,maven,true,open source,825,642cf58edfcf113cc6a8c1c54943d11f76a467a9,improvement
+568,Negro-Development_ja-netfilter,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,39,1177180730120ec8174fefad5ad44e4c179ae469,no improvement
+570,mohamedYoussfi_spring-batch-with-unit-tests,6,6,72,39,11,12,24,13,36,13,1,1,maven,false,open source,269,5cfce9600f2c010da9d7ae042b55fa6cad971a97,improvement
+571,wangtongzhou520_spring-security,7,4,270,14,18,0,107,9,132,5,13,0,maven,false,open source,138,ff0aff6c7fc0332fff774e0832be0376d0b6a28d,improvement
+569,ashrawan_apache-poi-chart-sample,4,2,57,43,5,5,25,20,25,17,2,1,maven,true,open source,428,91ab300e227c2322184985ebe77db1ab5ef96370,improvement
+574,Jubril7_decagon-precuriculum,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,35,614c54e3bb0f802fffcfb58bb8afd065e50d9a8b,no improvement
+573,jaaxteam_resfulapi,6,1,70,1,10,0,23,0,35,0,2,1,maven,false,open source,102,2884aae3ed14bb78ffb88fa5d1de702fe860a39a,improvement
+575,bezkoder_spring-boot-validate-request-body,4,0,55,0,9,0,18,0,27,0,1,0,maven,true,open source,72,f9736efd13e11e7be14505039751497155722ecc,improvement
+577,Jubril7_JavaNIO,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,35,63c27d3eb726de89acff96ab620fcb3b0fe5ef36,no improvement
+576,mista1984gmail_kafka-article,11,4,366,284,38,32,174,124,141,116,13,12,maven,false,open source,1412,e6ab3d1cc9e8bb69b9ac32bb1a7f163d8fdf7770,improvement
+591,abhilashgowda23_BASIC-REST-API,2,2,64,64,6,6,29,29,27,27,2,2,maven,true,open source,288,80e4cde012465ebec05c185500c97ffa3ad658c5,no improvement
+599,f627422467_NestTool,4,1,7,2,1,0,3,0,2,1,1,1,maven,false,open source,57,3168d593d03e0dc3c5f90b990f185fb355d64012,improvement
+600,instaclustr_instaclustr-minotaur,2,1,60,55,3,2,28,26,29,27,0,0,maven,true,open source,90,f6905cf2aaf92bd035b6211e43861a5511470c25,improvement
+588,ynwynw_oaSystemPublic,13,12,458,437,14,14,165,157,200,191,79,75,maven,true,open source,2122,a6c8ada315b88172ee14e168d18dd994114553ee,improvement
+602,liaxiufeng_cloudbox_backend,12,3,246,30,18,3,116,14,97,12,15,1,maven,false,open source,379,0d3bea84500f14622079d4aa1623275e555890af,improvement
+604,tuya_tuyalink-java-demo,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,39,7dedd80898db94f5c66fe6fc4de65de370787ec0,no improvement
+603,EduardoPena_fdcd,5,2,14,6,3,2,6,4,2,0,3,0,maven,true,open source,120,c76eeff8b45a1f8cd51f3c1694f04fc31eef9c75,improvement
+620,AllenDengMs_sm2_encrypt,1,1,4,4,0,0,4,4,0,0,0,0,maven,false,open source,37,d629045a13700af54070e0d9a0fe4a8782743cc3,no improvement
+621,ZhiQiAnSecFork_Java-UTF8-Overlong-WAF-Bypass-Hook,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,44,0417608bb4bdbf93d6a734cfc0122bed5264f244,no improvement
+622,aws-samples_genai-test-automation,7,7,35,35,1,1,18,18,13,13,3,3,maven,true,open source,1804,f26a6cf353b7dd88ee21669ecbfd42959625f9d9,no improvement
+623,murewaashiru_Nippy-Response,6,4,61,41,14,10,24,18,22,12,1,1,maven,false,open source,246,6767352177b9b7e49f2144120fe7612b60cdef52,improvement
+619,OlgaMaciaszek_crac-db-refresh-scope,1,1,1,1,0,0,0,0,0,0,1,1,maven,false,open source,2421,7a945261744b5ceb5a8b170ba2dc9d3435e05408,no improvement
+626,Y5neKO_SSRFxxk,1,1,10,9,0,0,5,4,4,4,1,1,maven,false,open source,70,419af75bb95ef97bb689a2108a35b01aa6c89527,improvement
+624,JIU-W_wpxt,10,9,168,82,11,10,74,34,73,36,10,2,maven,false,open source,922,5558ede37e4fe2e1ae4b8c2f2b947f143dec2a91,improvement
+630,xiangfangsong_Java_springboot_demo,5,5,137,137,8,8,59,59,61,61,9,9,maven,true,open source,903,151f5c64b8e5e8e935d13868c9b06ea23cd7dc3a,no improvement
+637,hanzelkaraagac_Foor-Loop-Sorular,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,36,9daef710bd84cb19555821a2f23acb8d8166b6da,no improvement
+640,lydtechconsulting_kafka-spring-retry-topics,13,7,142,93,18,12,55,37,64,42,5,2,maven,false,open source,871,458c93d128ab61345171ecf90f3d29dfc4ff27ba,improvement
+633,ynwynw_PetHospital-public,14,12,398,290,20,19,148,120,170,120,60,31,maven,false,open source,1638,17b917d3d4ac91c3d3845049dcb8bce1484b0bfb,improvement
+645,iamppz_ecdict-api,4,3,55,27,9,6,18,9,27,11,1,1,maven,false,open source,189,fd7787974a84da5e0b2744042eb38d3c864e38cf,improvement
+649,danvega_rewrite,3,0,82,0,8,0,38,0,34,0,2,0,maven,true,open source,74,8d75f0ef2b99e231b7c82b371086c7492957ac26,improvement
+650,oldweipro_hik-isup,3,3,47,47,11,11,16,16,18,18,2,2,maven,false,open source,283,ad68d1a043ac0d358cc0e08f5a42e74aa37bb3cf,no improvement
+654,GardeningTool_AgentInjector,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,49,3f949418bf2730fb1f4b702751adb1d4d13e9964,no improvement
+653,glaforge_adk-java-maven-template,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,217,6ec9c1795635d9ee949ae6b9aa867f70b3a70b7f,no improvement
+656,aws-samples_amazon-aggregation-query-proxy,1,0,17,0,2,0,7,0,8,0,0,0,maven,false,open source,100,e2777904b958d7a61e819ef5155a341a783fb448,improvement
+655,SelimHorri_embedded-mongo-playing-with-spring-boot,5,1,133,3,9,0,59,2,56,1,9,0,maven,true,open source,186,07a8dadeabbe03e5bd165aef16480fdf0929324e,improvement
+657,sundharamurali_elasticsearch-springboot,5,1,83,47,7,3,34,19,39,23,3,2,maven,true,open source,248,bc7f925783f0bc51a420b531e2e74b3083298fd4,improvement
+660,Aealen_Topic_Selection_Springboot,6,6,113,64,9,9,47,21,50,30,7,4,maven,false,open source,472,27c594edff673322b4f180dc6c0cd52b209694fc,improvement
+661,czqclm_netty-websocket-cluster,5,5,191,191,8,8,66,66,96,96,21,21,maven,false,open source,1140,21e1928d2848bb60ac1e4e06d5a8533d19c9b6b5,no improvement
+664,giuliana-bezerra_aulao-injecao-de-dependencias,2,0,23,0,5,0,7,0,11,0,0,0,maven,false,open source,73,e3da8ee08aa08856ca24f9fe6caa3e57268e5c27,improvement
+662,PursueMilk_chat,15,13,276,194,24,23,135,84,109,84,8,3,maven,false,open source,1271,de65ae5629bc55d4057a8cab1d110bd3aebfc955,improvement
+667,gianValentin_core-java21-springboot3,10,3,111,4,16,0,36,3,55,1,4,0,maven,false,open source,168,707e107ed1677d3796264c4f0a3fbe443bb219b0,improvement
+669,DJ-Raven_spinner-progress,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,44,5c95d2149420edb6cdf2437eb7454aaa2828ffb5,no improvement
+666,tatimohammed_Near-Real-Time-Weather-Data-Processing,11,6,248,55,16,6,94,26,113,21,25,2,maven,false,open source,686,a3038e412d82d32a639e738876e43d61adb9d9af,improvement
+670,HMZElidrissi_spring-security-jwt-boilerplate,5,1,46,1,12,0,18,1,14,0,2,0,maven,false,open source,80,b9888a49a4fc9080a7c19298d4fcad1f0ff41539,improvement
+672,aws-samples_csr-signing-using-kms,3,2,11,8,0,0,10,8,1,0,0,0,maven,false,open source,65,f11f0e0bd4ec1bad1ab2c6a2f3db388cdabe9707,improvement
+671,shaozhujie_lvshi,12,12,263,263,13,13,92,92,127,127,31,31,maven,true,open source,1082,f21a8eb6920ed1aef21c68ccc07f8634c193cc1b,no improvement
+674,awslabs_real-time-vectorization-of-streaming-data,16,3,68,12,0,0,42,6,26,6,0,0,maven,true,open source,1186,195b1e57ead7dbe8f32b1498a5030b31355052e6,improvement
+684,dino9527_spring-boot-tus,6,4,146,57,8,3,69,30,62,22,7,2,maven,false,open source,334,41d453298ca1a7ff1fa610b196f46ec70424c892,improvement
+679,nikoloulopalex_rbac-jwt-spring-boot,6,6,234,234,10,10,80,80,113,113,31,31,maven,false,open source,831,4acad856ccd5ffea22638ff9c0fbb72d31795be1,no improvement
+685,LTH-S_AmazonCrawl,13,8,310,134,14,5,108,40,134,57,54,32,maven,true,open source,250,1c5a87f432d22c8fcadba5b933d2ffdae0a258e2,improvement
+689,MossCG_MossTwitterRandom,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,35,f724d88f5fac25b064bc49ba6d4abffc9255ebf9,no improvement
+690,creativityFactory_SwiftServe,0,0,0,0,0,0,0,0,0,0,0,0,maven,true,open source,43,6e8a4bc7f0db2b9a9b4c3e25e136fcc5c4568507,no improvement
+686,jsalonl_interceptor-springboot,4,4,95,92,8,8,43,42,41,39,3,3,maven,true,open source,366,ca197f6aa22c128bbdcba6257a86a5ed99913057,improvement
+696,HypixelDev_HypixelData,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,38,94e2bd27079a0506786a1bd98acc298b2983e72c,no improvement
+698,ShiDuoBeiLi_part_time_job_system,8,5,193,65,13,9,86,24,80,31,14,1,maven,false,open source,342,ac1fa8b742bedf61f435e1c93988caf126ffdb3a,improvement
+700,liuhaijieAdmin_spring-boot-easy-excel,7,6,301,151,16,8,121,64,128,60,36,19,maven,false,open source,335,df27f51e17dee69a3569c2f34a3d0a8f16147711,improvement
+702,hartig_SPARQL-CDT-Tools,0,0,0,0,0,0,0,0,0,0,0,0,maven,true,open source,47,fe49e61e323f94584a2673190e85c6ea8554bdda,no improvement
+704,339447532_springboot-redis-orm-starter,4,4,41,40,5,5,22,22,14,13,0,0,maven,false,open source,659,e2cdfaab76d7bd1a46c49105baa60f67ee7c7c5f,improvement
+703,jarcms_wechat-smdc,7,5,150,97,11,8,70,44,64,41,5,4,maven,true,open source,721,6be94285e9fea7713ada8b1c67a9742ec7439917,improvement
+707,Python-22_JSMSpigot-Plugin,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,66,e3d9bb1d9799fdb8498a99bb7bae18327f3066fe,no improvement
+709,PatriciAlves_microservice-email,7,0,182,0,14,0,86,0,71,0,11,0,maven,false,open source,107,5df178fafc0b19531267338b152c74f5d159dad7,improvement
+710,knowledgefactory4u_registration-login-spring-boot-security-thymeleaf,9,2,247,2,15,0,111,2,94,0,27,0,maven,false,open source,106,aa05e01b0e56a6867dbae2e2a25b83c5b6564751,improvement
+713,SyntaxTechnologies_CucumberFrameWorkReviewBatch14,4,1,45,6,5,1,25,4,13,1,2,0,maven,false,open source,71,163202d4b4b06f9ad579e07b9c736d171ee1c810,improvement
+714,FunckingCat_Dark-Dangeon-Game,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,34,621aa650edb1772f7259b6b2be9fd02400d82493,no improvement
+716,mayank042_spring_microservice_sample,11,1,439,2,38,0,182,1,207,1,12,0,maven,false,open source,196,de59c01585522548b292cf8db2125fe8d714c41a,improvement
+718,CGCL-codes_PHunter,3,1,6,2,1,1,2,1,3,0,0,0,maven,false,open source,92,74380d737ecdab610f6f663138b63f3734dd1255,improvement
+715,alexandreroman_dallecool,7,7,108,91,16,16,37,26,53,48,2,1,maven,true,open source,549,a9ab76e8ab81b618f04168a2a71b813e5f2283f1,improvement
+721,akolata_spring-boot-metrics,3,0,52,0,9,0,19,0,23,0,1,0,maven,false,open source,59,f3e11bc40e3bdacc3c9a131b692a878957bebdff,improvement
+723,blackapocrypha_ZiWeiDouCountsAstrologicalDivination,2,1,40,13,5,1,15,6,18,5,2,1,maven,false,open source,59,04cce9ae4041c02623d0041178c9e2e50fc84177,improvement
+720,sendelufa_spring_boot_tests,8,6,61,46,9,8,27,18,23,18,2,2,maven,false,open source,339,a560e7904713e8d7c2b5dd64302b048f36c0b4dc,improvement
+724,clover_clover-tr34-host,2,0,8,0,0,0,8,0,0,0,0,0,maven,false,open source,45,f38ced6551c1a18e7a987141c2a045a0f9f30dda,improvement
+725,digantv_authentication-service-springboot,2,2,33,33,6,6,11,11,15,15,1,1,maven,false,open source,154,f0b22feb6f7e736f79ad07c61ef4c7d946574011,no improvement
+727,inquery-team-git_Iceberg-File-Integration,8,7,231,75,21,5,87,31,101,32,22,7,maven,false,open source,381,5f82340eccb3a055fc11b7ee9d0f5c29ec7bdfb4,improvement
+729,aiaicoder_xinoj-code-sandbox,5,3,103,71,8,7,52,32,39,30,4,2,maven,true,open source,464,2886dd0a504de34db8aa81f55b045cb30706b4ca,improvement
+736,Y5neKO_YCryptoTools,2,2,14,13,0,0,9,8,4,4,1,1,maven,false,open source,58,3d6ab831f142873857d4ed0dcfa8c10ead0b1ef5,improvement
+738,Blooof_Mks2MqttReporter,1,0,1,0,0,0,0,0,1,0,0,0,maven,false,open source,39,dca66979d8511c4759b0c059e3bba88df2d125f2,improvement
+739,Cafecanudo_pim8,4,1,125,1,8,0,56,0,54,1,7,0,maven,false,open source,68,4405bf09daa86d2cf1b3e250ffb8e2cd649ccd71,improvement
+740,nunoalmarques_technical-indicators,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,39,ceda247643950919d335514b6b8bcadd406d2b08,no improvement
+742,GoogleCloudPlatform_google-chat-notification,4,1,23,1,3,0,5,0,15,1,0,0,maven,true,open source,96,15df16e3b119e8169e14d839107f5984d75dce77,improvement
+743,wenqiglantz_sample-spring-boot-starter,0,0,0,0,0,0,0,0,0,0,0,0,maven,true,open source,268,cda3ccb98c226a5207473db27189263b3555f273,no improvement
+745,giuliana-bezerra_introducao-testes-automatizados,3,0,74,0,7,0,32,0,33,0,2,0,maven,true,open source,66,314ba6e82141125c782e28eaa2601be54523f9c4,improvement
+744,wangzhengsi_tempura-code,7,5,214,180,10,8,70,57,110,95,24,20,maven,true,open source,775,16b15e595f4b3d6b3fa6a492198020153c8b4e83,improvement
+746,hzx0910_Cellular-Z-Server,7,2,111,93,7,5,48,40,50,42,6,6,maven,false,open source,537,d67e0a499a752e4a6f9c2eae320a08dcd02f4c08,improvement
+749,menno-pieters-sp_sailpoint-xml-merger,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,37,138c2707a0692aae50f334cfc1487ef74a87f198,no improvement
+751,softwarefactory-project_keycloak-filter-provider-users,5,3,536,20,16,2,175,7,244,8,101,3,maven,false,open source,249,72fd15d115ee8b3f1cfdfaba9815b64cfe74e184,improvement
+752,YangNaner_reggie_take_out,10,10,234,64,16,11,110,25,95,26,13,2,maven,true,open source,448,aac9590fa62bd3d4df37e837b85c9544af94ea7f,improvement
+773,2227324689_thread_and_event,2,2,55,35,5,5,29,17,19,13,2,0,maven,true,open source,637,d256759d508d8e9a49a8036467c012be4489a22e,improvement
+776,YeeQan_match-project,7,2,261,4,21,0,135,3,95,1,10,0,maven,false,open source,157,25495f230a697de3baa4e2bdc4d77367a3a0dd77,improvement
+777,MuJianxuan_msk3cloud-webapi,3,2,56,17,4,2,27,9,23,6,2,0,maven,false,open source,357,de5cb3093e38ffade7cebd6aefd5363f74bd4012,improvement
+779,iamMrGaurav_TODO_SpringBoot,5,1,109,1,10,0,48,0,49,1,2,0,maven,false,open source,119,6c1d6b63f84880059aae08d0ac174190dd79db7c,improvement
+780,Mozenn_spring-boot-keycloak-admin-api,3,3,87,78,8,7,40,34,37,35,2,2,maven,false,open source,662,56a800d4ec6dde5e4c9a85a17679010291d05320,improvement
+781,iamMrGaurav_SpringBootCRUD_Web,6,1,116,1,11,0,51,0,52,1,2,0,maven,false,open source,125,9ee9b17c7d0e9d1191be183d7876b16e280e7987,improvement
+782,alfredorueda_ExampleBefore-lab-3.06-JPA,5,1,136,1,9,0,61,0,58,1,8,0,maven,false,open source,122,8f81f85e3ab9337843a17101d0b5a0b1777dc520,improvement
+783,naumanshah03_apache-commons-text-rce,1,0,1,0,0,0,0,0,0,0,1,0,maven,false,open source,45,3fa4764e3efdcb206403422d6cd4d63bc867942f,improvement
+785,Sevenflanks_JCConf-2022-freestyle-spring-data-jpa,3,0,40,0,5,0,19,0,16,0,0,0,maven,true,open source,121,5eaa91aef1376b4b40ca533e5145a9816b72775b,improvement
+788,amuthansakthivel_OrangeHrmPlaywrightFramework,0,0,0,0,0,0,0,0,0,0,0,0,maven,true,open source,66,ea5d723e6d2363fdd2d48c06c89bfd910bfef813,no improvement
+790,MedetHasanUgurlu_employee-service,6,5,82,37,11,10,30,12,40,14,1,1,maven,false,open source,512,69ca4ca112c72214e49b9942afda9e69c39aa114,improvement
+791,SimpleGraduationProjects_WanderingCatAndDogRescueManagementSystem,15,6,228,88,6,4,48,34,117,32,57,18,maven,false,open source,383,079c202fcf666d9edf37014b4d297dd725990834,improvement
+792,folksdev_spring-boot-graphql,8,4,95,64,13,8,29,20,52,35,1,1,maven,true,open source,579,070784ab235f04c51620400fa4cf3984bdedbda6,improvement
+795,devsuperior_jpa-queries1,4,0,53,0,8,0,17,0,27,0,1,0,maven,true,open source,113,e38dec1a55b211633e45463110cfea76eae1ee57,improvement
+796,Jpmmdf_leader-election-spring,4,3,45,29,9,5,14,10,22,14,0,0,maven,true,open source,492,92b10edd3445df341a12f56311ad19ca2fc463bd,improvement
+798,bigfish49_llm-spring-boot-starter,12,10,86,57,7,4,32,17,40,29,7,7,maven,true,open source,1052,4888756a73b361d8613c9f4931b2723baecf8087,improvement
+799,1howley_CRUD-app,1,1,5,1,0,0,1,0,4,1,0,0,maven,false,open source,52,1c514a3e83538e54bac511fbfaa3860b52247b20,improvement
+800,ManishParashar0_SpringMVCWITHorm,2,0,7,0,1,0,3,0,2,0,1,0,maven,false,open source,79,44aa36235d445858a1554a71f11f2e774361d464,improvement
+801,Ashan-TUF_web-Final-Viva-Project,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,44,575462badfbd433db9b31a30b6d0e2a55bf8bb6b,no improvement
+805,Casterlabs_d1-java,1,0,1,0,0,0,1,0,0,0,0,0,maven,false,open source,65,80d66ea43aa4f34e574348815e769c12f6a71a2a,improvement
+806,chamithKavinda_Mobile-Phone-Shop-Management-System,1,1,2,1,0,0,0,0,2,1,0,0,maven,false,open source,560,23b51b32ef368eb0bec5ced637988a872a36d90b,improvement
+807,DenisVerkhovsky_SonarQubeDockerDemo,4,2,29,15,5,5,11,5,13,5,0,0,maven,true,open source,256,788be313ecc7fd3e635fe7dc03fe366c3d47e751,improvement
+808,VKravchenk0_SO-Spring-authorization-server-demo,3,2,53,39,8,5,18,15,25,17,2,2,maven,true,open source,302,9228645f60c486dc9eb5f75d7b1de4fdd0ae854b,improvement
+809,MuhamedHabib_javafx-crud,1,0,2,0,0,0,0,0,1,0,1,0,maven,false,open source,214,efa7330776811f96d5f147f292ac583534ec82dc,improvement
+812,nature924_No80Stray-cat-and-dog-rescue-website,15,11,266,168,13,10,109,68,113,75,31,15,maven,true,open source,1668,10fa9f21bf0eb56fa6d5e6b78c6ca2b2cc8c38a6,improvement
+813,nature924_No268Group-Portal-Website,20,17,342,276,16,16,153,127,134,109,39,24,maven,false,open source,3026,cc111ce8f877cdcecbaacc146380b67934b33ab1,improvement
+815,nature924_No47Enterprise-Employee-Compensation-Relationship-System,20,17,342,276,16,16,153,127,134,109,39,24,maven,false,open source,3036,03b642023f30dc244a508bff7e68d754edbfc87b,improvement
+816,Chathupachamika_Clothify_Store-sql_quaries,2,0,6,0,2,0,2,0,2,0,0,0,maven,false,open source,893,5b3afcece691297575efa6f5b27e70835007902d,improvement
+817,reinershir_Shir-AI,13,9,169,107,16,14,67,40,79,48,7,5,maven,true,open source,654,0014db9f51086fe7c6ef4e16e74bd2cac9faee69,improvement
+820,521zhouzhen_estore,4,2,11,6,0,0,3,0,5,3,3,3,maven,false,open source,58,4b834109001706605b738b7f0da29f3717b88448,improvement
+821,san4tone_cow-admin-project,17,13,561,364,21,15,186,121,259,167,95,61,maven,false,open source,1416,877615bd323617c351fbed5175698aebb684005c,improvement
+822,aws-samples_sasl-scram-secrets-manager-client-for-msk,3,1,30,5,2,0,13,4,11,1,4,0,maven,false,open source,2480,d7f7c8bace5403aa63dcea5aeafd20c0809b38fc,improvement
+823,fatihhernn_spring-boot-ecommerce,4,2,128,2,8,0,59,0,54,2,7,0,maven,true,open source,156,6fad5f5ed343f7611e356f1be7a51dfcacc12ba5,improvement
+824,sudot_jna-golang-sample,2,0,6,0,1,0,3,0,2,0,0,0,maven,false,open source,391,625fb5e9af2c19300865b9bb5cc36381475d4f7d,improvement
+828,Java-Techie-jt_reactive-exception-handling,2,0,58,0,5,0,26,0,26,0,1,0,maven,true,open source,94,6d2b4210b3bd16321249e1a6ac1d9f92b36df4c7,improvement
+829,iamMrGaurav_Java_CRUD,1,1,5,1,0,0,1,0,4,1,0,0,maven,false,open source,48,0ae02016be7d88b308ce9dcec1f256727e727783,improvement
+830,GSMgeeth_medium-coffeeshop-sample,5,5,120,120,9,9,50,50,52,52,9,9,maven,true,open source,837,07861f456182e3319843cda51946973dbfffd306,no improvement
+831,ErencanYldrm_SpringBootProject,7,2,126,15,12,1,58,8,52,4,4,2,maven,false,open source,173,c757f811b81d59050e690b49411e2d683e377420,improvement
+833,yoandypv_spring-boot-rest-client,2,0,65,0,6,0,29,0,28,0,2,0,maven,true,open source,81,fd085304209fbf600f79e335be5a73d46871d24f,improvement
+834,p1n93r_GadgetInspector,1,0,2,0,1,0,1,0,0,0,0,0,maven,false,open source,54,98e1bdc682634488903c5b616a68a4d1ea02a61b,improvement
+835,liuhaijieAdmin_db-machine-submeter,7,6,168,114,15,12,71,44,67,46,15,12,maven,false,open source,426,b23333204fadcd55fa2052a7552ccdf2d5879d5a,improvement
+836,savra_ssewebmvc,2,0,47,0,6,0,16,0,24,0,1,0,maven,true,open source,71,f00f6b7df779360a27233ceb115c2986214c0689,improvement
+837,ioufev_opcda-utgard-demo,7,7,28,28,1,1,25,25,2,2,0,0,maven,false,open source,84,550c74343c76744355b9874fb6bcf849171d7e72,no improvement
+845,cod3rjava_spring-boot-kafka-poc,4,0,93,0,8,0,44,0,37,0,4,0,maven,false,open source,134,3b40cca98f0dd8e5401f3aa2535812dea3505c46,improvement
+2,java-sec_tomcat-spi-backdoor,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,50,68fb8462a9c7cc209ecee426f0aea884efa19ed2,no improvement
+4,ManishParashar0_SpringBootRestAPIPractic,5,0,94,0,11,0,43,0,37,0,3,0,maven,false,open source,127,52c1cad221fecd0036915bb981970777500eba6e,improvement
+5,ManishParashar0_Springjdbcframeworkpractice,1,1,3,2,1,1,2,1,0,0,0,0,maven,false,open source,144,8658e6b3f16e63feb5c72630d085cb6aa0b835c1,improvement
+1,LahiruHarshana_Project-Railway-MVC-Architecture,1,1,2,1,0,0,0,0,2,1,0,0,maven,false,open source,259,dbe51dcd621c4929f8698cb80e1484fc73964176,improvement
+26,zied-snoussi_java_crud_mysql_jdbc,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,44,b7c8a10727ba2dcdb6ac8d301870aa0af3d0a932,no improvement
+23,rongliangtang_JavaDB,1,0,2,0,1,0,1,0,0,0,0,0,maven,true,open source,384,a0c5054f441f9179537187e0d9307373e13ffab7,improvement
+32,JavaGraduationProject_CampusSecond_handTradingPlatformManagementSystem,11,3,143,10,5,2,40,4,66,3,32,1,maven,false,open source,371,32485b7e55320e53466ea1d55a44ef2f6603bf12,improvement
+39,victor-onu_jwt-demo,6,6,50,48,12,12,21,21,14,12,3,3,maven,true,open source,252,6af0deb20060613c11bb583757bfe936ab42d9f8,improvement
+25,bayrameker_java-ai,4,3,30,24,0,0,10,9,19,14,1,1,maven,true,open source,807,1458474f43677bfe06464384903a62991b5de91d,improvement
+46,culyssander_gestao-de-venda-desktop,2,2,10,2,0,0,3,0,7,2,0,0,maven,false,open source,78,985360d78136dbb2391263df4f451bd2f107bed2,improvement
+40,Elijahhx_Dead1ock-h4ck,8,8,55,51,15,14,19,17,20,19,1,1,maven,false,open source,504,adb67cb39b02a4f8c8e6acb450ec3f653c2a58b0,improvement
+62,alansastre_java-solid,1,1,5,1,0,0,1,0,4,1,0,0,maven,false,open source,51,da7bc6c0df29280bd978f205262bab3f776ca7db,improvement
+43,tyouazusa_JLUCSCommunity,20,9,578,43,30,9,249,20,255,13,44,1,maven,false,open source,920,db53c4276069ed073d9a05b03c1121daa619f042,improvement
+55,ashokitschool_apache_poi_java_app,6,4,102,73,9,6,45,32,46,33,2,2,maven,false,open source,472,df522ca875ec0121581227cd74929134b4a7f8d1,improvement
+106,willyancaetano_java-21-archetype,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,42,0c3d4729b2fb9963767ed47dd4ba933514b71959,no improvement
+108,dwfcasq_JavaCat,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,36,eb48a19cdf891588d75282b62e2408f4c87607d4,no improvement
+115,gurkaybirinci_Batch171JavaAdvancedPracticeNT,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,39,ad0ded8356db44d5da365a09b2bfc3c175a5d59c,no improvement
+127,First8_Extended-SAML-IDP,4,3,28,15,4,2,17,12,7,1,0,0,maven,true,open source,371,c2654c1a0e4ec6ebf53b6ee9f9b6896e93aff285,improvement
+128,JavatechWorld_BusReservationComplete,8,4,163,84,14,7,76,38,66,37,7,2,maven,false,open source,519,59c42dcb617d7b92e747dcfeaa20a1f0eee0d6d4,improvement
+130,yilinyo_lkd-javaee-trade-backend,8,6,232,114,14,9,104,54,99,46,15,5,maven,true,open source,539,e2f5f6f2a7dc69f1d0791d9f6ff935c0d08cd106,improvement
+132,susnigdha1_PlaywrightTestAutomationFramework,2,1,36,13,4,3,17,4,13,6,2,0,maven,false,open source,236,b46e8cd8c2b13aab78fb0b61e86a027d4809c580,improvement
+133,Echo24h_WorldBorder,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,75,72275b9cf8d77d38ad690897a2fd4f4359f74712,no improvement
+134,pkafel_educational-fixed-window-rate-limiter,0,0,0,0,0,0,0,0,0,0,0,0,maven,true,open source,44,5ffbe343f7e3be3b5cbc3f60549f537cd293d559,no improvement
+144,ShashankN_qrcode-terminal,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,50,1d1e79aada857dcfa417505152a5cbfce02b7d43,no improvement
+138,U109_incremental-sync-flink-cdc,13,5,471,77,38,6,215,35,193,33,25,3,maven,false,open source,210,c54a677c6ea1ae22756153e9e7f8dd71a76ceb2a,improvement
+147,WuYiheng-Og_redislike,8,3,140,8,12,0,64,1,60,7,4,0,maven,false,open source,271,eb08773cba435deebbf880315327b0ecce7f7a93,improvement
+152,fadykuzman_swagger-demo,3,2,62,42,7,4,20,16,34,21,1,1,maven,true,open source,323,ddc5b38c1f72af04fb460aca38febded09b91585,improvement
+161,YASinger_torrentAnalyser,0,0,0,0,0,0,0,0,0,0,0,0,maven,true,open source,42,1285ed7866d8e6d0ccbda2a76fea168529c1555c,no improvement
+145,Phone-Khaing-Hein_movie,7,5,135,87,11,9,56,33,63,43,5,2,maven,true,open source,626,97fc53352ee4db28291826a4ad3c90c9bf9559be,improvement
+162,TheUnpunished_SpeechTool,2,0,2,0,1,0,0,0,1,0,0,0,maven,false,open source,381,6f6a30b5b31348275b74370b8de5296a0c89aebf,improvement
+165,BreathofWild_ddddocr-java8,2,1,3,1,0,0,2,1,1,0,0,0,maven,true,open source,98,1bf53d6a2a10ba9c7babe9ba98df5693ada90cde,improvement
+167,gayanukabulegoda_Spring-POS-API,3,1,11,1,3,0,5,0,3,1,0,0,maven,false,open source,110,662bfa35543de110e7ebf1458a5a3a1ceeb98475,improvement
+177,hanzelkaraagac_Multidimensional-Array-Sorular,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,37,21ab2f58cd6d87f210cd9faf40b4a2dc28466ca8,no improvement
+178,UwUAroze_Trwoll,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,96,8ba53f9dda85b20978770412520ebd8068c29056,no improvement
+160,heart0001_xiongBI,20,11,388,200,28,15,165,67,170,100,25,18,maven,false,open source,942,0111b112dce32982ee14a84c11b6724c58613378,improvement
+183,lfriends_java-outlook365-oauth2,2,1,18,10,2,2,4,3,12,5,0,0,maven,false,open source,184,a0d56b44225922fc82a6208e60e4cf74dded5f78,improvement
+131,misswmn_wvp-gb28181-talk-demo,17,12,278,189,20,16,131,88,113,74,14,11,maven,false,open source,2615,c835492c5d00e0627634bd7c4282d85cbe171963,improvement
+180,Logeekbro_community-backend-public,17,7,351,100,23,3,132,23,162,55,34,19,maven,false,open source,614,523d7a04d55bef735829df492ee296583043d1ea,improvement
+202,Pastidio0924_Microservice,4,0,81,0,8,0,36,0,33,0,4,0,maven,false,open source,99,f1db276e5a3f3d6d525ed5b0a2790b33f4fcf118,improvement
+222,Ladicek_cdi-extensions-demo,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,30,3aff26e536d9e5b1a26ea19c58fad9b3c27591f9,no improvement
+253,hanzelkaraagac_While-Loop-Sorular,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,38,7fa6626db1241b1d554435505edab4af4eb67f63,no improvement
+254,hanzelkaraagac_Do-While-Loop-Sorular,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,40,96b594fe893e3286ba153958c8812aa62233f701,no improvement
+276,hakantetik44_CucumberN11,3,2,39,14,4,1,19,9,15,4,1,0,maven,false,open source,120,ea7653a91ac0cf1bf1a2a7fece869110f56f0cd6,improvement
+273,WRJcode_spring-milvus-demo,3,0,78,0,7,0,34,0,34,0,3,0,maven,false,open source,192,24500bba90ddbf331b997c1f172909f76f7265f3,improvement
+283,Fernanda-Kipper_pass-in,4,4,36,36,10,10,12,12,13,13,1,1,maven,true,open source,264,e37b5699814c218df55971a5785dfa9c8d37f9f5,no improvement
+316,yoandypv_spring-boot-rabbit-mq,4,0,105,0,9,0,46,0,47,0,3,0,maven,true,open source,141,20197ae9d4d521e4ba15a49cd3f5486d84c84a1b,improvement
+314,cagribozdemir_northwindJava,7,7,142,131,12,12,63,61,61,54,6,4,maven,false,open source,723,a20661df7969298654f1d71be5377f6e0072c9fc,improvement
+351,Java-Techie-jt_aws-lambda-example,2,2,27,21,5,5,11,8,10,7,1,1,maven,true,open source,178,1c7405eab42223c5ce305baa62b9e6391b33d68e,improvement
+362,JavaGraduationProject_TouristAttractionsExhibitionManagementSystem,8,6,256,84,11,11,85,31,130,41,30,1,maven,false,open source,697,af4e84dd67c0e6ebb4bd0ba83c377448074a953e,improvement
+356,JavaGraduationProject_MovieTicketBookingAndPurchaseManagementSystem,10,9,301,280,15,15,105,98,148,136,33,31,maven,false,open source,1841,0c80475e1e8e5dc87e34f371c0cb4faed727c8d7,improvement
+365,waltercoan_devopsexp2024-containerapps,9,5,74,36,14,11,33,11,26,13,1,1,maven,false,open source,394,a603a9589c1611ad359edee409874cfff6d2e334,improvement
+348,hjsdjko_zhihuishequjujiayanglaojiankang,20,17,342,276,16,16,153,127,134,109,39,24,maven,false,open source,2843,fb8c46406efb01be59236dea1b5625c6bc781203,improvement
+294,nature924_No75Analysis-of-sales-data-for-smart-homes,24,24,1192,1192,55,55,321,321,590,590,226,226,maven,true,open source,5316,c1c1b69b697709c9807650105c6b00fefdf29373,no improvement
+370,JavaGraduationProject_OnlinePsychologicalAssessmentManagementSystem,10,10,268,214,14,13,91,68,131,108,32,25,maven,false,open source,1082,2dbe49a125f0787bac1de74446600c00457c23c3,improvement
+364,JavaGraduationProject_HospitalInpatientAppointmentManagementSystem,11,11,428,388,15,15,139,121,200,182,74,70,maven,false,open source,3911,493cbb3954e07398990ea26b318e600bc5e8ab8e,improvement
+374,nature924_No282Exam-registration-platform,20,17,342,276,16,16,153,127,134,109,39,24,maven,false,open source,2331,8130e5184a5d62261c3828d704237f2a56ddf55d,improvement
+376,nature924_No269Tutoring-Management-System,20,17,342,276,16,16,153,127,134,109,39,24,maven,false,open source,2258,4fb918550742e743e6edf4004045ad618b63e039,improvement
+387,atrision_mall_client_back,12,11,248,183,16,14,91,59,115,85,26,25,maven,true,open source,644,41460e872df76a7406b9bb1a102c5ed266f1c7f8,improvement
+389,Cboy220_cryptoapi,7,3,62,3,8,0,27,2,27,1,0,0,maven,false,open source,173,0f8563b81878b13b0e9f32cb6e462af5ab80baf6,improvement
+391,implement-study_strategy-pattern,1,0,5,0,2,0,2,0,1,0,0,0,maven,false,open source,53,9a8dbbaae640cb998f8081b33b1363a87ae547e1,improvement
+393,stopyc_ClientDemo,1,1,19,13,1,1,8,6,9,5,1,1,maven,false,open source,53,7f85dce3aa688a7c3e2a4972bf4eb00d1dc013c7,improvement
+394,stopyc_local-software,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,39,c5450a5350bb1c43c6a849749bcf8816abc65df8,no improvement
+395,HedongLin123_db-connection-demo,4,3,224,105,12,9,70,44,104,41,38,11,maven,true,open source,355,56d91b65f0aae73959b03389ab8d8d861d3ffa38,improvement
+399,GauravGuptaDeveloper_ParkingLot,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,37,c7fa6c7ec7e09380550b3d8c0b41af64aeba9a9b,no improvement
+400,Firebasky_FastInfosetBP,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,43,5a5832ab95bbe832b3866c583c0c820c3e528684,no improvement
+402,EnggAdda_SpringReactiveCRUD,5,0,55,0,7,0,21,0,26,0,1,0,maven,true,open source,106,83a6ce6effa7a136452f68a38739bbc5ff3f61f3,improvement
+377,nature924_No280Golden-Emperor-House-Gym-Management-System,21,18,348,282,16,16,158,132,135,110,39,24,maven,false,open source,2373,b9486ffab3f109b4e632f794a75aca10b6bff9e6,improvement
+381,nature924_No281attendance-management-system,20,17,342,276,16,16,153,127,134,109,39,24,maven,false,open source,2266,71c500b7d32b15b7dbd15f7e34f984b3b529ee71,improvement
+407,cavanosa_tutorial-spring-webflux,4,1,83,3,7,0,41,2,34,1,1,0,maven,false,open source,95,dee8c5a684bcf59a7e03d2f933b2a1e8aab1daeb,improvement
+409,CrazyDevo_ApiPractice,2,1,13,8,0,0,5,5,8,3,0,0,maven,false,open source,54,ed3fa9fc1131fe3966b2411f61a1106efbf9ce83,improvement
+411,ShindeAjay324_ResumeBuilder,7,3,150,23,12,1,66,11,66,10,6,1,maven,false,open source,116,32748e3c0921116ae2f7ad1e74f5a3187d8d44c3,improvement
+405,BerkayMehmetSert_spring-boot-school-management-system,8,7,144,96,13,10,68,38,58,44,5,4,maven,false,open source,574,ec43a0c3f1ba7c4d8295566fbdef0b241625b493,improvement
+413,yoandypv_springboot3-swagger-springdoc,3,3,62,55,7,7,20,20,34,27,1,1,maven,true,open source,351,11098708a52819a63f49ec534254274c5fb53d6a,improvement
+418,JunaidKhan44_springboot-services-locator-factory-bean,2,0,48,0,6,0,17,0,24,0,1,0,maven,true,open source,70,d57adf59472da97346e46a37e303ea3f0984be10,improvement
+419,Pandeycoder_spring_file_reading_app,1,0,4,0,1,0,1,0,2,0,0,0,maven,true,open source,66,c1d605c6479f8fbac90bf313738a708532954a2a,improvement
+420,hjhgogo_stockapi,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,40,98e7f5244230664d96da0b108bed21f0889bc505,no improvement
+416,odrotbohm_shop-modulith,4,1,24,3,6,1,8,2,10,0,0,0,maven,true,open source,270,a43ebfb17aa4eefd6fdc40a3dff19b487ebaa405,improvement
+422,vulhub_metersphere-plugin-Backdoor,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,35,20a251106b921a402e9ed84813063c728182a8a5,no improvement
+421,yangfeng20_java-agent-demo,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,46,78afef42db2d3b9dcd2722ec81be75f84b7f0524,no improvement
+423,kamarbaraka_inventory_maangement_system_final,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,60,ee48a7e2c04c4d671c29482b1258b6d5cd7ed402,no improvement
+430,raphaeldelio_demo-kafka-transaction,5,1,47,1,7,0,21,0,16,1,3,0,maven,false,open source,139,bfea4538b84675c16b1e9fbd47cb6fd2d7778e96,improvement
+432,DamiAdeeso_MonthlySchedule,5,0,222,0,8,0,73,0,109,0,32,0,maven,true,open source,128,5e957376cba6daa47250c23fe5d94ba03ce3bde8,improvement
+436,iamabhiCH_CRUD-RestAPI,4,0,51,0,10,0,16,0,24,0,1,0,maven,true,open source,93,70361573cfe2cb4f48d1466586c97cda5287c320,improvement
+433,giteecode_cartoonForum-public,8,2,217,37,15,2,104,19,86,15,12,1,maven,false,open source,375,2c95617f3c1463919d2014e80216d7ed17370448,improvement
+406,wzf0125_vi-backend,24,12,408,147,28,9,205,89,163,48,12,1,maven,true,open source,1992,f6b19476e577e2b57adff0524b5cc746c1e9b687,improvement
+443,UnProgramadorNaceOfficial_spring-boot-soap-maven,3,0,68,0,7,0,29,0,30,0,2,0,maven,true,open source,100,2915e382cdad9f24c5814adc94cfab78fbb8c8a8,improvement
+444,UnProgramadorNaceOfficial_spring-batch-application,9,1,125,1,12,1,53,0,58,0,2,0,maven,false,open source,112,3ac783300a12a160e115c365ee14740dfde237d7,improvement
+446,FatihArslan-cmd_SWE202.HomeWork,0,0,0,0,0,0,0,0,0,0,0,0,maven,true,open source,42,f0fa6fc87397402b061e89ff6e49b2432c9a1909,no improvement
+447,devcodingg_springboot-testing,6,3,42,6,10,0,18,6,13,0,1,0,maven,false,open source,89,b14b4c8199c6ea08f94caf73d9ff27919a712dee,improvement
+455,LakhiniVoshadee_Thread-In-Java,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,36,49ed9bc6280b89f1c3ae51fd5441881061aee878,no improvement
+449,Riwi-Meta_LOCAL_STORAGE_BACKEND,8,7,60,47,15,13,21,18,23,15,1,1,maven,true,open source,320,b87ed4402c4266d2bbc5b01e64be493359e93543,improvement
+463,JoseLuisGalvis_formdev-backend,8,7,23,20,9,8,6,5,8,7,0,0,maven,false,open source,126,c170e91324efabdc7317c2db14fcad121703f36b,improvement
+468,OverMine-Studios_DracmaAPI,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,53,d1dafd7014e6ba5227ebaacec4a605188a2a6fba,no improvement
+472,varadvk_crud-spring3-services,5,2,60,41,11,6,20,15,27,19,2,1,maven,false,open source,255,40ecfae19db16f1e3ca8fd49021dbe675429f6fa,improvement
+471,BurhanKavak_Spboot-MVC-RabbitMQ,6,5,73,57,9,8,27,22,35,25,2,2,maven,false,open source,337,fa7cb84c3458a5556a6fdeb03f2804bec216d738,improvement
+480,Azizi030_atuser,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,62,b1ac56b416351c5c85f33bf43056dc0fe99a1048,no improvement
+477,251623126_unidbg-fetch-ismart,4,4,41,41,9,9,14,14,17,17,1,1,maven,true,open source,200,21518ba4a8728957ed16f3281434d2bd55b4c7c0,no improvement
+501,klassenserver7b_widevine4j,3,0,9,0,0,0,8,0,1,0,0,0,maven,false,open source,82,7cc039cd255b07033055099071d6703f0be4c216,improvement
+479,Bukkit-Spring_Spring-Api,8,4,193,80,12,6,95,40,74,32,12,2,maven,false,open source,671,0170fd262586305ebac31063e4c525058df8688f,improvement
+503,Tai-e_Tai-e-Template,1,1,4,4,1,1,1,1,2,2,0,0,maven,false,open source,131,a1a88ae588adeffcac1155963f18977096f395d6,no improvement
+506,pqcqaq_Source-Code-Utils,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,45,113aa6cc707700a464ceaf2674d3b04bcba6d300,no improvement
+511,mgmetehan_Spring-custom-query,3,0,32,0,9,0,11,0,11,0,1,0,maven,false,open source,80,48531c33ccec1e9b52f1a95897aded307f1e5bdc,improvement
+508,amaialth_mfaserver,9,6,91,38,17,8,31,14,40,15,3,1,maven,true,open source,323,672aef132968a074c9a5a3c44c3dec4be82be236,improvement
+512,SuperJQ-Team_BookManagementSystem,11,3,501,36,51,4,194,12,247,20,9,0,maven,false,open source,322,34ed206f6bf93c8e690b4f593fc98d7405009076,improvement
+515,tech-shrimp_java_action,2,0,98,0,6,0,43,0,43,0,6,0,maven,true,open source,70,77b5d101bf5c31fc8cee9dc97b27828811a11a18,improvement
+520,futarii_stress-test-tool,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,37,447522f85423787cf6286a722bd78b8fe4ed422d,no improvement
+518,neodix42_test-ton-libs,3,1,6,2,3,1,3,1,0,0,0,0,maven,false,open source,85,87395c2d580e84047f657a24d8273a5294b9f6ba,improvement
+524,metersphere_metersphere-mcp-server,2,2,6,6,2,2,2,2,2,2,0,0,maven,false,open source,60,13876b861560027ded7ad4816a8995e7262995eb,no improvement
+525,Sandesh1998_JavaRmi,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,37,c434ea38d5c221e17d93836a4c501426054719ed,no improvement
+527,alex0x08_full-cross,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,42,a294aa5959ee9c464302fda03b6c33d7a7cec27d,no improvement
+505,lxiaonan_xn-oj,16,12,341,239,24,18,141,91,154,113,22,17,maven,false,open source,1101,8b7efa07243e8b860eed501b69467f3b36570f4e,improvement
+528,lokeshgupta1981_Spring-Boot-Security-OAuth2,11,3,274,7,29,0,101,7,134,0,10,0,maven,false,open source,165,a007cd44310b8fcd43ed06cbea0476e847992505,improvement
+532,GiviMAD_libfvad-jni,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,52,f8d1da6e7e6cdc86e4d3762b5eb71a818f0094a2,no improvement
+533,Peergos_nabu-chat,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,84,731d9b853e3cc818c2ce63d293a9048acd46714a,no improvement
+523,lch710097_PPTToVideoServer,10,6,132,117,11,11,60,54,58,49,3,3,maven,false,open source,584,647f190703075fa94def611cbaf913f7d0475ba2,improvement
+539,LakhiniVoshadee_Layered-Architecture,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,465,72fb81a63213d59d3d87d81486d41e688825c909,no improvement
+540,Antenbabby_ocrExcel,4,4,87,87,8,8,41,41,36,36,2,2,maven,true,open source,493,60535adee83cbdc27b2e2f4d69d2ec63d169805a,no improvement
+543,ConderFix_CFBlackScreen,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,104,50309ce4b95ae0e034603e63a565e2e6bdcb0fe0,no improvement
+535,hoangtien2k3_saga-pattern-microservice,9,9,346,346,88,88,158,158,95,95,5,5,maven,false,open source,938,ada110a4aa6987ed463f637d08927490fa34f041,no improvement
+552,KingRainbow44_Windblade,1,1,14,14,2,2,8,8,4,4,0,0,maven,false,open source,58,65f9712b4c30dd2438ec0844e393bf13f49fede4,no improvement
+553,Boburmirzo_risingwave-java-spring,6,0,146,0,13,0,58,0,65,0,10,0,maven,false,open source,105,65ffef18d4a4c325beefcd76db1c970b6a990b46,improvement
+557,EvgeniiSiniuk_tg-inline-calendar,1,0,11,0,1,0,2,0,8,0,0,0,maven,false,open source,56,bd65039d705d7a39c317d6b74f6cdb5f2e40516e,improvement
+551,Stilisky_Be_GestStock,7,5,85,64,12,9,24,21,48,33,1,1,maven,true,open source,467,219c91966c90631ad529f1938a1929b84717f676,improvement
+561,liutaobigdata_flink-sql-rabbitmq-connector,3,1,9,1,0,0,6,1,3,0,0,0,maven,false,open source,84,ea505d7558180813335b0db429bb8cac10a4ce84,improvement
+560,hejian3_py3dtiles_java,1,0,54,0,3,0,20,0,26,0,5,0,maven,false,open source,74,e7ef55d4be99905887c2978b3b83372642fa7427,improvement
+562,ranjankumarmandal_Hotel-Management-Web-App-Backend-Services-with-Java-Spring-Boot-and-Hibernate,4,0,91,0,5,0,38,0,42,0,6,0,maven,true,open source,80,caf7252b56112a40a9aa336e4d13e17fd494e28a,improvement
+565,Ishan-Sandaruwan_API_for_blogWeb_SPRING-BOOT,4,0,53,0,9,0,18,0,25,0,1,0,maven,false,open source,88,08caa6b17b023946d0ee17fcd66025bf18dad40b,improvement
+567,otienogeoffrey812_heap-data-structure,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,36,d75056d07182f8ffb7217b1eac3b01f90e00db37,no improvement
+566,danileao_youtube_deployghactions,4,0,52,0,9,0,18,0,23,0,2,0,maven,false,open source,77,0257fb569133f5c0144cf099d9a8b83f64f55fdd,improvement
+563,savindaJ_chat-server,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,271,7310d52fb2795f7f9189cb0bdb103106c54c3651,no improvement
+571,PramodDutta_APIAutomationRestAssured5X,4,2,17,12,1,1,10,7,6,4,0,0,maven,false,open source,60,69ff537142ca24e7841a014ea351a99dba06b8d9,improvement
+568,a088_BookManager,11,4,259,81,6,4,64,34,124,29,65,14,maven,false,open source,293,856a8194e92f46fa41cb2e2a53860a4aa9d2b54c,improvement
+575,cwb1024_algo-index,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,39,0d8456efde82f2b81b6ba9329e763967e44b5300,no improvement
+576,Zack4DEV_JavaFx-Maven--radio-Stream,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,46,3c34696256df561194f257c29180bc56a8024a5d,no improvement
+579,BeardedManZhao_SwipeDown,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,50,afd871f688ed5943d8fb975ae03259945092b2fa,no improvement
+580,ArdiJorganxhi_SpringBootTemplate,6,3,36,4,11,0,12,2,11,2,2,0,maven,false,open source,105,471c460dd8194b7b71ba119a6a3ae760d77510b4,improvement
+573,yang66-hash_BSStaticAnalysis,9,6,138,58,9,7,67,27,53,22,9,2,maven,false,open source,671,7759eabfc4f6f261809796bd4575025816ef8925,improvement
+587,logantucker25_PurpleSearch,5,1,11,2,1,1,4,1,6,0,0,0,maven,false,open source,108,8bb96adcd2c1260cfd6c83e73d30d468e438e24f,improvement
+589,senanurcoban_Bootcamp-Project,6,4,108,33,11,9,50,12,44,11,3,1,maven,false,open source,337,c8a38a35b8e72cd77d6ee8190067ce69476ad7fb,improvement
+590,Nurislom373_ResumeGenerator,12,8,193,115,16,9,88,54,80,48,9,4,maven,false,open source,836,154d94de95c43601a30090da7bb39f26972b7cc1,improvement
+593,ItzGreenCat_CubeMapConverter,1,0,5,0,1,0,2,0,2,0,0,0,maven,false,open source,56,bd6bed4187daf6501c3dda63cd7daa10354fb3bf,improvement
+594,Static-Flow_UUIDHunter,0,0,0,0,0,0,0,0,0,0,0,0,maven,true,open source,47,b67587910db51418c55f1226d8d03d21867b51ca,no improvement
+592,lijunping365_Open-Lineage,7,7,173,173,11,11,79,79,72,72,11,11,maven,false,open source,937,866b342a5c3171d119f91f225d4edc34e88bc2f6,no improvement
+605,MAIStudents_JavaWebBrowser,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,36,1ee80f26253da88689c9e4d1783a30edca5a6597,no improvement
+607,aitnacer-nabil_Learn_hibernate,1,0,2,0,0,0,1,0,0,0,1,0,maven,false,open source,53,8e741053c2753b9bd6ba7e6bb648f3c71dee93cb,improvement
+569,JuanDouCore_EcommerceApi,14,12,161,138,20,18,44,36,85,74,12,10,maven,false,open source,2580,eaf55f06c6c50acf084f23cab648905974719415,improvement
+614,wnhyang_geoHelper,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,40,4ac60ee306938d5ced06cb93053e35fd560ff585,no improvement
+613,thevni-thinesa_API-Social-media-Platform-Spring-Boot,5,5,60,60,9,9,17,17,29,29,5,5,maven,false,open source,275,295b9546ebdaff1a2a8c9895edf503bf7bcbf327,no improvement
+618,xixixiba_kmssconflgTool,1,0,1,0,0,0,0,0,0,0,1,0,maven,false,open source,43,39dc4f604b6cc32093e2c812ca6f715624e5c8f5,improvement
+619,ngud-119_spring-boot-graphql-keycloak,10,5,603,385,17,8,191,118,288,184,107,75,maven,false,open source,103,78b41e1e68440516ff10c7c811e9991ba2b16186,improvement
+622,NoelToy_fuzzy-word-matcher,0,0,0,0,0,0,0,0,0,0,0,0,maven,true,open source,43,1bba8d6e9097450e32459f22356b2e90ab4f5c72,no improvement
+626,luoqianyi_dingTalk_campus-recruitment,6,4,80,9,6,0,36,5,35,4,3,0,maven,true,open source,109,5f7ff1819a83643c09472920101a9cd88c897d28,improvement
+627,morganzee_SeleniumProjectScreenShot,2,0,8,0,1,0,5,0,1,0,1,0,maven,false,open source,52,b20c312aba1129947e56f9a9a84f24efb04f9222,improvement
+628,KarthikKavinA_fabric-idemix-identity-demo,19,9,128,36,14,4,65,21,47,11,2,0,maven,true,open source,415,c063755af0bec4292850280a31e3aca48d8ef045,improvement
+629,Sandesh1998_oddNumber_IOC_Spring,1,0,25,0,2,0,13,0,9,0,1,0,maven,true,open source,50,5f5f16d555eecf7a5bddc0abfd59c8270afa4ee7,improvement
+630,giuliana-bezerra_tutorial-graphql-springboot,5,1,83,1,11,0,26,0,45,1,1,0,maven,true,open source,93,b62f712e27197262eedd2fa505af896620e654bc,improvement
+625,asecurityguru_devsecops-azure-devops-owasp-zap-integration-repo,6,5,246,179,9,8,60,56,137,95,40,20,maven,true,open source,834,766a6f5b6b302464a69b013caa070271e0845b64,improvement
+633,said-ait-ouakour_smartcontact,10,7,190,151,17,12,82,67,79,62,12,10,maven,false,open source,612,4daa40eb5e40d5e81642be9bcadfb95dae29eb70,improvement
+634,LECYWZA_gb28181_client,9,7,209,165,10,10,69,45,101,88,29,22,maven,true,open source,651,5c52fda2520d7ddd7bcc8cd207c5dc72dc4818a6,improvement
+636,JunaidKhan44_Conditional-Interface-Spring-Boot,2,0,46,0,6,0,15,0,24,0,1,0,maven,true,open source,59,79e3ed207b5e706b3f9299558996ec806c460bbc,improvement
+635,marcingrzejszczak_oreilly_testing_2023_samples,15,2,279,10,56,0,99,10,122,0,2,0,maven,false,open source,348,6b96aa6a4201907e7560ef3b4b2a453a2f0a42df,improvement
+644,furkankayam_robot-qtr8,5,5,47,47,9,9,14,14,22,22,2,2,maven,false,open source,317,ca36c9f9252163c1c02a7e9cb25ec97b03773e79,no improvement
+645,mayraamaral_spring-boot-file-upload,5,4,54,38,11,10,16,12,26,15,1,1,maven,false,open source,292,3a9090ab7cb4d5d14a4dadd3c8dcb10d82ff0f81,improvement
+652,wahyubagus-ars_spring-oauth-keycloak,6,4,79,52,11,7,30,19,34,23,4,3,maven,false,open source,249,dc49b451ed724ffb95445bbea7ae7c9293fef1a7,improvement
+650,Descartes007_no015_CloudDiskSys,13,6,177,15,4,2,33,5,85,6,55,2,maven,false,open source,308,abf8e4a06b723e9d1179ad61992fcf7ef16d7eee,improvement
+659,maziyar-gerami_myapp,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,34,1652d97a146dfe4922260eefbb92e0d54002e907,no improvement
+663,Warnier-zhang_java-chinese-days,4,1,18,2,0,0,6,1,10,0,2,1,maven,true,open source,156,aa0e159f738d5ff3b996c96a9fc335e286b88007,improvement
+665,oguzhanmelihguclu_J-UnitPractice,3,2,26,14,2,1,13,9,10,4,1,0,maven,true,open source,64,b1fb98a894c00a04258ee869a272a78313cfad0c,improvement
+667,luismr_kafka-springboot-blueprint,4,1,33,1,8,0,15,0,10,1,0,0,maven,true,open source,88,bd8dbb3c6d993370673e3d710f6cb54db2283db0,improvement
+670,akshayithape-devops_CVE-2022-42889-POC,2,1,125,124,3,3,30,30,70,70,22,21,maven,false,open source,366,9618f97c3d9bb5d490d0f6632c9dd17bc1ceb15f,improvement
+671,YasinCelikSoftware_Kodlama.io.Devs,7,2,142,39,12,3,63,19,61,16,6,1,maven,false,open source,244,ec610a6428884869252d381879e02e18a828836b,improvement
+672,codejava-official_spring-oauth2-google-facebook,8,2,270,2,13,0,113,1,118,1,26,0,maven,false,open source,116,626a1e0a1ae932479b161f14b2081796a4fc8ef8,improvement
+675,morganzee_Selenium_DragAndDrop,2,0,9,0,1,0,6,0,1,0,1,0,maven,false,open source,64,9f0e82ce16fd8494f96b5c5313adb5760ec0af65,improvement
+677,nuth-vireak_Parsing-Json-in-Java-using-Jackson,2,0,2,0,0,0,0,0,2,0,0,0,maven,false,open source,44,15de1b3bc142658fff96242651cb0244dd758f1a,improvement
+681,AbiramiSukumaran_spring-vision,4,1,113,39,9,3,47,17,54,18,3,1,maven,false,open source,115,073b6d00986e0f1e3ecdbf983a792150509bdd3e,improvement
+683,MuhammetTahaDemiryol_common-package,12,11,181,143,25,25,66,56,89,61,1,1,maven,false,open source,622,222fbffb2cefe71e4652ef1290199f977a36cfa5,improvement
+662,ngud-119_DocuSign,20,20,505,505,16,16,154,154,248,248,87,87,maven,false,open source,2584,07f6afe289abeee7dea0055179a92284bc96688a,no improvement
+689,TarekMebrouk_spring-cucumber-test,5,2,53,42,9,6,18,15,25,20,1,1,maven,false,open source,226,6d5d65533ba8be0376640caa56ef5b2a731a1247,improvement
+691,Java-Techie-jt_kafka-consumer-example,4,0,72,0,9,0,32,0,28,0,3,0,maven,true,open source,95,66549049f9e51378a094f78cad954f6976e024a8,improvement
+692,oldfr_first_microservice,4,1,117,19,13,3,53,9,49,7,2,0,maven,true,open source,171,da1c354a6b4e1cbc3e0d6a6b793bb18dbc0b7c1a,improvement
+693,oldfr_second_microservice,4,4,117,117,13,13,53,53,49,49,2,2,maven,true,open source,290,1420d66da2c31f694ce71432a26f9ae190aae8e6,no improvement
+695,DamiAdeeso_Contacts,5,5,119,114,10,10,52,51,54,50,3,3,maven,true,open source,452,a61b50f70c6f7cf138b321655d6e4960d7794f6b,improvement
+701,MouhtaramSoufiane_build_app_microservices_dockerized_angular_client,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,34,67b481821229a2520f92eac787bea603eef0075a,no improvement
+703,amoywang_sonarqube-mybatis-plugin,3,3,139,86,4,3,32,36,65,32,38,15,maven,false,open source,81,22a8ae0a5c50e8f4bd5e05dd478a68332e87fb49,improvement
+697,SimpleGraduationProjects_MusicWebsiteManagementSystem,9,7,344,290,13,13,98,76,168,144,65,57,maven,false,open source,767,cfd777f2ca85f3ba58b4226aa0c76364c00b45f3,improvement
+705,tencentmusic_ClickHouse-SQL-Rewriter,1,0,3,0,1,0,2,0,0,0,0,0,maven,true,open source,67,27f3e6b11b8ea5629adc2b8fd40fedc77506eca1,improvement
+704,YassineCherkaoui_TaskManager-with-auth-java-spring-boot,10,9,143,128,16,15,46,42,71,61,10,10,maven,false,open source,560,ec910a0afd692c9fd36cc662b60119fb836a541e,improvement
+715,PedrooSilvaa_upload-images,4,0,31,0,9,0,11,0,10,0,1,0,maven,false,open source,72,e1cdac05fc01b69e2bd2fe196822b1b85856d39b,improvement
+717,RealChAuLa_UserMicroService,5,3,214,44,12,6,68,21,103,14,31,3,maven,false,open source,155,2d535c723b0a514b59f7016d499568777c51c20d,improvement
+719,MavinMoon_dingtalk-api,5,3,85,78,6,6,39,34,33,32,7,6,maven,false,open source,295,da0c73e0bac5f8e2cd52cb0e88a0f27dd86426e3,improvement
+729,nimeshdkumarawansha_java-game,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,33,9f932142ef5a4843244c687a9f381749df36ecb2,no improvement
+727,Egida_kutuzov-backdoor,1,1,7,7,1,1,2,2,2,2,2,2,maven,false,open source,93,9549ef8ece427d834572bfcac0ddb39aff504fda,no improvement
+732,johngualteros_security-roles-login,1,2,5,2,0,0,1,1,4,1,0,0,maven,false,open source,315,7614b954f7fe2b6532a3c6d9b01af20b77b8e981,improvement
+730,suyu610_journal-server,17,14,196,166,21,20,58,49,95,76,22,21,maven,false,open source,423,de6838c77100aeeaf7f78b47a0fd4210f6038e6a,improvement
+734,elouardyabderrahim_jwt-example,2,0,57,0,5,0,19,0,30,0,3,0,maven,false,open source,58,6a0a1b83e4dc346b24de78452e009871598a7b3f,improvement
+736,codejava-official_spring-file-download-upload-apis,2,0,65,0,4,0,24,0,31,0,6,0,maven,false,open source,65,d6bfade230854060c82d9a75a750ab064a179a3b,improvement
+737,Java-Techie-jt_patch-mapping-example,4,1,90,1,8,0,39,0,41,1,2,0,maven,false,open source,94,8d6c7117bc8c2c37007c72d18dcf0cd653e215e1,improvement
+733,gozdesarper_northwind,7,7,142,131,12,12,63,61,61,54,6,4,maven,false,open source,603,0b5d5ce1520a4ce37a750b8d85589b4f8ab4279a,improvement
+740,Minato252_mybatis2sql,1,1,25,4,2,2,13,1,9,1,1,0,maven,false,open source,88,7f01a1864bb6e0232b78ac63074229f108412ffb,improvement
+738,HandanDegerli_Grocery_Project_Backend,7,6,90,74,12,11,28,24,48,37,2,2,maven,false,open source,500,0b7f9606d23dd86983eb6e6ee2322b2c7b938ecd,improvement
+754,leanlivestwan_api-gateway-center,7,2,716,30,50,12,315,12,296,6,55,0,maven,false,open source,336,f17d6f21d27c385d36171912c9a1f7207a9fa9d4,improvement
+762,khalil-bouali_spring-boot-angular-mfa-jwt,9,7,110,71,15,10,35,24,56,34,4,3,maven,false,open source,370,c22101c2815ac3fa9121e0a32fa56645aae2cd25,improvement
+763,MohamedKhalilHermassi_examen-spring-gestion-commande,4,0,45,0,9,0,14,0,21,0,1,0,maven,false,open source,73,a2d88203c2cbaf1259ee0d21ad5dae9173dde139,improvement
+764,khant-min_Lms-Api,4,0,49,0,9,0,14,0,25,0,1,0,maven,false,open source,70,47aa39c06fb826e32ca9b1c93ce760c755d09ca0,improvement
+765,mohamedYoussfi_bank-account-ms-enset-bdcc-app,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,33,ae1add8d5fc48fad0e7ab72e26ad90441a5d5f06,no improvement
+766,cshezhang_Statfier,5,2,5,2,0,0,1,1,3,0,1,1,maven,false,open source,148,a2415cbae63b73644306aeab6df48c8207737b41,improvement
+770,YuLin-Coder_No185GeophysicalStationManagementSystem,12,5,140,40,5,3,51,9,63,14,21,14,maven,false,open source,236,03366fa657600015cf091e760084f2f2f5a188e6,improvement
+771,YuLin-Coder_No148StudentInformationManagementSystem,16,15,465,397,22,19,143,120,216,187,84,71,maven,true,open source,1822,60d4fd31d8153f6212650bbf4cc62b75f2cd819d,improvement
+773,wang-buer_A-Club-Management-System-Based-on-Springboot-and-Vue,10,6,316,103,14,6,114,44,137,38,51,15,maven,false,open source,256,4b96ea900cefca366994d046911900b1d184792f,improvement
+774,mt-ag_keycloak-2fa-email,3,3,45,45,7,7,21,21,17,17,0,0,maven,false,open source,193,0305b41d765a168d31b04d6f10938680f64c10cf,no improvement
+776,ashokitschool_SpringBoot_Security_Register_Login,8,7,75,52,13,9,27,20,32,21,3,2,maven,false,open source,208,fc623b2fd899fafc7466de32f7d0f62fe8296bb7,improvement
+780,ynwynw_cummunityestatePublic,15,10,407,175,19,13,156,68,179,77,53,17,maven,false,open source,1731,4095046358a08d2a45d2787074a4a8802be90dcc,improvement
+781,Java-Techie-jt_kafka-error-handling,7,5,69,62,5,5,37,32,23,22,4,3,maven,true,open source,266,0a753a9faa7d6b72ccf6e0b10eb3d46c2c73902c,improvement
+782,LeangHuy_MapStruct_Spring,6,6,52,44,15,14,17,14,19,15,1,1,maven,true,open source,255,7c08f2773aa658b5987abd8f5200eaa65b49cf35,improvement
+783,rcaneppele_exemplo-clinica-spring-security,9,5,63,43,15,10,25,18,20,13,3,2,maven,false,open source,218,5521630736a8fbbd837a7fa09c92c17210e896d3,improvement
+785,PedrooSilvaa_library,6,1,40,5,12,2,14,2,13,1,1,0,maven,false,open source,109,2bf566eed99b58d001ffe7efc6ab7ac02a7be059,improvement
+790,bargirsimran_e-commerce-javafx-db-maven,1,0,5,0,0,0,0,0,5,0,0,0,maven,false,open source,176,bf1348838f7dc523403bd74933c5805ebd0ddd91,improvement
+792,JavaGraduationProject_WanderingCatAndDogRescueManagementSystem,15,6,228,88,6,4,48,34,117,32,57,18,maven,false,open source,250,19794b3b0c63387fe79be8e4856d213edb62ffad,improvement
+793,JavaGraduationProject_ClothingSalesManagementSystem,6,4,137,56,10,7,52,18,65,30,10,1,maven,false,open source,355,97a6fdeb979d86e628706a54a436c4b23028fce4,improvement
+794,JavaGraduationProject_EchartsManagementSystem,5,1,152,1,10,0,70,0,63,1,9,0,maven,false,open source,91,1e88e4e15a3b5ee6b25e339628a15daca4ab8607,improvement
+795,JavaGraduationProject_CommunityPropertyManagementSystem1,13,11,469,226,25,20,159,105,211,81,74,20,maven,true,open source,841,761b6f999e9a40080cbed1143842623873fe2000,improvement
+797,JavaGraduationProject_InventoryManagementSystem2,6,4,125,56,13,7,59,18,51,30,2,1,maven,true,open source,363,69cf193f0632a29c01a75424448247ab94d028c6,improvement
+612,sunsetsouol_IdWorker,5,4,104,79,8,6,50,37,41,32,5,4,maven,true,open source,55323,4cadbf4a870544a262562e5e187279894b409f92,improvement
+6,simplyi_SocialLoginWebClient,5,0,175,0,11,0,78,0,72,0,14,0,maven,false,open source,130,507f35d6363de2130acbc3274c1a8846b3f616a8,improvement
+11,hdwang123_GptTest,4,2,61,55,4,3,22,21,31,29,4,2,maven,false,open source,259,03d47516517224a60c6e2458304b7c50820d68ca,improvement
+10,pozil_pub-sub-api-java-client,6,5,23,17,5,4,9,7,9,6,0,0,maven,false,open source,390,16cf8bd13cbdf1ad0115d11ee59180b5ea3bc7d4,improvement
+25,yijianguanzhu_douyin-qrcode-login,3,0,5,0,0,0,1,0,4,0,0,0,maven,false,open source,69,390d215afc12f073c60ca13edc9e8ef661762894,improvement
+28,Nikita-ctr_portallocator,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,50,41d92a188097ffca4170f1453f6faff24aadea44,no improvement
+19,yyuguang_select_course_system,17,6,221,35,8,4,75,13,91,11,47,7,maven,false,open source,927,5d704e623f987cec4ceaf90f634b61638d3a495b,improvement
+38,cyberp_simple-evdev-java,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,46,c70d0a0c1a23c59f66fbd8c4334f828642556569,no improvement
+15,tomitribe_jjugccc2019,17,4,826,51,18,0,329,7,282,20,197,24,maven,false,open source,1386,bba4df4ec2cbe2eb6e18862daba86eb9247cd367,improvement
+27,JavaChinna_spring-boot-oauth2-jwt,8,7,124,109,15,14,41,37,64,54,4,4,maven,false,open source,928,286cbf5192f17871d760a588b36385ffaaf38394,improvement
+34,wpstan_CustomZuulRibbon,4,4,237,237,15,15,109,109,98,98,15,15,maven,true,open source,630,effbb3590d1cd107c616080f33fe890e80a7ccdb,no improvement
+42,DJ-Raven_social-media-ui,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,51,57688e52c16c9a09638ea2e51fb4037499f5108e,no improvement
+40,devsuperior_documentation-api,8,4,16,4,9,0,6,4,1,0,0,0,maven,false,open source,142,47ff9eef9e4fe4226ceee152705863de8f77946d,improvement
+44,mos1128_workflow,10,8,400,307,14,9,90,60,235,202,61,36,maven,false,open source,527,a34338cf9e0fb17bb5b6a07b3f63ef79f918129b,improvement
+62,DJ-Raven_login-video-background,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,57,9d63dba0593167529378d5d89d1af78b40bf822e,no improvement
+59,SanctaSanctorum_project-hibernate,2,1,16,7,1,1,6,3,8,2,1,1,maven,false,open source,293,29a4b122103d27e5c5fa7cf02057ea05b3f19c4e,improvement
+54,wesleyosantos91_poc-springboot-observability-old,7,5,181,48,13,9,82,19,74,17,12,3,maven,false,open source,429,5965551b2b71e3000d5c0a911aff003ec4694d9a,improvement
+63,maxiaolin3366_SQLAdvisor-web,4,2,89,23,11,4,41,9,34,9,3,1,maven,true,open source,292,4544c242c8a792df031bd5995bcbe6234dc845fd,improvement
+79,egryaznov_sokoban-solver,1,0,1,0,0,0,1,0,0,0,0,0,maven,false,open source,67,4a2b82fffafe388a525c58dc6294afae2b27b8d6,improvement
+98,Amitbhave_student-portal-api,5,0,207,0,9,0,67,0,106,0,25,0,maven,true,open source,155,d25a0ffc662e2dc6f04ab54bcf0ebd24db3f7d13,improvement
+126,abhilashgowda23_LibraryManageSystem,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,39,3a7f79493772b8e4f8c81ce88ee94c6a26257632,no improvement
+125,lsbss_generate-testcase,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,43,408cdace590677c6a26c15e5218d086548a545c2,no improvement
+134,spring-tips_distributed-locks-with-spring-integration,1,0,7,0,1,0,2,0,3,0,1,0,maven,true,open source,304,7706e8937938ea62e2d4fd673c3b5fdec684c43a,improvement
+157,praveenLT_java-testng-basicauth-se4,2,0,29,0,2,0,17,0,9,0,1,0,maven,false,open source,71,28f45be6f1a3e72b2531e6d9aa4e4956420964b3,improvement
+158,praveenLT_java-testng-cdp-network-control,2,0,29,0,2,0,17,0,9,0,1,0,maven,false,open source,69,67ea9718eb08c3d4389dc9ce9cd65e3cae6db051,improvement
+192,cescoffier_getting-started-quarkus-kafka,4,0,99,0,1,0,47,0,48,0,3,0,maven,false,open source,187,fccabd52590dc8e12ca8b6fb97818fc68a9e7f39,improvement
+197,Java-Techie-jt_custom-validation,3,0,86,0,8,0,38,0,38,0,2,0,maven,true,open source,109,aec24a5fa69070ebe3c65dab61305e9073c1c7d3,improvement
+198,smadil997_spring-netty-socketio-seed,5,1,172,7,9,0,58,2,80,4,25,1,maven,true,open source,144,9d4eb38820af5820ec78e5b4097c4d46b7084dd3,improvement
+184,filipefox_spring-multitenancy-column-discriminator,8,8,266,266,13,13,97,97,130,130,26,26,maven,false,open source,1524,641d43051806795ab5b6a7257955a3d72178a15c,no improvement
+200,kpyaoqi_JavaServer,5,4,128,83,8,9,56,37,56,33,8,4,maven,true,open source,520,04332fef2f2f751226f0c351e61ca60868534746,improvement
+202,Kavithma-Thushal_connect-four-assignment,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,370,f279f86c0bc30f311261ab63643233f01af65fc1,no improvement
+203,sprashantofficial_ToDo-App,7,5,76,63,10,7,25,21,39,33,2,2,maven,false,open source,437,344761e188eb32ba72fb73fc130510b60e0f7694,improvement
+6,X1r0z_spring-amqp-deserialization,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,38,b48b5584946fed274eae14d4feebd12c2c070b53,no improvement
+8,mohamedYoussfi_micro-services-devops-part2,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,36,2b62a9c66960f2b76964a8be5671e31882f883b5,no improvement
+18,implement-study_mini_schedule,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,37,580c346983b283045d68c843b97c95da0a35ae4b,no improvement
+81,atillakalay_quest-appBackend,6,2,115,2,10,0,49,1,51,1,5,0,maven,false,open source,106,6927d843b6f59a8e273c1dfe098a2217fe9e9f1d,improvement
+99,UwUAroze_BetterChat,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,163,0a6c420e9c51d316e293751932628bb155d86ad9,no improvement
+107,maziyar-gerami_semantic-versioning-showcase,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,38,fc55f2871abdf3fe5c5294426903006a18ebcfcb,no improvement
+112,zhongxinghong_Java-Jieba,1,1,4,1,0,0,1,1,2,0,1,0,maven,false,open source,63,0064b417a40aab8a748b70fd2b4ef3c64dd8b62c,improvement
+120,after-the-sunrise_ftx4j,2,0,4,0,0,0,2,0,0,0,2,0,maven,false,open source,95,acd4e28339b520db50db15e17df53fc2d2da0061,improvement
+102,DanieleSalvalaglio_Keycloak-custom-auth-spi,3,2,72,53,11,7,36,26,24,20,1,0,maven,false,open source,525,671081ab297c30b929159e1cab46bb057de1bca2,improvement
+129,kodedge-swapneel_springboot-aws-deploy,3,0,52,0,9,0,19,0,23,0,1,0,maven,true,open source,86,08d56d7849bcd8592324c4da4eff67f7ce38cf4f,improvement
+128,ahmetuygun_VisaApplication,3,3,48,41,5,5,18,18,24,17,1,1,maven,true,open source,362,974c719cead8d745b7c55e75fc915f42d8bbc6a9,improvement
+142,teten-nugraha_spring-data-jpa-dynamic-where,5,1,98,1,9,0,42,0,45,1,2,0,maven,false,open source,93,88a840d826606adfea7302b8c3a91cbbfecfbe80,improvement
+143,Java-Techie-jt_springboot-docker-ecs,2,0,91,0,6,0,41,0,38,0,6,0,maven,true,open source,85,0cff0dd4b05d5eab805f4c8b84b2004e3c2e17b5,improvement
+147,pilloPl_gearbox,0,0,0,0,0,0,0,0,0,0,0,0,maven,true,open source,51,4eff7d368d662eb9a3c4bfba5006661a34e8d56f,no improvement
+146,Alickess_DormitorySystem,22,7,358,81,14,4,142,35,136,28,66,14,maven,false,open source,399,e73579148193e9b5f94b6b9d3651de859ad4ee35,improvement
+115,pdaodao_hello-flink,12,12,170,168,3,3,64,63,80,79,23,23,maven,false,open source,1651,5631a98b8c159cb67d06b2ccbfcc0aebd8973f7e,improvement
+157,TechnocratSid_spring-spark-word-count,3,1,275,55,9,3,69,21,147,26,50,5,maven,false,open source,419,74ee46f6fb6ae00bc979b8302b8b7b1687a32295,improvement
+161,HTBWell_shiro-jwt,8,5,236,51,10,6,82,18,102,26,42,1,maven,false,open source,375,f9a4551d699ff6951f8a7fa9372b4499294df51a,improvement
+162,Wildrimak_ambiente-desenvolvimento-docker-com-spring,6,0,140,0,10,0,62,0,57,0,11,0,maven,true,open source,140,413d503f370e5645cb98156a8432bbea3f298726,improvement
+159,ajiuyue_springboot-aliyun-oss,4,4,136,136,8,8,60,60,59,59,9,9,maven,true,open source,924,12750aafd2e3aa4948aa6477f48ecdf26b889384,no improvement
+160,guangee_demo_upload,5,3,211,157,7,7,54,47,111,78,39,25,maven,true,open source,801,6e29fab12e013c8c0c92e995a882bb0fa768d0e1,improvement
+164,MJavedAli_selenium-java-testng-starter,10,5,56,17,2,1,33,6,13,5,8,5,maven,false,open source,590,9c00e9dd2fed95344cbb08e9dc1d9592238fb2ee,improvement
+163,github4codedebugger_OAuth-service-Springboot,5,5,152,138,6,6,64,58,69,62,13,12,maven,false,open source,608,95cd4839837fd4f2770d8d99c1c5431228ed53b0,improvement
+166,GL3-2021-2020_JEE-TP4,1,1,9,1,0,0,3,0,6,1,0,0,maven,false,open source,49,9906ba2ed7357b5e8aaf5b8fa3c276d8d50c2eca,improvement
+168,praveenLT_java-testng-js-exception-log-se4,2,0,29,0,2,0,17,0,9,0,1,0,maven,false,open source,78,749e2290532da99a2970f59b782ab4e133b9687e,improvement
+167,RameshMF_spring-data-rest-tutorial,5,1,67,1,9,0,24,0,33,1,1,0,maven,true,open source,138,4116feffd437350c0c0c261c59a3f82ed2520c94,improvement
+165,bluvolve-dev_reactive-course-service,9,8,268,63,15,13,124,24,111,23,18,3,maven,true,open source,644,044c45837d30e2bd9cdc5819a9ee1f32b8a03ddf,improvement
+171,jcasbin_casbin-spring-boot-example,4,1,118,1,9,0,50,1,51,0,8,0,maven,false,open source,93,496db296fe97da0e224900c26f1f24fbc2323396,improvement
+172,djvelimir_demo-java-spring-boot,5,0,88,0,8,0,39,0,38,0,3,0,maven,true,open source,131,fc3ab1fdc28fe2951ab4f66272ff725e8b26c4cd,improvement
+173,chuangtc_spring-boot-3.0-facebook-login,8,1,119,1,15,0,38,1,61,0,5,0,maven,false,open source,109,9980fa69b810534839b2da59a8d865cc1baa6f87,improvement
+177,0WhiteDev_Java-Process-Inspector,0,0,0,0,0,0,0,0,0,0,0,0,maven,false,open source,38,6249983183545c0596f39702d39d171b56ab7318,no improvement
+170,LinkinW92_trace-agent,3,1,92,37,6,4,38,15,41,16,7,2,maven,false,open source,406,d72d6f9a8c3fec8ca34112618a6f79a146d657e2,improvement
+189,praveenLT_java-testng-cdp-device-mode,2,0,29,0,2,0,17,0,9,0,1,0,maven,false,open source,63,a795e539575e946536f82de97e83611da91da09a,improvement
+190,praveenLT_java-testng-cdp-console-test,2,0,29,0,2,0,17,0,9,0,1,0,maven,false,open source,63,c4e5340852e3db6429ab616106e8d4ce53b39c13,improvement
+193,Java-Techie-jt_JPA-ManyToMany,4,1,91,1,8,0,39,0,42,1,2,0,maven,false,open source,115,34ccdc1de2e450a653e7b4b4ee4d8d6272e4c63e,improvement
+194,qiuChengleiy_spring-cloud-all,14,7,331,71,19,3,142,30,142,30,28,8,maven,false,open source,140,7d4744bc2d88ed93e419df7f4f0c464d54ea58b9,improvement
+205,capital-com-sv_api-java-samples,5,1,127,1,5,0,31,1,73,0,18,0,maven,false,open source,253,76ddb6b4439ee3b9ae3feb9ca3b8e4a2f4b4fffb,improvement
+188,devsuperior_bds05,7,7,265,265,12,12,97,97,122,122,34,34,maven,false,open source,936,789913aacc4461b1d7ba42301205fa4d5f40581d,no improvement
+200,alejandrocalderonhernandez_spring-boot-3-and-spring-framework-6,16,11,187,116,23,17,61,35,97,62,6,2,maven,false,open source,1148,56b924af91fbd8ed1ef13d4dfd37a060954863a5,improvement
+222,francoiducat_springboot-minimal-graphql-client,4,0,156,0,9,0,68,0,68,0,11,0,maven,true,open source,129,7be8026e3771e00b4c093e8541b23bfe1b7f6825,improvement
+214,cavanosa_cloudinaryrest,5,5,144,144,8,8,64,64,63,63,9,9,maven,false,open source,997,595e26b91aad6412cade07cb9ed82634216db776,no improvement
+218,170309_rfbackend,22,21,700,696,22,22,202,201,375,372,101,101,maven,false,open source,3081,261e89bbabc08724f2007a6e9b2703d69468e30d,improvement
+209,stepfortune_socket,17,17,801,801,21,21,260,260,353,353,167,167,maven,false,open source,3600,5a58d6478aaaa43e0029a6197beb50fc555e0720,no improvement
+
